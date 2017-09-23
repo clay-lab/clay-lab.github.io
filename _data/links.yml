@@ -1,0 +1,14 @@
+- group: Affiliated Groups
+  links:
+    - name: "Krishnaswamy Lab"
+      description: Computational Biology Group at Yale 
+      url: "https://medicine.yale.edu/lab/krishnaswamy/"
+    - name: "I.I.D. Group"
+      description: Inference, Information and Decision (I.I.D.) Systems Group
+      url: "http://iid.yale.edu/"
+    - name: "LILY"
+      description: NLP Group at Yale
+      url: "https://yale-lily.github.io/"
+    - name: "Zucker Lab"
+      description: Computational Vision Group at Yale
+      url: "http://www.cs.yale.edu/homes/vision/zucker/"
