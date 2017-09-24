@@ -1,12 +1,22 @@
 papers:
-    - title: "Graph-based Neural Multi-Document Summarization" 
-      authors: "Michihiro Yasunaga, Rui Zhang, Kshitijh Meelu, Ayush Pareek, Krishnan Srinivasan and Dragomir Radev"
-      conference: "Proceedings of Computational Natural Language Learning (CoNLL-2017)"
-      pdf : "https://arxiv.org/abs/1706.06681" 
-      image : /images/michi.png
-      bibtex: /bibtex/michi.txt
-      code: "https://github.com/michiyasunaga/graph_neural_mds"
-    - title: "Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs" 
-      authors: "Rui Zhang, Honglak Lee, Lazaros Polymenakos, Dragomir Radev"
-      pdf: "https://arxiv.org/abs/1709.04005"
-      image: /images/SIRNN.png
+    - title: "TAG Parsing with Neural Networks and Vector Representations of Supertags" 
+      authors: "Jungo Kasai, Robert Frank, R. Thomas McCoy, Owen Rambow, and Alexis Nasr"
+      conference: "Conference on Empirical Methods in Natural Language Processing (EMNLP 2017)"
+      pdf : "http://www.aclweb.org/anthology/D17-1180"
+      image: "/images/bilstm.png"
+      bibtex: "http://www.aclweb.org/anthology/D/D17/D17-1180.bib"
+      code: "https://github.com/jungokasai/bilstm_stagging"
+
+    - title: "Linguistically Rich Vector Representations of Supertags for TAG Parsing" 
+      authors: "Dan Friedman*, Jungo Kasai*, R. Thomas McCoy*, Robert Frank, Owen Rambow and Forrest Davis"
+      conference: "Proceedingsof the 13th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+13)"
+      pdf : "http://www.aclweb.org/anthology/W/W17/W17-6213.pdf"
+      bibtex: "http://www.aclweb.org/anthology/W/W17/W17-6213.bib"
+      image: "/images/pca_inf_300.png"
+
+    - title: "TAG Parsing Evaluation using Textual Entailments" 
+      authors: "Pauli Xu, Robert Frank, Jungo Kasai and Owen Rambow"
+      conference: "Proceedingsof the 13th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+13)"
+      pdf : "http://www.aclweb.org/anthology/W/W17/W17-6214.pdf"
+      bibtex: "http://www.aclweb.org/anthology/W/W17/W17-6214.bib"
+      image: "/images/coordination_transformations.png"
