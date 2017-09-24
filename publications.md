@@ -4,31 +4,33 @@ title: Publications
 permalink: /publications/
 ---
 
+<center><a href="https://yale-lily.github.io/"><img src="/lily-logo.png" alt="test image" width="20%" height="20%"></a></center>
   <header class="post-header">
     <h2 class="post-title">Publications</h2>
   </header> 
 
-{% for link in site.data.publications %}
+<table>
+{% for paper in site.data.papers.papers %}
 
-<table class="table table-striped table-hover">
-{% for link in link.links %}
-    <tr>
-        <td> 
-           <a href="{{link.url}}">{{link.name}}</a> 
-        </td>
-        <td> {{ link.description }}  </td>
-    </tr>
+
+  <tr><td style="padding:10px">
+{% if paper.image %}<img width="250px" src="{{paper.image}}"> {% endif %}
+</td><td style="padding:10px">
+<a class="paper" href="{{paper.pdf}}">
+{{paper.title}}
+</a><br>
+{{paper.authors}}<br>
+{{paper.conference}} <br>
+
+{% if paper.pdf %}<a class="btn btn-labeled btn-primary" href="{{paper.pdf}}">PDF</a>{% endif %}
+{% if paper.arXiv %}<a class="btn btn-labeled btn-primary" href="{{paper.pdf}}">arXiv</a>{% endif %}
+{% if paper.bibtex %}<a class="btn btn-labeled btn-primary" href="{{paper.bibtex}}">BibTex</a>{% endif %}
+{% if paper.code %}<a class="btn btn-labeled btn-primary" href="{{paper.code}}">Code</a>{% endif %}
+<br>
+
+</td></tr>
+
 {% endfor %}
 </table>
-{% endfor %}
-
-<style>
-#pubTable_filter{
-    display:none;
-}
-</style>
-
-<table id="pubTable" class="table table-hover"></table>
-
 
 

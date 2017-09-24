@@ -16,7 +16,7 @@ permalink: /members/
 <div class = "people-list">
 {% for person in site.data.members.faculty %}
     <div class ="imageContainer">
-            <img src="{{person.photo | prepend: site.member_photos}} ">
+    <img src="{{person.photo | prepend: site.member_photos}} " width="150" height="150">
             <p>
                     {% if person.title %}
                         {{person.name}} <br>{{ person.title }}
@@ -41,7 +41,7 @@ permalink: /members/
 <div class = "people-list">
 {% for person in site.data.members.graduate %}
     <div class ="imageContainer">
-            <img src="{{person.photo | prepend: site.member_photos}} " width="120" height="120">
+            <img src="{{person.photo | prepend: site.member_photos}} " width="150" height="150">
             <p>
                     {% if person.title %}
                         {{person.name}} <br> {{ person.title }}<br>
@@ -72,7 +72,7 @@ permalink: /members/
 <div class = "people-list">
 {% for person in site.data.members.undergraduate %}
     <div class ="imageContainer">
-            <img src="{{person.photo | prepend: site.member_photos}} " width="120" height="120">
+            <img src="{{person.photo | prepend: site.member_photos}} " width="150" height="150">
             <p>
                     {% if person.title %}
                         {{person.name}} <br>Class of {{ person.title }}<br>
