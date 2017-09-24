@@ -9,9 +9,9 @@
 title:  
 #email: dragomir.radev@yale.edu 
 description: > # this means to ignore newlines until "baseurl:"
-  Website for Machine Learning at Yale University
+  Website for Computational Linguistics at Yale
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yale-lily.github.io/" # the base hostname & protocol for your site
+url: "http://clay-yale.github.io/" # the base hostname & protocol for your site
 #twitter_username: 
 #github_username: Yale-LILY
 
