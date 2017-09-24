@@ -1,59 +1,17 @@
 faculty:
-    - name : Dana Angluin
-      url: http://cpsc.yale.edu/people/dana-angluin
-      photo: /images/dana_angluin.jpg
-      email: dana.angluin@yale.edu
-      title : Professor
 
-    - name : Ronald Coifman
-      url: http://cpsc.yale.edu/people/ronald-coifman 
-      photo: /images/ronald_coifman.jpg
-      email: coifman-ronald@yale.edu 
-      title : Professor
+    - name : Robert Frank
+      photo: /photos/test.jpg
+      email: bob.frank@yale.edu
+      title : Professor, Chair
 
-    - name : Amin Karbasi
-      url: http://iid.yale.edu/people/amin-karbasi
-      email: amin.karbasi@yale.edu  
-      title : Assistant Professor
-      photo: /images/amin_karbasi.jpg
+graduate:
 
-    - name : Smita Krishnaswamy
-      url: https://medicine.yale.edu/lab/krishnaswamy/smita_krishnaswamy.profile
-      photo: /images/smita_krishnaswamy.jpg
-      email: smita.krishnaswamy@yale.edu
-      title : Assistant Professor
+undergraduate:
 
-    - name : John Lafferty
-      url: http://galton.uchicago.edu/~lafferty/
-      title : Professor
-      photo: /images/john_lafferty.jpg
-
-    - name : Sahand Negahban
-      url: http://www.stat.yale.edu/~snn7/
-      photo: /images/sahand_negahban.jpg
-      email: sahand.negahban@yale.edu 
-      title : Assistant Professor
-
-    - name : Dragomir Radev
-      url: http://www.cs.yale.edu/~radev/
-      photo: /images/dragomir_radev.jpg
-      email: dragomir.radev@yale.edu
-      title : Professor
-
-    - name : Daniel Spielman
-      url: http://cs-www.cs.yale.edu/homes/spielman/
-      photo: /images/daniel_spielman.jpg
-      email: spielman@cs.yale.edu  
-      title : Professor
-
-    - name : Sekhar Tatikonda
-      url: https://www.eng.yale.edu/sekhar/
-      email: sekhar.tatikonda@yale.edu
-      title : Associate Professor
-      photo: /images/sekhar_tatikonda.bmp
-
-    - name : Steven Zucker
-      url: http://seas.yale.edu/faculty-research/faculty-directory/steven-zucker
-      email: steven.zucker@yale.edu
-      title : Professor
-      photo: /images/steven_zucker.jpg
+    - name : Jungo Kasai
+      github: jungokasai
+      url: https://jungokasai.github.io/
+      photo: /photos/jungo_profile.jpg
+      email: jungo.kasai@yale.edu
+      title: 2017
