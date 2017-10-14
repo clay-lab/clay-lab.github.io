@@ -20,3 +20,8 @@ papers:
       pdf : "http://www.aclweb.org/anthology/W/W17/W17-6214.pdf"
       bibtex: "http://www.aclweb.org/anthology/W/W17/W17-6214.bib"
       image: "/images/coordination_transformations.png"
+
+    - title: "Harmonic Serialism and Finite-State Optimality Theory" 
+      authors: "Yiding Hao"
+      conference: "Proceedings of the 13th International Conference on Finite State Methods and Natural Language Processing"
+      pdf : "http://aclweb.org/anthology/W/W17/W17-4003.pdf"
