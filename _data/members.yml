@@ -23,39 +23,41 @@ undergraduate:
       photo: /photos/test.jpg
       email: noah.amsel@yale.edu
       url: https://www.linkedin.com/in/noah-amsel/
-      title : Class of 2020
+      title : 2020
 
     - name : Andrew Benz
       photo: /photos/test.jpg
       email: andrew.benz@yale.edu
-      title : Class of 2021
+      title : 2021
 
     - name : Simon Mendelsohn
       photo: /photos/test.jpg
       email: simon.mendelsohn@yale.edu
-      title : Class of 2020
+      title : 2020
 
     - name : Will Merrill
       photo: /photos/test.jpg
       email: william.merrill@yale.edu
-      title : Class of 2019
+      title : 2019
 
     - name : Aarohi Srivastava
       photo: /photos/test.jpg
       email: aarohi.srivastaval@yale.edu
-      title : Class of 2021
+      title : 2021
 
 alumni:
 
-    - name :Michael Freedman
+    - name : Michael Freedman
       photo: /photos/test.jpg
       url: https://www.linkedin.com/in/michael-freedman-92a48882/
-      title : Computational Linguist, Ntrepid Corp
+      title : Computational Linguist
+      location: Ntrepid Corp
 
     - name : Dan Friedman
       photo: /photos/test.jpg
       url: https://www.linkedin.com/in/dan-friedman-4464669a/
-      title : Software Engineer, Google
+      title : Software Engineer
+      location: Google
 
     - name : Sarah Gross
       photo: /photos/test.jpg
@@ -65,36 +67,41 @@ alumni:
       photo: /photos/test.jpg
       email: timhunter@ucla.edu
       url: http://linguistics.ucla.edu/people/hunter/
-      title : Assistant Professor, Linguistics, UCLA
+      title : Assistant Professor
+      location: Linguistics, UCLA
 
     - name : Jungo Kasai
-      github: jungokasai
       url: https://jungokasai.github.io/
       photo: /photos/jungo_profile.jpg
       email: jkasai@cs.washington.edu
-      title: PhD student, Computer Science, University of Washington
+      title: PhD student
+      location: Computer Science <br> Univ of Washington
 
     - name : Rebecca Marvin
-      url:https://www.linkedin.com/in/beckycmarvin/
-      photo: /photos/jungo_profile.jpg
+      url: https://www.linkedin.com/in/beckycmarvin/
+      photo: /photos/test.jpg
       email: becky.marvin@jhu.edu
-      title: PhD student, Computer Science, Johns Hopkins University
+      title: PhD student
+      location: Computer Science <br> Johns Hopkins Univ
 
     - name : Tom McCoy
       photo: /photos/test.jpg
       url: https://tommccoy1.github.io
-      email:tom.mccoy@jhu.edu
-      title : PhD student, Cognitive Science, Johns Hopkins University
+      email: tom.mccoy@jhu.edu
+      title : PhD student
+      location: Cognitive Science <br> Johns Hopkins Univ
 
     - name : Natalie Schrimpf
       photo: /photos/test.jpg
       url: https://www.linkedin.com/in/natalie-schrimpf-8214579b/
-      title : Lecturer, Linguistics, Dartmouth University
+      title : Lecturer
+      location: Linguistics <br> Dartmouth Univ
 
     - name : Rose Sloan
       photo: /photos/test.jpg
       url: http://www.cs.columbia.edu/speech/people.cgi?p=rose
-      title : PhD student, Computer Science, Columbia University
+      title : PhD student
+      location: Computer Science <br> Columbia Univ
 
     - name : Pauli Xu
       photo: /photos/test.jpg

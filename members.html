@@ -50,7 +50,7 @@ permalink: /members/
                     {% if person.github %}
                           <a href="https://github.com/{{ person.github }}"> Github </a> <br>
                     {% else %}
-                        <br>
+<!--                        <br> -->
                     {% endif %}
                     {% if person.url %}
                           <a href="{{ person.url }}"> Website </a> <br>
@@ -94,7 +94,35 @@ permalink: /members/
 {% endfor %}
 </div>
 
-
+<div style="clear:left;"></div> 
+<h3> Alumni </h3>
+<hr>
+<div class = "people-list">
+{% for person in site.data.members.alumni %}
+    <div class ="imageContainer">
+            <img src="{{person.photo | prepend: site.member_photos}} " width="150" height="150">
+            <p>
+                    {% if person.title %}
+                        {{person.name}} <br> {{ person.title }} <br>
+      {{ person.location }}<br>
+                    {% else %}
+                        {{ person.name }} <br> <!-- <br> -->
+                    {% endif %}
+                    {% if person.github %}
+                          <a href="https://github.com/{{ person.github }}"> Github </a> <br>
+                    {% else %}
+<!--                        <br> -->
+                    {% endif %}
+                    {% if person.url %}
+                          <a href="{{ person.url }}"> Website </a> <br>
+                    {% else %}
+                        <br>
+                    {% endif %}
+                    <!-- <a href = "mailto:{{person.email}}"> {{person.email}}</a><br> -->
+                </p>
+    </div>
+{% endfor %}
+</div>
 
 <!-- {% for paper in site.data.papers.papers %}
 
