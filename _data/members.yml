@@ -1,7 +1,7 @@
 faculty:
 
     - name : Dana Angluin
-      photo: /photos/dana_profile.jpg
+      photo: https://seas.yale.edu/sites/default/files/imagecache/person/angluin-web.jpg
       email: dana.angluin@yale.edu
 
     - name : Robert Frank
