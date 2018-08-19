@@ -57,9 +57,9 @@ papers:
       conference: "Proceedings of the 12th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+12), 2016."
       pdf : "http://www.aclweb.org/anthology/W16-3308"
       bibtex: "https://aclanthology.info/papers/W16-3308/w16-3308.bib"
-
+      
     - title: "Parasitic Gaps and the Heterogeneity of Dependency Formation in STAG" 
-      authors: "Robert Frank and Dennis Ryan Storoshenko
+      authors: "Robert Frank and Dennis Ryan Storoshenko"
       conference: "Proceedings of the 12th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+12), 2016."
       pdf : "http://www.aclweb.org/anthology/W16-3312"
       bibtex: "https://aclanthology.info/papers/W16-3312/w16-3312.bib"
