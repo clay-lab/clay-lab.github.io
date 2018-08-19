@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- <title></title> -->
+  <meta name="description" content="Website for Computational Linguistics at Yale
+">
+<link rel="icon" type="image/png" href="/yale.png" />
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/members/">
+  <!--- <link rel="alternate" type="application/rss+xml" title="" href="http://localhost:4000/feed.xml"> ---> 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+<script src="/bib-list.js"></script>
+
+<link rel="stylesheet" href="/bib-publication-list.css" type="text/css" />
+
+
+<!-- Optional theme -->
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous"> -->
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+</head>
+
+
+  <body>
+
+    
+<!--  <div class="wrapper">
+
+<span><a class="site-title" href="https://www.yale.edu/"><img src="/yale_header.png"></a></span> 
+
+    <nav class="site-nav">
+      <span class="menu-icon" onclick="void(0)">
+        
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+        </span>
+      </div>
+
+      <div class="trigger" onclick="void(0)">
+        
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/" style="color: white;">About</a>
+          
+        
+          
+          <a class="page-link" href="/links/" style="color: white;">Links</a>
+          
+        
+          
+          <a class="page-link" href="/members/" style="color: white;">Members</a>
+          
+        
+          
+          <a class="page-link" href="/publications/" style="color: white;">Publications</a>
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header> -->
+
+
+<header class="site-header" style="background-color: #0c4c92;">
+
+  <div class="wrapper">
+
+
+    <span><a class="site-title" href="https://www.yale.edu/"><img src="/yale_header.png" height="40"></a></span> 
+<!--    <span><a class="site-title" href="/"><img src="/lily-logo.png" height="40"></a></span> -->
+
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/" style="color: white;">About</a>
+          
+        
+          
+          <a class="page-link" href="/links/" style="color: white;">Links</a>
+          
+        
+          
+          <a class="page-link" href="/members/" style="color: white;">Members</a>
+          
+        
+          
+          <a class="page-link" href="/publications/" style="color: white;">Publications</a>
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <article class="post">
+
+  <!-- <header class="post-header">
+    <h2 class="post-title">Members</h1>
+  </header> -->
+
+  <div class="post-content">
+      <header class="post-header">
+    <h2 class="post-title">Members</h2>
+  </header> 
+
+<br>
+<h3> Faculty </h3>
+<hr>
+<div class = "people-list">
+
+    <div class ="imageContainer">
+    <img src="https://seas.yale.edu/sites/default/files/imagecache/person/angluin-web.jpg " width="150" height="150">
+            <p>
+                    
+                        Dana Angluin <br>
+                    
+                    
+                    <!-- <a href = "mailto:dana.angluin@yale.edu"> dana.angluin@yale.edu</a><br> -->
+                    
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+    <img src="/photos/bob_profile.png " width="150" height="150">
+            <p>
+                    
+                        Robert Frank <br>
+                    
+                    
+                          <a href="https://bobfrank1.github.io"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:bob.frank@yale.edu"> bob.frank@yale.edu</a><br> -->
+                    
+                </p>
+    </div>
+
+</div>
+<div style="clear:left;"></div> 
+<h3> Graduate Students </h3>
+<hr>
+<div class = "people-list">
+
+    <div class ="imageContainer">
+            <img src="https://ling.yale.edu/sites/default/files/styles/medium/public/pictures/picture-115-1516231237.jpg " width="150" height="150">
+            <p>
+                    
+                        Yiding Hao <br> PhD student<br>
+                    
+                    
+<!--                        <br> -->
+                    
+                    
+                          <a href="https://yale.academia.edu/YidingHao"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:yiding.hao@yale.edu"> yiding.hao@yale.edu</a><br> -->
+                </p>
+    </div>
+
+</div>
+
+
+<div style="clear:left;"></div> 
+
+<h3> Undergraduate Students </h3>
+<hr>
+<div class = "people-list">
+
+    <div class ="imageContainer">
+            <img src="https://media.licdn.com/dms/image/C4D03AQGesZ4GglJ1Ig/profile-displayphoto-shrink_800_800/0?e=1540425600&v=beta&t=oT6eQIWDI3g7vPQArnHW99C9deBR7srYaRkJyJugY5w " width="150" height="150">
+            <p>
+                    
+                        Noah Amsel <br>Class of 2020<br>
+                    
+                    
+                          <!-- <br> -->
+                    
+                    
+                          <a href="https://www.linkedin.com/in/noah-amsel/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:noah.amsel@yale.edu"> noah.amsel@yale.edu</a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/photos/test.jpg " width="150" height="150">
+            <p>
+                    
+                        Andrew Benz <br>Class of 2021<br>
+                    
+                    
+                          <!-- <br> -->
+                    
+                    
+                        <br>
+                    
+                    <!-- <a href = "mailto:andrew.benz@yale.edu"> andrew.benz@yale.edu</a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="https://media.licdn.com/dms/image/C4D03AQE_wQcTUVj9ng/profile-displayphoto-shrink_800_800/0?e=1540425600&v=beta&t=QeHhJT3y9QA-IaOXGX-7nIqSV33LI2YvYGcHhuUbzqc " width="150" height="150">
+            <p>
+                    
+                        Simon Mendelsohn <br>Class of 2020<br>
+                    
+                    
+                          <!-- <br> -->
+                    
+                    
+                        <br>
+                    
+                    <!-- <a href = "mailto:simon.mendelsohn@yale.edu"> simon.mendelsohn@yale.edu</a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/photos/will_profile.jpg " width="150" height="150">
+            <p>
+                    
+                        Will Merrill <br>Class of 2019<br>
+                    
+                    
+                          <!-- <br> -->
+                    
+                    
+                          <a href="https://viking-sudo-rm.github.io"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:william.merrill@yale.edu"> william.merrill@yale.edu</a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/photos/test.jpg " width="150" height="150">
+            <p>
+                    
+                        Aarohi Srivastava <br>Class of 2021<br>
+                    
+                    
+                          <!-- <br> -->
+                    
+                    
+                        <br>
+                    
+                    <!-- <a href = "mailto:aarohi.srivastaval@yale.edu"> aarohi.srivastaval@yale.edu</a><br> -->
+                </p>
+    </div>
+
+</div>
+
+<div style="clear:left;"></div> 
+<h3> Alumni </h3>
+<hr>
+<div class = "people-list">
+
+    <div class ="imageContainer">
+            <img src="/photos/test.jpg " width="150" height="150">
+            <p>
+                    
+                        Michael Freedman <br> Computational Linguist <br>
+      Ntrepid Corp<br>
+                    
+                    
+<!--                        <br> -->
+                    
+                    
+                          <a href="https://www.linkedin.com/in/michael-freedman-92a48882/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:"> </a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/photos/dan_profile.jpg " width="150" height="150">
+            <p>
+                    
+                        Dan Friedman <br> Software Engineer <br>
+      Google<br>
+                    
+                    
+<!--                        <br> -->
+                    
+                    
+                          <a href="https://www.linkedin.com/in/dan-friedman-4464669a/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:"> </a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/photos/test.jpg " width="150" height="150">
+            <p>
+                    
+                        Sarah Gross <br> <!-- <br> -->
+                    
+                    
+<!--                        <br> -->
+                    
+                    
+                          <a href="https://www.linkedin.com/in/sarah-gross-46b38810a/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:"> </a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/photos/tim_profile.jpg " width="150" height="150">
+            <p>
+                    
+                        Tim Hunter <br> Assistant Professor <br>
+      Linguistics, UCLA<br>
+                    
+                    
+<!--                        <br> -->
+                    
+                    
+                          <a href="http://linguistics.ucla.edu/people/hunter/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:timhunter@ucla.edu"> timhunter@ucla.edu</a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="https://www.umass.edu/linguistics/sites/default/files/store/img/cfm/gaja_jarosz.jpg " width="150" height="150">
+            <p>
+                    
+                        Gaja Jarosz <br> Associate Professor <br>
+      Linguistics, UMass<br>
+                    
+                    
+<!--                        <br> -->
+                    
+                    
+                          <a href="http://blogs.umass.edu/jarosz/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:jarosz@linguist.umass.edu"> jarosz@linguist.umass.edu</a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/photos/jungo_profile.jpg " width="150" height="150">
+            <p>
+                    
+                        Jungo Kasai <br> PhD student <br>
+      Computer Science <br> Univ of Washington<br>
+                    
+                    
+<!--                        <br> -->
+                    
+                    
+                          <a href="https://jungokasai.github.io/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:jkasai@cs.washington.edu"> jkasai@cs.washington.edu</a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="https://psycholing.web.jhu.edu/images/beckypic.png " width="150" height="150">
+            <p>
+                    
+                        Rebecca Marvin <br> PhD student <br>
+      Computer Science <br> Johns Hopkins Univ<br>
+                    
+                    
+<!--                        <br> -->
+                    
+                    
+                          <a href="https://www.linkedin.com/in/beckycmarvin/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:becky.marvin@jhu.edu"> becky.marvin@jhu.edu</a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="https://psycholing.web.jhu.edu/images/tompic.png " width="150" height="150">
+            <p>
+                    
+                        Tom McCoy <br> PhD student <br>
+      Cognitive Science <br> Johns Hopkins Univ<br>
+                    
+                    
+<!--                        <br> -->
+                    
+                    
+                          <a href="https://tommccoy1.github.io"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:tom.mccoy@jhu.edu"> tom.mccoy@jhu.edu</a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="https://media.licdn.com/dms/image/C4E03AQG_Fh0PwPMFJg/profile-displayphoto-shrink_800_800/0?e=1540425600&v=beta&t=AZzgXHXdsvUJiRfsmatzJi2MjKuI6YwOBmhpTgL6Q9w " width="150" height="150">
+            <p>
+                    
+                        Natalie Schrimpf <br> Lecturer <br>
+      Linguistics <br> Dartmouth Univ<br>
+                    
+                    
+<!--                        <br> -->
+                    
+                    
+                          <a href="https://www.linkedin.com/in/natalie-schrimpf-8214579b/"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:"> </a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="http://www.cs.columbia.edu/speech/images/ph_rose.jpg " width="150" height="150">
+            <p>
+                    
+                        Rose Sloan <br> PhD student <br>
+      Computer Science <br> Columbia Univ<br>
+                    
+                    
+<!--                        <br> -->
+                    
+                    
+                          <a href="http://www.cs.columbia.edu/speech/people.cgi?p=rose"> Website </a> <br>
+                    
+                    <!-- <a href = "mailto:"> </a><br> -->
+                </p>
+    </div>
+
+    <div class ="imageContainer">
+            <img src="/photos/test.jpg " width="150" height="150">
+            <p>
+                    
+                        Pauli Xu <br> <!-- <br> -->
+                    
+                    
+<!--                        <br> -->
+                    
+                    
+                        <br>
+                    
+                    <!-- <a href = "mailto:"> </a><br> -->
+                </p>
+    </div>
+
+</div>
+
+<!-- 
+
+<table>
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="https://arxiv.org/pdf/1802.09091.pdf">
+Revisiting the poverty of the stimulus: hierarchical generalization without a hierarchical bias in recurrent neural networks
+</a><br>
+R. Thomas McCoy, Robert Frank, Tal Linzen.<br>
+Proceedings of the 40th Annual Conference of the Cognitive Science Society, 2018. <br>
+
+<a class="icon pdf label label-info" href="https://arxiv.org/pdf/1802.09091.pdf">pdf</a> 
+
+
+<br>
+
+</td></tr>
+
+
+
+<table>
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="http://aclweb.org/anthology/N18-1107">
+End-to-End Graph-Based TAG Parsing with Neural Networks
+</a><br>
+Jungo Kasai, Robert Frank, Pauli Xu, William Merrill, and Owen Rambow.<br>
+Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2018. <br>
+
+<a class="icon pdf label label-info" href="http://aclweb.org/anthology/N18-1107">pdf</a> 
+
+ <a class="icon slides label label-success label-warning" href="https://github.com/jungokasai/graph_parser">code</a>
+<br>
+
+</td></tr>
+
+
+
+<table>
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="http://aclweb.org/anthology/W18-0311">
+Phonologically Informed Edit Distance Algorithms for Word Alignment with Low-Resource Languages
+</a><br>
+R. Thomas McCoy and Robert Frank.<br>
+Proceedings of the Society for Computation in Linguistics, 2018. <br>
+
+<a class="icon pdf label label-info" href="http://aclweb.org/anthology/W18-0311">pdf</a> 
+
+
+<br>
+
+</td></tr>
+
+
+
+<table>
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="http://aclweb.org/anthology/W18-0313">
+Using Rhetorical Topics for Automatic Summarization
+</a><br>
+Natalie Schrimpf.<br>
+Proceedings of the Society for Computation in Linguistics, 2018. <br>
+
+<a class="icon pdf label label-info" href="http://aclweb.org/anthology/W18-0313">pdf</a> 
+
+
+<br>
+
+</td></tr>
+
+
+
+<table>
+  <tr><td style="padding:10px">
+<img width="100px" src="/images/bilstm.png"> 
+</td><td style="padding:10px">
+<a class="paper" href="http://www.aclweb.org/anthology/D17-1180">
+TAG Parsing with Neural Networks and Vector Representations of Supertags
+</a><br>
+Jungo Kasai, Robert Frank, R. Thomas McCoy, Owen Rambow, and Alexis Nasr.<br>
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017. <br>
+
+<a class="icon pdf label label-info" href="http://www.aclweb.org/anthology/D17-1180">pdf</a> 
+
+ <a class="icon slides label label-success label-warning" href="https://github.com/jungokasai/bilstm_stagging">code</a>
+<br>
+
+</td></tr>
+
+
+
+<table>
+  <tr><td style="padding:10px">
+<img width="100px" src="/images/pca_inf_300.png"> 
+</td><td style="padding:10px">
+<a class="paper" href="http://www.aclweb.org/anthology/W/W17/W17-6213.pdf">
+Linguistically Rich Vector Representations of Supertags for TAG Parsing
+</a><br>
+Dan Friedman, Jungo Kasai, R. Thomas McCoy, Robert Frank, Owen Rambow and Forrest Davis.<br>
+Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+13), 2017. <br>
+
+<a class="icon pdf label label-info" href="http://www.aclweb.org/anthology/W/W17/W17-6213.pdf">pdf</a> 
+
+
+<br>
+
+</td></tr>
+
+
+
+<table>
+  <tr><td style="padding:10px">
+<img width="100px" src="/images/coordination_transformations.png"> 
+</td><td style="padding:10px">
+<a class="paper" href="http://www.aclweb.org/anthology/W/W17/W17-6214.pdf">
+TAG Parsing Evaluation using Textual Entailments
+</a><br>
+Pauli Xu, Robert Frank, Jungo Kasai and Owen Rambow.<br>
+Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+13), 2017. <br>
+
+<a class="icon pdf label label-info" href="http://www.aclweb.org/anthology/W/W17/W17-6214.pdf">pdf</a> 
+
+
+<br>
+
+</td></tr>
+
+
+
+<table>
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="http://aclweb.org/anthology/W/W17/W17-4003.pdf">
+Harmonic Serialism and Finite-State Optimality Theory
+</a><br>
+Yiding Hao.<br>
+Proceedings of the 13th International Conference on Finite State Methods and Natural Language Processing, 2017. <br>
+
+<a class="icon pdf label label-info" href="http://aclweb.org/anthology/W/W17/W17-4003.pdf">pdf</a> 
+
+
+<br>
+
+</td></tr>
+
+
+
+<table>
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="http://www.aclweb.org/anthology/W16-3308">
+Node-based Induction of Tree-Substitution Grammars
+</a><br>
+Rose Sloan.<br>
+Proceedings of the 12th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+12), 2016. <br>
+
+<a class="icon pdf label label-info" href="http://www.aclweb.org/anthology/W16-3308">pdf</a> 
+
+
+<br>
+
+</td></tr>
+
+
+
+<table>
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="http://www.aclweb.org/anthology/W16-3312">
+Parasitic Gaps and the Heterogeneity of Dependency Formation in STAG
+</a><br>
+Robert Frank and Dennis Ryan Storoshenko.<br>
+Proceedings of the 12th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+12), 2016. <br>
+
+<a class="icon pdf label label-info" href="http://www.aclweb.org/anthology/W16-3312">pdf</a> 
+
+
+<br>
+
+</td></tr>
+
+
+</table>
+-->
+
+
+  </div>
+
+</article>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li></li>
+          <li><a href="mailto:"></a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          
+
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>Website for Computational Linguistics at Yale
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>

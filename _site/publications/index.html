@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- <title></title> -->
+  <meta name="description" content="Website for Computational Linguistics at Yale
+">
+<link rel="icon" type="image/png" href="/yale.png" />
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/publications/">
+  <!--- <link rel="alternate" type="application/rss+xml" title="" href="http://localhost:4000/feed.xml"> ---> 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+<script src="/bib-list.js"></script>
+
+<link rel="stylesheet" href="/bib-publication-list.css" type="text/css" />
+
+
+<!-- Optional theme -->
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous"> -->
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+</head>
+
+
+  <body>
+
+    
+<!--  <div class="wrapper">
+
+<span><a class="site-title" href="https://www.yale.edu/"><img src="/yale_header.png"></a></span> 
+
+    <nav class="site-nav">
+      <span class="menu-icon" onclick="void(0)">
+        
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+        </span>
+      </div>
+
+      <div class="trigger" onclick="void(0)">
+        
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/" style="color: white;">About</a>
+          
+        
+          
+          <a class="page-link" href="/links/" style="color: white;">Links</a>
+          
+        
+          
+          <a class="page-link" href="/members/" style="color: white;">Members</a>
+          
+        
+          
+          <a class="page-link" href="/publications/" style="color: white;">Publications</a>
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header> -->
+
+
+<header class="site-header" style="background-color: #0c4c92;">
+
+  <div class="wrapper">
+
+
+    <span><a class="site-title" href="https://www.yale.edu/"><img src="/yale_header.png" height="40"></a></span> 
+<!--    <span><a class="site-title" href="/"><img src="/lily-logo.png" height="40"></a></span> -->
+
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+        
+          
+        
+          
+        
+          
+          <a class="page-link" href="/" style="color: white;">About</a>
+          
+        
+          
+          <a class="page-link" href="/links/" style="color: white;">Links</a>
+          
+        
+          
+          <a class="page-link" href="/members/" style="color: white;">Members</a>
+          
+        
+          
+          <a class="page-link" href="/publications/" style="color: white;">Publications</a>
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <article class="post">
+
+  <!-- <header class="post-header">
+    <h2 class="post-title">Publications</h1>
+  </header> -->
+
+  <div class="post-content">
+    <header class="post-header">
+    <h2 class="post-title">Publications</h2>
+  </header>
+
+<table>
+
+
+
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="https://arxiv.org/pdf/1802.09091.pdf">
+Revisiting the poverty of the stimulus: hierarchical generalization without a hierarchical bias in recurrent neural networks
+</a><br />
+R. Thomas McCoy, Robert Frank, Tal Linzen<br />
+Proceedings of the 40th Annual Conference of the Cognitive Science Society, 2018. <br />
+
+<a class="btn btn-labeled btn-primary" href="https://arxiv.org/pdf/1802.09091.pdf">PDF</a>
+
+<a class="btn btn-labeled btn-primary" href="https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1802-09091">BibTex</a>
+
+<br />
+
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="http://aclweb.org/anthology/N18-1107">
+End-to-End Graph-Based TAG Parsing with Neural Networks
+</a><br />
+Jungo Kasai, Robert Frank, Pauli Xu, William Merrill, and Owen Rambow<br />
+Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2018. <br />
+
+<a class="btn btn-labeled btn-primary" href="http://aclweb.org/anthology/N18-1107">PDF</a>
+
+<a class="btn btn-labeled btn-primary" href="https://aclanthology.info/papers/N18-1107/n18-1107.bib">BibTex</a>
+<a class="btn btn-labeled btn-primary" href="https://github.com/jungokasai/graph_parser">Code</a>
+<br />
+
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="http://aclweb.org/anthology/W18-0311">
+Phonologically Informed Edit Distance Algorithms for Word Alignment with Low-Resource Languages
+</a><br />
+R. Thomas McCoy and Robert Frank<br />
+Proceedings of the Society for Computation in Linguistics, 2018. <br />
+
+<a class="btn btn-labeled btn-primary" href="http://aclweb.org/anthology/W18-0311">PDF</a>
+
+<a class="btn btn-labeled btn-primary" href="https://aclanthology.info/papers/W18-0311/w18-0311.bib">BibTex</a>
+
+<br />
+
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="http://aclweb.org/anthology/W18-0313">
+Using Rhetorical Topics for Automatic Summarization
+</a><br />
+Natalie Schrimpf<br />
+Proceedings of the Society for Computation in Linguistics, 2018. <br />
+
+<a class="btn btn-labeled btn-primary" href="http://aclweb.org/anthology/W18-0313">PDF</a>
+
+<a class="btn btn-labeled btn-primary" href="https://aclanthology.info/papers/W18-0311/w18-0313.bib">BibTex</a>
+
+<br />
+
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+<img width="250px" src="/images/bilstm.png" /> 
+</td><td style="padding:10px">
+<a class="paper" href="http://www.aclweb.org/anthology/D17-1180">
+TAG Parsing with Neural Networks and Vector Representations of Supertags
+</a><br />
+Jungo Kasai, Robert Frank, R. Thomas McCoy, Owen Rambow, and Alexis Nasr<br />
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017. <br />
+
+<a class="btn btn-labeled btn-primary" href="http://www.aclweb.org/anthology/D17-1180">PDF</a>
+
+<a class="btn btn-labeled btn-primary" href="http://www.aclweb.org/anthology/D/D17/D17-1180.bib">BibTex</a>
+<a class="btn btn-labeled btn-primary" href="https://github.com/jungokasai/bilstm_stagging">Code</a>
+<br />
+
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+<img width="250px" src="/images/pca_inf_300.png" /> 
+</td><td style="padding:10px">
+<a class="paper" href="http://www.aclweb.org/anthology/W/W17/W17-6213.pdf">
+Linguistically Rich Vector Representations of Supertags for TAG Parsing
+</a><br />
+Dan Friedman, Jungo Kasai, R. Thomas McCoy, Robert Frank, Owen Rambow and Forrest Davis<br />
+Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+13), 2017. <br />
+
+<a class="btn btn-labeled btn-primary" href="http://www.aclweb.org/anthology/W/W17/W17-6213.pdf">PDF</a>
+
+<a class="btn btn-labeled btn-primary" href="http://www.aclweb.org/anthology/W/W17/W17-6213.bib">BibTex</a>
+
+<br />
+
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+<img width="250px" src="/images/coordination_transformations.png" /> 
+</td><td style="padding:10px">
+<a class="paper" href="http://www.aclweb.org/anthology/W/W17/W17-6214.pdf">
+TAG Parsing Evaluation using Textual Entailments
+</a><br />
+Pauli Xu, Robert Frank, Jungo Kasai and Owen Rambow<br />
+Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+13), 2017. <br />
+
+<a class="btn btn-labeled btn-primary" href="http://www.aclweb.org/anthology/W/W17/W17-6214.pdf">PDF</a>
+
+<a class="btn btn-labeled btn-primary" href="http://www.aclweb.org/anthology/W/W17/W17-6214.bib">BibTex</a>
+
+<br />
+
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="http://aclweb.org/anthology/W/W17/W17-4003.pdf">
+Harmonic Serialism and Finite-State Optimality Theory
+</a><br />
+Yiding Hao<br />
+Proceedings of the 13th International Conference on Finite State Methods and Natural Language Processing, 2017. <br />
+
+<a class="btn btn-labeled btn-primary" href="http://aclweb.org/anthology/W/W17/W17-4003.pdf">PDF</a>
+
+<a class="btn btn-labeled btn-primary" href="https://aclanthology.info/papers/W17-4003/w17-4003.bib">BibTex</a>
+
+<br />
+
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="http://www.aclweb.org/anthology/W16-3308">
+Node-based Induction of Tree-Substitution Grammars
+</a><br />
+Rose Sloan<br />
+Proceedings of the 12th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+12), 2016. <br />
+
+<a class="btn btn-labeled btn-primary" href="http://www.aclweb.org/anthology/W16-3308">PDF</a>
+
+<a class="btn btn-labeled btn-primary" href="https://aclanthology.info/papers/W16-3308/w16-3308.bib">BibTex</a>
+
+<br />
+
+</td></tr>
+
+
+
+
+  <tr><td style="padding:10px">
+
+</td><td style="padding:10px">
+<a class="paper" href="http://www.aclweb.org/anthology/W16-3312">
+Parasitic Gaps and the Heterogeneity of Dependency Formation in STAG
+</a><br />
+Robert Frank and Dennis Ryan Storoshenko<br />
+Proceedings of the 12th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+12), 2016. <br />
+
+<a class="btn btn-labeled btn-primary" href="http://www.aclweb.org/anthology/W16-3312">PDF</a>
+
+<a class="btn btn-labeled btn-primary" href="https://aclanthology.info/papers/W16-3312/w16-3312.bib">BibTex</a>
+
+<br />
+
+</td></tr>
+
+
+</table>
+
+
+  </div>
+
+</article>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li></li>
+          <li><a href="mailto:"></a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          
+
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>Website for Computational Linguistics at Yale
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
