@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Computational Linguistics at Yale</title>
     <description>Website for Computational Linguistics at Yale
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Aug 2018 18:25:43 -0400</pubDate>
-    <lastBuildDate>Sun, 19 Aug 2018 18:25:43 -0400</lastBuildDate>
+    <pubDate>Sun, 19 Aug 2018 23:26:26 -0400</pubDate>
+    <lastBuildDate>Sun, 19 Aug 2018 23:26:26 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
   </channel>

@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
   <header class="post-header">
-    <h2 class="post-title">Publications</h2>
+    <h2 class="post-title">Recent Publications</h2>
   </header> 
 
 <table>

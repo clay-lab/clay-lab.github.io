@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  
-#email: bob.frank@yale.edu 
+title: Computational Linguistics at Yale 
+email: bob.frank@yale.edu 
 description: > # this means to ignore newlines until "baseurl:"
   Website for Computational Linguistics at Yale
 baseurl: "" # the subpath of your site, e.g. /blog

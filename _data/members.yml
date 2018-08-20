@@ -3,11 +3,14 @@ faculty:
     - name : Dana Angluin
       photo: https://seas.yale.edu/sites/default/files/imagecache/person/angluin-web.jpg
       email: dana.angluin@yale.edu
+      title: Professor <br> Computer Science
+      url: https://cpsc.yale.edu/people/dana-angluin
 
     - name : Robert Frank
       photo: /photos/bob_profile.png
       email: bob.frank@yale.edu
       url: https://bobfrank1.github.io
+      title: Professor<br> Linguistics
       
 graduate:
 
@@ -15,7 +18,7 @@ graduate:
       photo: https://ling.yale.edu/sites/default/files/styles/medium/public/pictures/picture-115-1516231237.jpg
       email: yiding.hao@yale.edu
       url: https://yale.academia.edu/YidingHao
-      title : PhD student
+      title : PhD student <br> Linguistics & <br> Computer Science
 
 undergraduate:
 
@@ -110,6 +113,12 @@ alumni:
       url: http://www.cs.columbia.edu/speech/people.cgi?p=rose
       title : PhD student
       location: Computer Science <br> Columbia Univ
+
+    - name : Dennis  Storoshenko
+      photo: /photos/dennis_profile.jpg
+      url: http://people.ucalgary.ca/~dstorosh/
+      title : Assistant Professor
+      location: Linguistics <br>  Univ of Calgary
 
     - name : Pauli Xu
       photo: /photos/test.jpg
