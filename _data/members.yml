@@ -52,7 +52,7 @@ undergraduate:
 alumni:
 
     - name : Michael Freedman
-      photo: /photos/test.jpg
+      photo: https://media.licdn.com/dms/image/C4E03AQEA1kyxVBr8EQ/profile-displayphoto-shrink_800_800/0?e=1540425600&v=beta&t=1yJdXxOJZqQKPYAanTa76AU2-5Sx6UohWzPX8ta4OBo
       url: https://www.linkedin.com/in/michael-freedman-92a48882/
       title : Computational Linguist
       location: Ntrepid Corp
