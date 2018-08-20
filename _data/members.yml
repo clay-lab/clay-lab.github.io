@@ -79,7 +79,7 @@ alumni:
       email: jarosz@linguist.umass.edu
       url: http://blogs.umass.edu/jarosz/
       title : Associate Professor
-      location: Linguistics, UMass
+      location: Linguistics <br> Univ of Massachusetts
 
     - name : Jungo Kasai
       url: https://jungokasai.github.io/
