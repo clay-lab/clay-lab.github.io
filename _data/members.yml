@@ -64,7 +64,7 @@ alumni:
       location: Google
 
     - name : Sarah Gross
-      photo: /photos/test.jpg
+      photo: https://media.licdn.com/dms/image/C5603AQEuQbWfvSsP_Q/profile-displayphoto-shrink_800_800/0?e=1540425600&v=beta&t=wL4NaEhIIECLqzbAVS91E66m6Yt69MEHLbSXyN4BAa8
       url: https://www.linkedin.com/in/sarah-gross-46b38810a/
 
     - name : Tim Hunter
