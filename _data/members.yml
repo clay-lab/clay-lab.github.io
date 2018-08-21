@@ -1,6 +1,6 @@
 faculty:
 
-  - name : Robert Frank
+    - name : Robert Frank
       photo: /photos/bob_profile.jpg
       email: bob.frank@yale.edu
       url: https://bobfrank1.github.io
