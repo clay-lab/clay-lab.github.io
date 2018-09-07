@@ -3,6 +3,7 @@ papers:
       authors: "Yiding Hao, William Merrill, Dana Angluin, Robert Frank, Noah Amsel, Andrew Benz and Simon Mendelsohn"
       conference: "Workshop on analyzing and interpreting neural networks for NLP (EMNLP), 2018." 
       pdf : "/papers/neural-stacks.pdf"
+      code : "https://github.com/viking-sudo-rm/StackNN"
       image: "/images/stack.jpg"
 
     - title: "Revisiting the poverty of the stimulus: hierarchical generalization without a hierarchical bias in recurrent neural networks" 
