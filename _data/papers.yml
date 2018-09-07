@@ -1,13 +1,19 @@
 papers:
+    - title: "Context-free transductions with Neural Stacks" 
+      authors: "Yiding Hao, William Merrill, Dana Angluin, Robert Frank, Noah Amsel, Andrew Benz and Simon Mendelsohn"
+      conference: "Workshop on analyzing and interpreting neural networks for NLP (EMNLP 2018)" 
+      pdf : "/papers/neural-stacks.pdf"
+      image: "/images/stack.jpg"
+
     - title: "Revisiting the poverty of the stimulus: hierarchical generalization without a hierarchical bias in recurrent neural networks" 
-      authors: "R. Thomas McCoy, Robert Frank, Tal Linzen"
+      authors: "R. Thomas McCoy, Robert Frank, and Tal Linzen"
       conference: "Proceedings of the 40th Annual Conference of the Cognitive Science Society, 2018." 
       pdf : "https://arxiv.org/pdf/1802.09091.pdf"
       bibtex: "https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1802-09091"
       image: "/images/question.jpg"
 
     - title: "End-to-End Graph-Based TAG Parsing with Neural Networks" 
-      authors: "Jungo Kasai, Robert Frank, Pauli Xu, William Merrill, and Owen Rambow"
+      authors: "Jungo Kasai, Robert Frank, Pauli Xu, William Merrill and Owen Rambow"
       conference: "Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2018." 
       pdf : "http://aclweb.org/anthology/N18-1107"
       bibtex: "https://aclanthology.info/papers/N18-1107/n18-1107.bib"
