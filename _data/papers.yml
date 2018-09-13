@@ -2,7 +2,7 @@ papers:
     - title: "Context-Free Transductions with Neural Stacks" 
       authors: "Yiding Hao, William Merrill, Dana Angluin, Robert Frank, Noah Amsel, Andrew Benz and Simon Mendelsohn"
       conference: "Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP), 2018." 
-      pdf : "/papers/neural-stacks.pdf"
+      pdf : "https://arxiv.org/pdf/1809.02836.pdf"
       code : "https://github.com/viking-sudo-rm/StackNN"
       image: "/images/stack.jpg"
 
