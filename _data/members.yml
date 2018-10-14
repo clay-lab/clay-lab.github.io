@@ -33,6 +33,11 @@ undergraduate:
       email: andrew.benz@yale.edu
       title : 2021
 
+    - name : Annie Gao
+      photo : /photos/test.jpg
+      email : annie.gao@yale.edu
+      title : 2021
+
     - name : Simon Mendelsohn
       photo: https://media.licdn.com/dms/image/C4D03AQE_wQcTUVj9ng/profile-displayphoto-shrink_800_800/0?e=1540425600&v=beta&t=QeHhJT3y9QA-IaOXGX-7nIqSV33LI2YvYGcHhuUbzqc
       email: simon.mendelsohn@yale.edu
