@@ -99,13 +99,13 @@ alumni:
 
     - name : Rebecca Marvin
       url: https://www.linkedin.com/in/beckycmarvin/
-      photo: https://psycholing.web.jhu.edu/images/beckypic.png
+      photo: /photos/becky_profile.jpg
       email: becky.marvin@jhu.edu
       title: PhD student
       location: Computer Science <br> Johns Hopkins Univ
 
     - name : Tom McCoy
-      photo: https://psycholing.web.jhu.edu/images/tompic.png
+      photo: /photos/tom_profile.jpg
       url: https://tommccoy1.github.io
       email: tom.mccoy@jhu.edu
       title : PhD student
