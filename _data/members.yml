@@ -112,7 +112,7 @@ alumni:
       location: Cognitive Science <br> Johns Hopkins Univ
 
     - name : Natalie Schrimpf
-      photo: https://media.licdn.com/dms/image/C4E03AQG_Fh0PwPMFJg/profile-displayphoto-shrink_800_800/0?e=1540425600&v=beta&t=AZzgXHXdsvUJiRfsmatzJi2MjKuI6YwOBmhpTgL6Q9w
+      photo: /photos/natalie_profile.jpg
       url: https://www.linkedin.com/in/natalie-schrimpf-8214579b/
       title : Lecturer
       location: Linguistics <br> Dartmouth Univ
@@ -130,7 +130,7 @@ alumni:
       location: Linguistics <br>  Univ of Calgary
 
     - name : Pauli Xu
-      photo: https://d1qb2nb5cznatu.cloudfront.net/users/7356744-large?1515634657
+      photo: /photos/pauli_profile.jpg
 
 
 
