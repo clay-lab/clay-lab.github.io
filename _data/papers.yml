@@ -1,9 +1,9 @@
 papers:
     - title: "Jabberwocky Parsing: Dependency Parsing with Lexical Noise" 
       authors: "Jungo Kasai and Robert Frank"
-      conference: "Proceedings of the Society for Computation in Linguistics, 2019 ." 
+      conference: "Proceedings of the Society for Computation in Linguistics, 2019." 
       pdf : "https://homes.cs.washington.edu/~jkasai/papers/scil2019_final.pdf"
-      image: "https://en.wikipedia.org/wiki/Jabberwocky#/media/File:Jabberwocky.jpg"
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jabberwocky.jpg/1200px-Jabberwocky.jpg"
 
     - title: "Context-Free Transductions with Neural Stacks" 
       authors: "Yiding Hao, William Merrill, Dana Angluin, Robert Frank, Noah Amsel, Andrew Benz and Simon Mendelsohn"
