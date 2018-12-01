@@ -23,7 +23,7 @@ graduate:
 undergraduate:
 
     - name : Noah Amsel
-      photo: https://media.licdn.com/dms/image/C4D03AQGesZ4GglJ1Ig/profile-displayphoto-shrink_800_800/0?e=1540425600&v=beta&t=oT6eQIWDI3g7vPQArnHW99C9deBR7srYaRkJyJugY5w
+      photo: /photos/noah_profile.jpg
       email: noah.amsel@yale.edu
       url: https://www.linkedin.com/in/noah-amsel/
       title : 2020
@@ -39,7 +39,7 @@ undergraduate:
       title : 2021
 
     - name : Simon Mendelsohn
-      photo: https://media.licdn.com/dms/image/C4D03AQE_wQcTUVj9ng/profile-displayphoto-shrink_800_800/0?e=1540425600&v=beta&t=QeHhJT3y9QA-IaOXGX-7nIqSV33LI2YvYGcHhuUbzqc
+      photo:  /photos/simon_profile.jpg
       email: simon.mendelsohn@yale.edu
       title : 2020
 
@@ -61,7 +61,7 @@ undergraduate:
 alumni:
 
     - name : Michael Freedman
-      photo: https://media.licdn.com/dms/image/C4E03AQEA1kyxVBr8EQ/profile-displayphoto-shrink_800_800/0?e=1540425600&v=beta&t=1yJdXxOJZqQKPYAanTa76AU2-5Sx6UohWzPX8ta4OBo
+      photo: /photos/mike_profile.jpg
       url: https://www.linkedin.com/in/michael-freedman-92a48882/
       title : Computational Linguist
       location: Ntrepid Corp
@@ -73,7 +73,7 @@ alumni:
       location: Google
 
     - name : Sarah Gross
-      photo: https://media.licdn.com/dms/image/C5603AQEuQbWfvSsP_Q/profile-displayphoto-shrink_800_800/0?e=1540425600&v=beta&t=wL4NaEhIIECLqzbAVS91E66m6Yt69MEHLbSXyN4BAa8
+      photo: /photos/sarahgross_profile.jpg
       url: https://www.linkedin.com/in/sarah-gross-46b38810a/
 
     - name : Tim Hunter
