@@ -20,6 +20,12 @@ graduate:
       url: https://yale.academia.edu/YidingHao
       title : PhD student <br> Linguistics & <br> Computer Science
 
+    - name : David Chartash
+      photo: /photos/chartash_profile.jpg
+      email: david.chartash@yale.edu
+      url: https://medicine.yale.edu/people/search/david_chartash.profile
+      title : Post-doctoral fellow <br> Yale School of Medicine
+
 undergraduate:
 
     - name : Noah Amsel
@@ -131,6 +137,3 @@ alumni:
 
     - name : Pauli Xu
       photo: /photos/pauli_profile.jpg
-
-
-
