@@ -1,5 +1,5 @@
 papers:
-    - title: "Syntax Aware Neural Semantic Role Labeling with Supertags"
+    - title: "Syntax-aware Neural Semantic Role Labeling with Supertags"
       authors: "Jungo Kasai, Daniel Friedman, Robert Frank, Dragomir Radev and Owen Rambow"
       conference: "Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2019."
       pdf : "/papers/srl-supertags.pdf"
