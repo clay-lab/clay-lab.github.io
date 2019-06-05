@@ -1,4 +1,22 @@
 papers:
+    - title: "Open Sesame: Getting Inside BERT's Linguistic Knowledge"
+      authors: "Yongjie Lin, Yi Chern Tan and Robert Frank"
+      conference: "Workshop on Analyzing and Interpreting Neural Networks for NLP (ACL), 2019."
+      pdf : "/papers/bert_blackboxnlp2019.pdf"
+      image: "/images/Bert.png"
+
+    - title: "Finding Syntactic Representations in Neural Stacks"
+      authors: "William Merrill, Lenny Khazan, Noah Amsel, Yiding Hao, Simon Mendelsohn and Robert Frank"
+      conference: "Workshop on Analyzing and Interpreting Neural Networks for NLP (ACL), 2019."
+      pdf : "https://arxiv.org/abs/1906.01594"
+      image: "/images/nouns-verbs.png"
+
+    - title: "Detecting Syntactic Change Using a Neural Part-of-Speech Tagger"
+      authors: "William Merrill, Gigi Felice Stark and Robert Frank"
+      conference: "1st International Workshop on Computational Approaches to Historical Language Change (ACL), 2019."
+      pdf : "/papers/Diachronic_POS_Tagger.pdf"
+      image: "/images/PCA-LSTM.png"
+
     - title: "Syntax-aware Neural Semantic Role Labeling with Supertags"
       authors: "Jungo Kasai, Dan Friedman, Robert Frank, Dragomir Radev and Owen Rambow"
       conference: "Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2019."
