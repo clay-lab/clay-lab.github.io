@@ -44,6 +44,12 @@ undergraduate:
       email : annie.gao@yale.edu
       title : 2021
 
+    - name : Lenny Khazan
+      photo : /photos/lenny_profile.jpg
+      email : lenny.khazan@yale.edu
+      url : https://www.linkedin.com/in/lennykhazan/
+      title : 2021  
+
     - name : Yongjie Lin
       photo : /photos/yong_profile.jpg
       email : yongjie.lin@yale.edu
