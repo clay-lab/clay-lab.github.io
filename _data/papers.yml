@@ -11,6 +11,12 @@ papers:
       pdf : "https://arxiv.org/abs/1906.01594"
       image: "/images/nouns-verbs.png"
 
+    - title: "Sequential Neural Networks as Automata"
+      authors: "William Merrill"
+      conference: "Workshop on Deep Learning and Formal Languages: Building Bridges (ACL), 2019."
+      pdf : "https://arxiv.org/abs/1906.01615"
+      image: "/images/LSTM-complexity.png"
+
     - title: "Detecting Syntactic Change Using a Neural Part-of-Speech Tagger"
       authors: "William Merrill, Gigi Felice Stark and Robert Frank"
       conference: "1st International Workshop on Computational Approaches to Historical Language Change (ACL), 2019."
