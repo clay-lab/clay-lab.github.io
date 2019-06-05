@@ -9,6 +9,7 @@ papers:
       authors: "William Merrill, Lenny Khazan, Noah Amsel, Yiding Hao, Simon Mendelsohn and Robert Frank"
       conference: "Workshop on Analyzing and Interpreting Neural Networks for NLP (ACL), 2019."
       pdf : "https://arxiv.org/abs/1906.01594"
+      code: "https://github.com/viking-sudo-rm/industrial-stacknns"
       image: "/images/nouns-verbs.png"
 
     - title: "Sequential Neural Networks as Automata"
@@ -21,12 +22,14 @@ papers:
       authors: "William Merrill, Gigi Felice Stark and Robert Frank"
       conference: "1st International Workshop on Computational Approaches to Historical Language Change (ACL), 2019."
       pdf : "/papers/Diachronic_POS_Tagger.pdf"
+      code: "https://github.com/viking-sudo-rm/DiachronicPOSTagger"
       image: "/images/PCA-LSTM.png"
 
     - title: "Syntax-aware Neural Semantic Role Labeling with Supertags"
       authors: "Jungo Kasai, Dan Friedman, Robert Frank, Dragomir Radev and Owen Rambow"
       conference: "Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2019."
       pdf : " https://arxiv.org/abs/1903.05260"
+      code: "https://github.com/jungokasai/stagging_srl"
       image: "/images/srl-supertags.png"
 
     - title: "Jabberwocky Parsing: Dependency Parsing with Lexical Noise"
