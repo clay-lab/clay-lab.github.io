@@ -1,13 +1,16 @@
 papers:
+
+
     - title: "Open Sesame: Getting Inside BERT's Linguistic Knowledge"
       authors: "Yongjie Lin, Yi Chern Tan and Robert Frank"
-      conference: "Workshop on Analyzing and Interpreting Neural Networks for NLP (ACL), 2019."
-      pdf : "/papers/bert_blackboxnlp2019.pdf"
+      conference: "2nd Workshop on Blackbox NLP: Analyzing and Interpreting Neural Networks for NLP (ACL), 2019."
+      pdf : "https://arxiv.org/abs/1906.01698"
+      code: "https://github.com/yongjie-lin/bert-opensesame"
       image: "/images/Bert.png"
 
     - title: "Finding Syntactic Representations in Neural Stacks"
       authors: "William Merrill, Lenny Khazan, Noah Amsel, Yiding Hao, Simon Mendelsohn and Robert Frank"
-      conference: "Workshop on Analyzing and Interpreting Neural Networks for NLP (ACL), 2019."
+      conference: "2nd Workshop on Blackbox NLP: Analyzing and Interpreting Neural Networks for NLP (ACL), 2019."
       pdf : "https://arxiv.org/abs/1906.01594"
       code: "https://github.com/viking-sudo-rm/industrial-stacknns"
       image: "/images/nouns-verbs.png"
@@ -35,8 +38,9 @@ papers:
     - title: "Jabberwocky Parsing: Dependency Parsing with Lexical Noise"
       authors: "Jungo Kasai and Robert Frank"
       conference: "Proceedings of the Society for Computation in Linguistics, 2019."
-      pdf : "https://homes.cs.washington.edu/~jkasai/papers/scil2019_final.pdf"
+      pdf : "https://scholarworks.umass.edu/scil/vol2/iss1/13/"
       image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jabberwocky.jpg/1200px-Jabberwocky.jpg"
+      code: "https://github.com/Yale-LILY/graph_parser"
 
     - title: "Learnability and Overgeneration in Computational Syntax"
       authors: "Yiding Hao"
@@ -46,8 +50,9 @@ papers:
 
     - title: "Context-Free Transductions with Neural Stacks"
       authors: "Yiding Hao, William Merrill, Dana Angluin, Robert Frank, Noah Amsel, Andrew Benz and Simon Mendelsohn"
-      conference: "Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP), 2018."
-      pdf : "https://arxiv.org/pdf/1809.02836.pdf"
+      conference: "1st Workshop on Blackbox NLP: Analyzing and Interpreting Neural Networks for NLP (EMNLP), 2018."
+      pdf : "https://aclweb.org/anthology/papers/W/W18/W18-5433/"
+      bibtex: "https://aclweb.org/anthology/papers/W/W18/W18-5433.bib"
       code : "https://github.com/viking-sudo-rm/StackNN"
       image: "/images/stack.jpg"
 
