@@ -25,6 +25,7 @@ papers:
       authors: "Yiding Hao and Samuel Andersson"
       conference: "16th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology (ACL), 2019."
       pdf : "https://ling.auf.net/lingbuzz/004642"
+      image: "/images/tibetan-stress.png"
 
     - title: "Action-Sensitive Phonological Dependencies"
       authors: "Yiding Hao and Justin Bowers"
