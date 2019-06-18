@@ -21,6 +21,16 @@ papers:
       pdf : "https://arxiv.org/abs/1906.01615"
       image: "/images/LSTM-complexity.png"
 
+    - title: "Unbounded Stress in Subregular Phonology"
+      authors: "Yiding Hao and Samuel Andersson"
+      conference: "16th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology (ACL), 2019."
+      pdf : "https://ling.auf.net/lingbuzz/004642"
+
+    - title: "Action-Sensitive Phonological Dependencies"
+      authors: "Yiding Hao and Justin Bowers"
+      conference: "16th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology (ACL), 2019."
+      pdf : "https://arxiv.org/abs/1906.06464"
+
     - title: "Detecting Syntactic Change Using a Neural Part-of-Speech Tagger"
       authors: "William Merrill, Gigi Felice Stark and Robert Frank"
       conference: "1st International Workshop on Computational Approaches to Historical Language Change (ACL), 2019."
