@@ -1,6 +1,12 @@
 papers:
 
 
+    - title: "The Role of Linguistic Features in Domain Adaptation: TAG Parsing of Questions"
+      authors: "Aarohi Srivastava, Robert Frank, Sarah Widder and David Chartash"
+      conference: "Proceedings of the Society of Computation in Linguistics, 2020."
+      pdf : "/papers/domain-adaptation.pdf"
+      image: "/images/question-relative-trees.png"
+
     - title: "Open Sesame: Getting Inside BERT's Linguistic Knowledge"
       authors: "Yongjie Lin, Yi Chern Tan and Robert Frank"
       conference: "2nd Workshop on Blackbox NLP: Analyzing and Interpreting Neural Networks for NLP (ACL), 2019."
