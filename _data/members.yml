@@ -60,12 +60,6 @@ undergraduate:
       email: simon.mendelsohn@yale.edu
       title : 2020
 
-    - name : Will Merrill
-      photo: /photos/will_profile.jpg
-      email: william.merrill@yale.edu
-      title : 2019
-      url: https://viking-sudo-rm.github.io
-
     - name : Aarohi Srivastava
       photo: /photos/aarohi_profile.jpg
       email: aarohi.srivastaval@yale.edu
@@ -135,6 +129,13 @@ alumni:
       email: tom.mccoy@jhu.edu
       title : PhD student
       location: Cognitive Science <br> Johns Hopkins Univ
+
+    - name : Will Merrill
+      photo: /photos/will_profile.jpg
+      email: william.merrill@yale.edu
+      title: Computational Linguist
+      url: https://lambdaviking.com/
+      location: Allen Institute for AI
 
     - name : Natalie Schrimpf
       photo: /photos/natalie_profile.jpg
