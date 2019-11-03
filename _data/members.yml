@@ -34,16 +34,6 @@ undergraduate:
       url: https://www.linkedin.com/in/noah-amsel/
       title : 2020
 
-    - name : Andrew Benz
-      photo: /photos/andrew_profile.jpg
-      email: andrew.benz@yale.edu
-      title : 2021
-
-    - name : Annie Gao
-      photo : /photos/annie_profile.jpg
-      email : annie.gao@yale.edu
-      title : 2021
-
     - name : Lenny Khazan
       photo : /photos/lenny_profile.jpg
       email : lenny.khazan@yale.edu
@@ -65,6 +55,11 @@ undergraduate:
       email: aarohi.srivastaval@yale.edu
       title : 2021
 
+    - name : Rachel Sterneck
+      photo: /photos/rachel_profile.jpg
+      email: rachel.sterneck@yale.edu
+      title : 2021
+
     - name : Yi Chern Tan
       photo: /photos/yichern_profile.jpg
       email: yichern.tan@yale.edu
@@ -77,6 +72,11 @@ undergraduate:
       title: 2020
 alumni:
 
+    - name : Andrew Benz
+      photo: /photos/andrew_profile.jpg
+      email: andrew.benz@yale.edu
+      title : 2021
+
     - name : Michael Freedman
       photo: /photos/mike_profile.jpg
       url: https://www.linkedin.com/in/michael-freedman-92a48882/
@@ -88,6 +88,7 @@ alumni:
       url: https://www.linkedin.com/in/dan-friedman-4464669a/
       title : Software Engineer
       location: Google
+
 
     - name : Sarah Gross
       photo: /photos/sarahgross_profile.jpg
