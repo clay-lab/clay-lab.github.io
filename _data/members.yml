@@ -37,6 +37,7 @@ undergraduate:
     - name : Hana Galijašević
       photo : /photos/hana_profile.jpg
       email : hana.galijasevic@yale.edu
+      url: https://www.linkedin.com/in/hana-galijasevic/
       title : 2022
 
     - name : Lenny Khazan
@@ -63,6 +64,7 @@ undergraduate:
     - name : Rachel Sterneck
       photo: /photos/rachel_profile.jpg
       email: rachel.sterneck@yale.edu
+      url: https://www.linkedin.com/in/rachel-bari-sterneck/
       title : 2021
 
     - name : Yi Chern Tan
