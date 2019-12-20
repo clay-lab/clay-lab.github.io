@@ -1,5 +1,10 @@
 papers:
 
+    - title: "Metrical Grids and Generalized Tier Projection"
+      authors: "Yiding Hao"
+      conference: "Proceedings of the Society of Computation in Linguistics, 2020."
+      pdf : "https://scholarworks.umass.edu/scil/vol3/iss1/26"
+      image: "/images/tier-projection.png"
 
     - title: "The Role of Linguistic Features in Domain Adaptation: TAG Parsing of Questions"
       authors: "Aarohi Srivastava, Robert Frank, Sarah Widder and David Chartash"
