@@ -2,8 +2,8 @@ papers:
 
     - title: "Does syntax need to grow on trees? Sources of hierarchical inductive bias in sequence-to-sequence networks"
       authors: "R. Thomas McCoy, Robert Frank, and Tal Linzen"
-      conference: "Transactions of the Association for Computational Linguistics, to appear."
-      pdf : "https://arxiv.org/abs/2001.03632"
+      conference: "Transactions of the Association for Computational Linguistics, 2020."
+      pdf : "https://doi.org/10.1162/tacl_a_00304"
       image: "/images/tacl-seq2seq.png"
 
     - title: "Metrical Grids and Generalized Tier Projection"
