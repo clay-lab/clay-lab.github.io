@@ -62,6 +62,11 @@ undergraduate:
       email: simon.mendelsohn@yale.edu
       title : 2020
 
+    - name : Shayna Sragovicz
+      photo:  /photos/shayna_profile.jpg
+      email: shayna.sragovicz@yale.edu
+      title : 2023 
+
     - name : Aarohi Srivastava
       photo: /photos/aarohi_profile.jpg
       email: aarohi.srivastaval@yale.edu
