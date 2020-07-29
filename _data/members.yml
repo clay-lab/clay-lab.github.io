@@ -105,7 +105,6 @@ undergrad-alumni:
       email: andrew.benz@yale.edu
       title : 2021
 
-
     - name : Dan Friedman
       photo: /photos/dan_profile.jpg
       url: https://www.linkedin.com/in/dan-friedman-4464669a/
@@ -122,8 +121,8 @@ undergrad-alumni:
       url: https://jungokasai.github.io/
       photo: /photos/jungo_profile.jpg
       email: jkasai@cs.washington.edu
-      title: PhD student
-      location: Computer Science <br> Univ of Washington
+      title: PhD student (Comp Sci)
+      location: Univ of Washington
 
     - name : Lenny Khazan
       photo : /photos/lenny_profile.jpg
@@ -153,8 +152,8 @@ undergrad-alumni:
       photo: /photos/tom_profile.jpg
       url: https://tommccoy1.github.io
       email: tom.mccoy@jhu.edu
-      title : PhD student
-      location: Cognitive Science <br> Johns Hopkins Univ
+      title : PhD student (Cog Sci)
+      location: Johns Hopkins Univ
 
     - name : Will Merrill
       photo: /photos/will_profile.jpg
@@ -167,8 +166,8 @@ undergrad-alumni:
     - name : Rose Sloan
       photo: http://www.cs.columbia.edu/speech/images/ph_rose.jpg
       url: http://www.cs.columbia.edu/speech/people.cgi?p=rose
-      title : PhD student
-      location: Computer Science <br> Columbia Univ
+      title : PhD student (Comp Sci)
+      location: CColumbia Univ
 
 
     - name : Yi Chern Tan
