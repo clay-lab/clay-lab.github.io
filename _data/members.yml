@@ -28,28 +28,12 @@ graduate:
 
 undergraduate:
 
-    - name : Noah Amsel
-      photo: /photos/noah_profile.jpg
-      email: noah.amsel@yale.edu
-      url: https://www.linkedin.com/in/noah-amsel/
-      title : 2020
-
+ 
     - name : Hana Galijašević
       photo : /photos/hana_profile.jpg
       email : hana.galijasevic@yale.edu
       url: https://www.linkedin.com/in/hana-galijasevic/
       title : 2022
-
-    - name : Lenny Khazan
-      photo : /photos/lenny_profile.jpg
-      email : lenny.khazan@yale.edu
-      url : https://lenny.io
-      title : 2021
-
-    - name : Yongjie Lin
-      photo : /photos/yong_profile.jpg
-      email : yongjie.lin@yale.edu
-      title : 2020
 
     - name : Sally Ma
       photo : /photos/sallyma_profile.jpg
@@ -57,10 +41,11 @@ undergraduate:
       url : https://www.linkedin.com/in/sally-ma-37a284130/
       title : 2021  
 
-    - name : Simon Mendelsohn
-      photo:  /photos/simon_profile.jpg
-      email: simon.mendelsohn@yale.edu
-      title : 2020
+    - name : Jackson Petty
+      photo : /photos/jackson_profile.jpg
+      email : jackson.petty@yale.edu
+      url : https://www.linkedin.com/in/jackson-petty/
+      title : 2021 
 
     - name : Shayna Sragovicz
       photo:  /photos/shayna_profile.jpg
@@ -78,17 +63,14 @@ undergraduate:
       url: https://www.linkedin.com/in/rachel-bari-sterneck/
       title : 2021
 
-    - name : Yi Chern Tan
-      photo: /photos/yichern_profile.jpg
-      email: yichern.tan@yale.edu
-      title : 2020
-
-
-    - name : Sarah Widder
-      photo: /photos/sarah_profile.jpg
-      email: sarah.widder@yale.edu
-      title: 2020
 alumni:
+
+    - name : Noah Amsel
+      photo: /photos/noah_profile.jpg
+      email: noah.amsel@yale.edu
+      url: https://www.linkedin.com/in/noah-amsel/
+      location : Reservoir Labs
+      title: Research Engineer
 
     - name : Andrew Benz
       photo: /photos/andrew_profile.jpg
@@ -106,7 +88,6 @@ alumni:
       url: https://www.linkedin.com/in/dan-friedman-4464669a/
       title : Software Engineer
       location: Google
-
 
     - name : Sarah Gross
       photo: /photos/sarahgross_profile.jpg
@@ -135,12 +116,28 @@ alumni:
       title: PhD student
       location: Computer Science <br> Univ of Washington
 
+    - name : Lenny Khazan
+      photo : /photos/lenny_profile.jpg
+      email : lenny.khazan@yale.edu
+      url : https://lenny.io
+      title : 2021
+
+    - name : Yongjie Lin
+      photo : /photos/yong_profile.jpg
+      email : yongjie.lin@yale.edu
+      location : Facebook
+
     - name : Rebecca Marvin
       url: https://www.linkedin.com/in/beckycmarvin/
       photo: /photos/becky_profile.jpg
       email: becky.marvin@jhu.edu
       title: PhD student
       location: Computer Science <br> Johns Hopkins Univ
+
+    - name : Simon Mendelsohn
+      photo:  /photos/simon_profile.jpg
+      email: simonjmendelsohn@gmail.com
+      url : https://simonjmendelsohn.github.io
 
     - name : Tom McCoy
       photo: /photos/tom_profile.jpg
@@ -173,6 +170,16 @@ alumni:
       url: http://people.ucalgary.ca/~dstorosh/
       title : Assistant Professor
       location: Linguistics <br>  Univ of Calgary
+
+    - name : Yi Chern Tan
+      photo: /photos/yichern_profile.jpg
+      email: yichern.tan@yale.edu
+
+    - name : Sarah Widder
+      photo: /photos/sarah_profile.jpg
+      email: sarah.widder@yale.edu
+      location: Microsoft
+      title: Software Engineer
 
     - name : Pauli Xu
       photo: /photos/pauli_profile.jpg
