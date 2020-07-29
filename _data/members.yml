@@ -28,7 +28,6 @@ graduate:
 
 undergraduate:
 
- 
     - name : Hana Galijašević
       photo : /photos/hana_profile.jpg
       email : hana.galijasevic@yale.edu
@@ -63,7 +62,7 @@ undergraduate:
       url: https://www.linkedin.com/in/rachel-bari-sterneck/
       title : 2021
 
-Post-doctoral alumni:
+post-doc-alumni:
 
     - name : Tim Hunter
       photo: /photos/tim_profile.jpg
@@ -78,7 +77,7 @@ Post-doctoral alumni:
       title : Associate Professor
       location: Linguistics <br>  Univ of Calgary
 
-PhD alumni: 
+phd-alumni: 
 
     - name : Michael Freedman
       photo: /photos/mike_profile.jpg
@@ -92,7 +91,7 @@ PhD alumni:
       title : Language Engineer
       location: Amazon
 
-Undergraduate alumni:
+undergrad-alumni:
 
     - name : Noah Amsel
       photo: /photos/noah_profile.jpg
