@@ -121,7 +121,7 @@ undergrad-alumni:
       url: https://jungokasai.github.io/
       photo: /photos/jungo_profile.jpg
       email: jkasai@cs.washington.edu
-      title: PhD student (Comp Sci)
+      title: PhD student (CS)
       location: Univ of Washington
 
     - name : Lenny Khazan
@@ -166,8 +166,8 @@ undergrad-alumni:
     - name : Rose Sloan
       photo: http://www.cs.columbia.edu/speech/images/ph_rose.jpg
       url: http://www.cs.columbia.edu/speech/people.cgi?p=rose
-      title : PhD student (Comp Sci)
-      location: CColumbia Univ
+      title : PhD student (CS)
+      location: Columbia Univ
 
 
     - name : Yi Chern Tan
