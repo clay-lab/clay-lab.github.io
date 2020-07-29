@@ -135,13 +135,14 @@ undergrad-alumni:
       photo : /photos/yong_profile.jpg
       email : yongjie.lin@yale.edu
       location : Facebook
+      title: Software Engineer
 
     - name : Rebecca Marvin
       url: https://www.linkedin.com/in/beckycmarvin/
       photo: /photos/becky_profile.jpg
       email: becky.marvin@jhu.edu
-      title: PhD student
-      location: Computer Science <br> Johns Hopkins Univ
+      title: Paralegal
+      location: Dorris and Associates International
 
     - name : Simon Mendelsohn
       photo:  /photos/simon_profile.jpg
