@@ -177,6 +177,7 @@ undergrad-alumni:
     - name : Sarah Widder
       photo: /photos/sarah_profile.jpg
       email: sarah.widder@yale.edu
+      url: https://www.linkedin.com/in/sarah-widder-53972a126/
       location: Microsoft
       title: Software Engineer
 
