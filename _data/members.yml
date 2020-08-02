@@ -43,7 +43,7 @@ undergraduate:
     - name : Jackson Petty
       photo : /photos/jackson_profile.jpg
       email : jackson.petty@yale.edu
-      url : https://www.linkedin.com/in/jackson-petty/
+      url : http://jacksonpetty.org/
       title : 2021 
 
     - name : Shayna Sragovicz
@@ -114,7 +114,7 @@ undergrad-alumni:
     - name : Sarah Gross
       photo: /photos/sarahgross_profile.jpg
       url: https://www.linkedin.com/in/sarah-gross-46b38810a/
-      title: Analyst
+      title: Senior Analyst
       location: Kind
 
     - name : Jungo Kasai
