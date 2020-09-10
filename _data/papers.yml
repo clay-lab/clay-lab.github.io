@@ -1,5 +1,12 @@
 papers:
 
+    - title: "Probabilistic Predictions of People Perusing: Evaluating Metrics of Language Model Performance for Psycholinguistic Modeling"
+      authors: "Yiding Hao, Simon Mendelsohn, Rachel Sterneck, Randi Martinez, and Robert Frank"
+      conference: "Proceedings of the Cognitive Modeling and Computational Linguistics (CMCL) Workshop (EMNLP), 2020"
+      pdf : "https://arxiv.org/pdf/2009.03954.pdf"
+      image: "/images/PNC-loglik.png"
+
+
     - title: "Does syntax need to grow on trees? Sources of hierarchical inductive bias in sequence-to-sequence networks"
       authors: "R. Thomas McCoy, Robert Frank, and Tal Linzen"
       conference: "Transactions of the Association for Computational Linguistics, 2020."
