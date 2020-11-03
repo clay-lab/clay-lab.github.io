@@ -3,7 +3,7 @@ papers:
     - title: "Sequence-to-Sequence Networks Learn the Meaning of Reﬂexive Anaphora"
       authors: "Robert Frank and Jackson Petty"
       conference: "Proceedings of the Third Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC), 2020"
-      pdf : "/papers/frank-petty-reflexives.pdf"
+      pdf : "https://arxiv.org/abs/2011.00682"
       image: "/images/reflexives.png"
     
     - title: "Probabilistic Predictions of People Perusing: Evaluating Metrics of Language Model Performance for Psycholinguistic Modeling"
