@@ -7,6 +7,12 @@ papers:
       code : "https://github.com/clay-lab/logos"
       image: "/images/reflexives.png"
     
+    - title: "Evaluating Attribution Methods using White-Box LSTMs"
+      authors: "Yiding Hao"
+      conference: "3rd Workshop on Blackbox NLP: Analyzing and Interpreting Neural Networks for NLP (EMNLP), 2020."
+      pdf : "https://arxiv.org/pdf/2010.08606.pdf"
+      image: "/images/heatmap.png"
+
     - title: "Probabilistic Predictions of People Perusing: Evaluating Metrics of Language Model Performance for Psycholinguistic Modeling"
       authors: "Yiding Hao, Simon Mendelsohn, Rachel Sterneck, Randi Martinez, and Robert Frank"
       conference: "Proceedings of the Cognitive Modeling and Computational Linguistics (CMCL) Workshop (EMNLP), 2020"
