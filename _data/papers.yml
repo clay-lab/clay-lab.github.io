@@ -4,7 +4,7 @@ papers:
       authors: "Karl Mulligan, Robert Frank and Tal Linzen"
       conference: "Proceedings of the Society for Computation in Linguistics, 2021."
       pdf : "https://scholarworks.umass.edu/scil/vol4/iss1/13"
-      image: "/images/tree-construction.png"  
+      image: "/images/joint-learning.png"  
 
     - title: "Comparing Methods of Tree-Construction Across Mildly Context-Sensitive Formalisms"
       authors: "Tim Hunter and Robert Frank"
