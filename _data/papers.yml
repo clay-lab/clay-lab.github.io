@@ -1,8 +1,20 @@
 papers:
 
+    - title: "Structure Here, Bias There: Hierarchical Generalization by Jointly Learning Syntactic Transformations" 
+      authors: "Karl Mulligan, Robert Frank and Tal Linzen"
+      conference: "Proceedings of the Society for Computation in Linguistics, 2021."
+      pdf : "https://scholarworks.umass.edu/scil/vol4/iss1/13"
+      image: "/images/tree-construction.png"  
+
+    - title: "Comparing Methods of Tree-Construction Across Mildly Context-Sensitive Formalisms"
+      authors: "Tim Hunter and Robert Frank"
+      conference: "Proceedings of the Society for Computation in Linguistics, 2021."
+      pdf : "https://scholarworks.umass.edu/scil/vol4/iss1/36"
+      image: "/images/tree-construction.png"  
+
     - title: "Sequence-to-Sequence Networks Learn the Meaning of Reﬂexive Anaphora"
       authors: "Robert Frank and Jackson Petty"
-      conference: "Proceedings of the Third Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC), 2020"
+      conference: "Proceedings of the Third Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC), 2020."
       pdf : "https://arxiv.org/abs/2011.00682"
       code : "https://github.com/clay-lab/logos"
       image: "/images/reflexives.png"
