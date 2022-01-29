@@ -53,7 +53,7 @@ undergraduate:
       title : 2023
 
     - name : William Min
-      photo : photos/test.jpg
+      photo : /photos/test.jpg
       email : w.min@yale.edu
       title : 2025
 
