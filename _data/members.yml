@@ -12,29 +12,3 @@ faculty:
       title: Professor Emeritus <br> Computer Science
       url: https://cpsc.yale.edu/people/dana-angluin
 
-graduate:
-
-    - name : Yiding Hao
-      photo: https://ling.yale.edu/sites/default/files/styles/medium/public/pictures/picture-115-1516231237.jpg
-      email: yiding.hao@yale.edu
-      url: https://www.notaphonologist.com
-      title : PhD student <br> Linguistics & <br> Computer Science
-
-    - name : Ayla Karakas
-      photo: /photos/ayla_profile.jpg
-      email: ayla.karakas@yale.edu
-      url: https://ling.yale.edu/people/ayla-karakas
-      title : PhD student <br> Linguistics 
-
-    - name : Bella Senturia
-      photo: /photos/bella_profile.jpg
-      email: isabella.senturia@yale.edu
-      url: https://ling.yale.edu/people/isabella-senturia
-      title : PhD student <br> Linguistics 
-
-    - name : Michael Wilson
-      photo: https://campuspress.yale.edu/michaelwilson/files/2021/09/me.jpg
-      email: michael.a.wilson@yale.edu
-      url: https://campuspress.yale.edu/michaelwilson/
-      title : Post-doctoral fellow 
-
