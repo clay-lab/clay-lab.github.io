@@ -170,7 +170,7 @@ undergrad-alumni:
       location: NYU, Data Science
 
     - name : Rose Sloan
-      photo: http://www.cs.columbia.edu/speech/images/ph_rose.jpg
+      photo: /photos/rose_profile.jpg
       url: http://www.cs.columbia.edu/speech/people.cgi?p=rose
       title : PhD student
       location: Columbia Univ, CS
