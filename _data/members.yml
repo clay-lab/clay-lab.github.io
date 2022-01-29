@@ -21,16 +21,22 @@ graduate:
       title : PhD student <br> Linguistics & <br> Computer Science
 
     - name : Ayla Karakas
-      photo: https://ling.yale.edu/sites/default/files/styles/medium/public/pictures/picture-387-1604333512.png?itok=kJ_prUqF
+      photo: https://ling.yale.edu/sites/default/files/styles/portrait_thumbnail_large/public/pictures/picture-387-1638982718.jpg?itok=c8WaRk--
       email: ayla.karakas@yale.edu
       url: https://ling.yale.edu/people/ayla-karakas
       title : PhD student <br> Linguistics 
-      
-    - name : David Chartash
-      photo: /photos/chartash_profile.jpg
-      email: david.chartash@yale.edu
-      url: https://medicine.yale.edu/profile/david_chartash/
-      title : Post-doctoral fellow <br> Yale School of Medicine
+
+    - name : Bella Senturia
+      photo: https://ling.yale.edu/sites/default/files/styles/medium/public/pictures/picture-115-1516231237.jpg
+      email: yiding.hao@yale.edu
+      url: https://ling.yale.edu/people/isabella-senturia
+      title : PhD student <br> Linguistics 
+
+    - name : Michael Wilson
+      photo: https://campuspress.yale.edu/michaelwilson/files/2021/09/me.jpg
+      email: michael.a.wilson@yale.edu
+      url: https://campuspress.yale.edu/michaelwilson/
+      title : Post-doctoral fellow 
 
 undergraduate:
 
@@ -46,35 +52,25 @@ undergraduate:
       url: https://www.linkedin.com/in/pinyu-hwang-16b014193/
       title : 2023
 
-    - name : Sally Ma
-      photo : /photos/sallyma_profile.jpg
-      email : sally.ma@yale.edu
-      url : https://www.linkedin.com/in/sally-ma-37a284130/
-      title : 2021  
+    - name : William Min
+      photo : photos/test.jpg
+      email : w.min@yale.edu
+      title : 2025
 
     - name : Jackson Petty
       photo : /photos/jackson_profile.jpg
       email : jackson.petty@yale.edu
       url : http://jacksonpetty.org/
-      title : 2021 
-
-    - name : Shayna Sragovicz
-      photo:  /photos/shayna_profile.jpg
-      email: shayna.sragovicz@yale.edu
-      title : 2023 
-
-    - name : Aarohi Srivastava
-      photo: /photos/aarohi_profile.jpg
-      email: aarohi.srivastaval@yale.edu
-      title : 2021
-
-    - name : Rachel Sterneck
-      photo: /photos/rachel_profile.jpg
-      email: rachel.sterneck@yale.edu
-      url: https://www.linkedin.com/in/rachel-bari-sterneck/
-      title : 2021
+      title : 2022 
 
 post-doc-alumni:
+
+    - name : David Chartash
+      photo: /photos/chartash_profile.jpg
+      email: david.chartash@yale.edu
+      url: https://medicine.yale.edu/profile/david_chartash/
+      title : Post-doctoral fellow <br> Yale School of Medicine
+
 
     - name : Tim Hunter
       photo: /photos/tim_profile.jpg
@@ -115,13 +111,13 @@ undergrad-alumni:
     - name : Andrew Benz
       photo: /photos/andrew_profile.jpg
       email: andrew.benz@yale.edu
-      title : 2021
+      title : 2022
 
     - name : Dan Friedman
       photo: /photos/dan_profile.jpg
-      url: https://www.linkedin.com/in/dan-friedman-4464669a/
-      title : Software Engineer
-      location: Google
+      url: https://danfriedman0.github.io/
+      title : PhD student (CS)
+      location: Princeton
 
     - name : Sarah Gross
       photo: /photos/sarahgross_profile.jpg
@@ -140,7 +136,8 @@ undergrad-alumni:
       photo : /photos/lenny_profile.jpg
       email : lenny.khazan@yale.edu
       url : https://lenny.io
-      title : 2021
+      title : Software Engineer
+      location: Instabase
 
     - name : Yongjie Lin
       photo : /photos/yong_profile.jpg
@@ -148,12 +145,19 @@ undergrad-alumni:
       location : Facebook
       title: Software Engineer
 
+   -  name : Sally Ma
+      photo : /photos/sallyma_profile.jpg
+      email : sally.ma@yale.edu
+      url : https://www.linkedin.com/in/sally-ma-mxy/
+      title : Research Engineer
+      location : Deep Mind  
+
     - name : Rebecca Marvin
       url: https://www.linkedin.com/in/beckycmarvin/
       photo: /photos/becky_profile.jpg
       email: becky.marvin@jhu.edu
-      title: Paralegal
-      location: Dorris and Associates
+      title: JD student
+      location: University of Chicago
 
     - name : Simon Mendelsohn
       photo:  /photos/simon_profile.jpg
@@ -170,10 +174,9 @@ undergrad-alumni:
     - name : Will Merrill
       photo: /photos/will_profile.jpg
       email: william.merrill@yale.edu
-      title: Computational Linguist
+      title: PhD student (Data Science)
       url: https://lambdaviking.com/
-      location: Allen Institute for AI
-
+      location: NYU
 
     - name : Rose Sloan
       photo: http://www.cs.columbia.edu/speech/images/ph_rose.jpg
@@ -181,8 +184,26 @@ undergrad-alumni:
       title : PhD student (CS)
       location: Columbia Univ
 
+    - name : Shayna Sragovicz
+      photo:  /photos/shayna_profile.jpg
+      email: shayna.sragovicz@yale.edu
+      title : 2023 
+
+    - name : Aarohi Srivastava
+      photo: /photos/aarohi_profile.jpg
+      url: https://nlp.nd.edu/
+      email: aarohi.srivastaval@yale.edu
+      title : PhD student (CS)
+      location: Univ. of Notre Dame 
+
+    - name : Rachel Sterneck
+      photo: /photos/rachel_profile.jpg
+      email: rachel.sterneck@yale.edu
+      url: https://www.linkedin.com/in/rachel-sterneck/
+      title : 2022
 
     - name : Yi Chern Tan
+      url : https://yich.io
       photo: /photos/yichern_profile.jpg
       email: yichern.tan@yale.edu
 
@@ -196,5 +217,5 @@ undergrad-alumni:
     - name : Pauli Xu
       photo: /photos/pauli_profile.jpg
       url: https://www.linkedin.com/in/pauli-xu-231455156/
-      location: Icebreaker
-      title: VC Associate
+      title: MA Student (Divinity)
+      location: Yale University
