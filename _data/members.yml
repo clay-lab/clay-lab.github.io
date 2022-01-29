@@ -155,6 +155,8 @@ undergrad-alumni:
 
     - name : Simon Mendelsohn
       photo:  /photos/simon_profile.jpg
+      title: Software Engineer
+      location: Broad Institute
       url : https://simonjmendelsohn.github.io
 
     - name : Tom McCoy
