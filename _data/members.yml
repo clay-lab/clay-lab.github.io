@@ -84,3 +84,138 @@ post-doc-alumni:
       url: http://people.ucalgary.ca/~dstorosh/
       title : Associate Professor
       location: Linguistics <br>  Univ of Calgary
+
+phd-alumni: 
+
+    - name : Michael Freedman
+      photo: /photos/mike_profile.jpg
+      url: https://www.linkedin.com/in/michael-freedman-92a48882/
+      title : Computational Linguist
+      location: Ntrepid Corp
+
+    - name : Natalie Schrimpf
+      photo: /photos/natalie_profile.jpg
+      url: https://www.linkedin.com/in/natalie-schrimpf-8214579b/
+      title : Language Engineer
+      location: Amazon
+
+undergrad-alumni:
+
+    - name : Noah Amsel
+      photo: /photos/noah_profile.jpg
+      email: noah.amsel@yale.edu
+      url: https://www.linkedin.com/in/noah-amsel/
+      location : Reservoir Labs
+      title: Research Engineer
+
+    - name : Andrew Benz
+      photo: /photos/andrew_profile.jpg
+      email: andrew.benz@yale.edu
+      title : 2022
+
+    - name : Dan Friedman
+      photo: /photos/dan_profile.jpg
+      url: https://danfriedman0.github.io/
+      title : PhD student (CS)
+      location: Princeton
+
+    - name : Sarah Gross
+      photo: /photos/sarahgross_profile.jpg
+      url: https://www.linkedin.com/in/sarah-gross-46b38810a/
+      title: Senior Analyst
+      location: Kind
+
+    - name : Jungo Kasai
+      url: https://homes.cs.washington.edu/~jkasai/
+      photo: /photos/jungo_profile.jpg
+      email: jkasai@cs.washington.edu
+      title: PhD student (CS)
+      location: Univ of Washington
+
+    - name : Lenny Khazan
+      photo : /photos/lenny_profile.jpg
+      email : lenny.khazan@yale.edu
+      url : https://lenny.io
+      title : Software Engineer
+      location: Instabase
+
+    - name : Yongjie Lin
+      photo : /photos/yong_profile.jpg
+      email : yongjie.lin@yale.edu
+      location : Facebook
+      title: Software Engineer
+
+   -  name : Sally Ma
+      photo : /photos/sallyma_profile.jpg
+      email : sally.ma@yale.edu
+      url : https://www.linkedin.com/in/sally-ma-mxy/
+      title : Research Engineer
+      location : Deep Mind  
+
+    - name : Rebecca Marvin
+      url: https://www.linkedin.com/in/beckycmarvin/
+      photo: /photos/becky_profile.jpg
+      email: becky.marvin@jhu.edu
+      title: JD student
+      location: University of Chicago
+
+    - name : Simon Mendelsohn
+      photo:  /photos/simon_profile.jpg
+      email: simonjmendelsohn@gmail.com
+      url : https://simonjmendelsohn.github.io
+
+    - name : Tom McCoy
+      photo: /photos/tom_profile.jpg
+      url: https://tommccoy1.github.io
+      email: tom.mccoy@jhu.edu
+      title : PhD student (Cog Sci)
+      location: Johns Hopkins Univ
+
+    - name : Will Merrill
+      photo: /photos/will_profile.jpg
+      email: william.merrill@yale.edu
+      title: PhD student (Data Science)
+      url: https://lambdaviking.com/
+      location: NYU
+
+    - name : Rose Sloan
+      photo: http://www.cs.columbia.edu/speech/images/ph_rose.jpg
+      url: http://www.cs.columbia.edu/speech/people.cgi?p=rose
+      title : PhD student (CS)
+      location: Columbia Univ
+
+    - name : Shayna Sragovicz
+      photo:  /photos/shayna_profile.jpg
+      email: shayna.sragovicz@yale.edu
+      title : 2023 
+
+    - name : Aarohi Srivastava
+      photo: /photos/aarohi_profile.jpg
+      url: https://nlp.nd.edu/
+      email: aarohi.srivastaval@yale.edu
+      title : PhD student (CS)
+      location: Univ. of Notre Dame 
+
+    - name : Rachel Sterneck
+      photo: /photos/rachel_profile.jpg
+      email: rachel.sterneck@yale.edu
+      url: https://www.linkedin.com/in/rachel-sterneck/
+      title : 2022
+
+    - name : Yi Chern Tan
+      url : https://yich.io
+      photo: /photos/yichern_profile.jpg
+      email: yichern.tan@yale.edu
+
+    - name : Sarah Widder
+      photo: /photos/sarah_profile.jpg
+      email: sarah.widder@yale.edu
+      url: https://www.linkedin.com/in/sarah-widder-53972a126/
+      location: Microsoft
+      title: Software Engineer
+
+    - name : Pauli Xu
+      photo: /photos/pauli_profile.jpg
+      url: https://www.linkedin.com/in/pauli-xu-231455156/
+      title: MA Student (Divinity)
+      location: Yale University
