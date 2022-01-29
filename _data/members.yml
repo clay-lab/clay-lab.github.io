@@ -99,13 +99,112 @@ phd-alumni:
       title : Language Engineer
       location: Amazon
 
- undergrad-alumni:
+undergrad-alumni:
 
     - name : Noah Amsel
-      photo : /photos/noah_profile.jpg
-      email : noah.amsel@yale.edu
-      url : https://www.linkedin.com/in/noah-amsel/
+      photo: /photos/noah_profile.jpg
+      url: https://www.linkedin.com/in/noah-amsel/
       location : Reservoir Labs
-      title : Research Engineer
+      title: Research Engineer
 
-  
+    - name : Andrew Benz
+      photo: /photos/andrew_profile.jpg
+      email: andrew.benz@yale.edu
+      title : 2022
+
+    - name : Dan Friedman
+      photo: /photos/dan_profile.jpg
+      url: https://danfriedman0.github.io/
+      title : PhD student 
+      location: Princeton, CS
+
+    - name : Sarah Gross
+      photo: /photos/sarahgross_profile.jpg
+      url: https://www.linkedin.com/in/sarah-gross-46b38810a/
+      title: Senior Analyst
+      location: Kind
+
+    - name : Jungo Kasai
+      url: https://homes.cs.washington.edu/~jkasai/
+      photo: /photos/jungo_profile.jpg
+      title: PhD student
+      location: Univ of Washington, CS
+
+    - name : Lenny Khazan
+      photo : /photos/lenny_profile.jpg
+      url : https://lenny.io
+      title : Software Engineer
+      location: Instabase
+
+    - name : Yongjie Lin
+      photo : /photos/yong_profile.jpg
+      location : Facebook
+      title: Software Engineer
+
+    -  name : Sally Ma
+      photo : /photos/sallyma_profile.jpg
+      url : https://www.linkedin.com/in/sally-ma-mxy/
+      title : Research Engineer
+      location : Deep Mind  
+
+    - name : Rebecca Marvin
+      url: https://www.linkedin.com/in/beckycmarvin/
+      photo: /photos/becky_profile.jpg
+      title: JD student
+      location: University of Chicago School of Law
+
+    - name : Simon Mendelsohn
+      photo:  /photos/simon_profile.jpg
+      url : https://simonjmendelsohn.github.io
+
+    - name : Tom McCoy
+      photo: /photos/tom_profile.jpg
+      url: https://tommccoy1.github.io
+      title : PhD student
+      location: Johns Hopkins Univ, Cog Sci
+
+    - name : Will Merrill
+      photo: /photos/will_profile.jpg
+      title: PhD student 
+      url: https://lambdaviking.com/
+      location: NYU, Data Science
+
+    - name : Rose Sloan
+      photo: http://www.cs.columbia.edu/speech/images/ph_rose.jpg
+      url: http://www.cs.columbia.edu/speech/people.cgi?p=rose
+      title : PhD student
+      location: Columbia Univ, CS
+
+    - name : Shayna Sragovicz
+      photo:  /photos/shayna_profile.jpg
+      title : 2023 
+
+    - name : Aarohi Srivastava
+      photo: /photos/aarohi_profile.jpg
+      url: https://nlp.nd.edu/
+      title : PhD student
+      location: Univ. of Notre Dame, CS
+
+    - name : Rachel Sterneck
+      photo: /photos/rachel_profile.jpg
+      email: rachel.sterneck@yale.edu
+      url: https://www.linkedin.com/in/rachel-sterneck/
+      title : 2022
+
+    - name : Yi Chern Tan
+      url : https://yich.io
+      photo: /photos/yichern_profile.jpg
+      email: yichern.tan@yale.edu
+
+    - name : Sarah Widder
+      photo: /photos/sarah_profile.jpg
+      email: sarah.widder@yale.edu
+      url: https://www.linkedin.com/in/sarah-widder-53972a126/
+      location: Microsoft
+      title: Software Engineer
+
+    - name : Pauli Xu
+      photo: /photos/pauli_profile.jpg
+      url: https://www.linkedin.com/in/pauli-xu-231455156/
+      title: MA Student
+      location: Yale Divinity School
