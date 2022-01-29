@@ -99,5 +99,28 @@ phd-alumni:
       title : Language Engineer
       location: Amazon
 
-      
- 
+ undergrad-alumni:
+
+    - name : Noah Amsel
+      photo: /photos/noah_profile.jpg
+      email: noah.amsel@yale.edu
+      url: https://www.linkedin.com/in/noah-amsel/
+      location : Reservoir Labs
+      title: Research Engineer
+
+    - name : Andrew Benz
+      photo: /photos/andrew_profile.jpg
+      email: andrew.benz@yale.edu
+      title : 2022
+
+    - name : Dan Friedman
+      photo: /photos/dan_profile.jpg
+      url: https://danfriedman0.github.io/
+      title : PhD student (CS)
+      location: Princeton
+
+    - name : Sarah Gross
+      photo: /photos/sarahgross_profile.jpg
+      url: https://www.linkedin.com/in/sarah-gross-46b38810a/
+      title: Senior Analyst
+      location: Kind
