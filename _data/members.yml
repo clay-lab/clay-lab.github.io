@@ -62,6 +62,12 @@ undergraduate:
       email : jackson.petty@yale.edu
       url : http://jacksonpetty.org/
       title : 2022 
+      
+    - name : Rachel Sterneck
+      photo: /photos/rachel_profile.jpg
+      email: rachel.sterneck@yale.edu
+      url: https://www.linkedin.com/in/rachel-sterneck/
+      title : 2022
 
 post-doc-alumni:
 
@@ -185,12 +191,6 @@ undergrad-alumni:
       url: https://nlp.nd.edu/
       title : PhD student
       location: Notre Dame, CS
-
-    - name : Rachel Sterneck
-      photo: /photos/rachel_profile.jpg
-      email: rachel.sterneck@yale.edu
-      url: https://www.linkedin.com/in/rachel-sterneck/
-      title : 2022
 
     - name : Yi Chern Tan
       url : https://yich.io
