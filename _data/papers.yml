@@ -1,4 +1,9 @@
 papers:
+    - title: "Do Language Models Learn Position-Role Mappings?" 
+      authors: "Jackson Petty, Michael Wilson and Robert Frank"
+      conference: "Proceedings of BUCLD 46, 2021."
+      pdf : "https://arxiv.org/pdf/2202.03611.pdf"
+      image: "/images/animacy-conf.png"  
 
     - title: "Structure Here, Bias There: Hierarchical Generalization by Jointly Learning Syntactic Transformations" 
       authors: "Karl Mulligan, Robert Frank and Tal Linzen"
