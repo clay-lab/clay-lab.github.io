@@ -1,7 +1,7 @@
 papers:
     - title: "Do Language Models Learn Position-Role Mappings?" 
       authors: "Jackson Petty, Michael Wilson and Robert Frank"
-      conference: "Proceedings of BUCLD 46, 2021."
+      conference: "Proceedings of BUCLD 46, 2022."
       pdf : "https://arxiv.org/pdf/2202.03611.pdf"
       image: "/images/animacy-conf.png"  
 
