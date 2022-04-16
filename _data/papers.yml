@@ -1,4 +1,13 @@
 papers:
+    - title: "Coloring the Blank Slate: Pre-training Imparts a Hierarchical Inductive Bias to Sequence-to-sequence Models"
+      authors: "Aaron Mueller, Robert Frank, Tal Linzen, Luheng Wang and Sebastian Schuster"
+      conference: "Findings of the Association for Computational Linguistics, 2022."
+      pdf: "https://arxiv.org/pdf/2203.09397.pdf"
+      image: "/images/pretrain.png"
+      code: "https://github.com/sebschu/multilingual-transformations"
+
+"
+
     - title: "Do Language Models Learn Position-Role Mappings?" 
       authors: "Jackson Petty, Michael Wilson and Robert Frank"
       conference: "Proceedings of BUCLD 46, 2022."
