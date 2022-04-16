@@ -1,4 +1,10 @@
 papers:
+    - title: "Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity"
+      authors: "Yiding Hao, Dana Angluin and Robert Frank"
+      conference: "Transactions of the Association for Computational Linguistics, to appear."
+      pdf: "https://arxiv.org/pdf/2204.06618.pdf"
+      image: "circuit-complexity.png"
+
     - title: "Coloring the Blank Slate: Pre-training Imparts a Hierarchical Inductive Bias to Sequence-to-sequence Models"
       authors: "Aaron Mueller, Robert Frank, Tal Linzen, Luheng Wang and Sebastian Schuster"
       conference: "Findings of the Association for Computational Linguistics, 2022."
