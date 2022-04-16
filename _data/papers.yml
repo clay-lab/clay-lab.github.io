@@ -3,7 +3,7 @@ papers:
       authors: "Yiding Hao, Dana Angluin and Robert Frank"
       conference: "Transactions of the Association for Computational Linguistics, to appear."
       pdf: "https://arxiv.org/pdf/2204.06618.pdf"
-      image: "circuit-complexity.png"
+      image: "/images/circuit-complexity.png"
 
     - title: "Coloring the Blank Slate: Pre-training Imparts a Hierarchical Inductive Bias to Sequence-to-sequence Models"
       authors: "Aaron Mueller, Robert Frank, Tal Linzen, Luheng Wang and Sebastian Schuster"
