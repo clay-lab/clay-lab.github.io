@@ -1,4 +1,11 @@
 papers:
+
+    - title: "Subject-verb Agreement with Seq2Seq Transformers: Bigger Is Better, but Still Not Best" 
+      authors: "Michael A. Wilson, Zhenghao Zhou and Robert Frank"
+      conference: "Proceedings of the Society for Computation in Linguistics, 2023."
+      pdf : "https://scholarworks.umass.edu/scil/vol6/iss1/26/"
+      image: "/images/bigger-is-better.png"  
+
     - title: "Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity"
       authors: "Yiding Hao, Dana Angluin and Robert Frank"
       conference: "Transactions of the Association for Computational Linguistics, to appear."
