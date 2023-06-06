@@ -1,5 +1,11 @@
 papers:
 
+    - title: "How poor is the stimulus? Evaluating hierarchical generalization in neural networks trained on child-directed speech" 
+      authors: "Aditya Yedetore, Tal Linzen, Robert Frank and R. Thomas McCoy"
+      conference: "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, 2023."
+      pdf : "https://arxiv.org/abs/2301.11462"
+      image: "/images/povstim.png"  
+
     - title: "On the Spectra of Syntactic Structures" 
       authors: "Isabella Senturia and Robert Frank"
       conference: "Proceedings of the Society for Computation in Linguistics, 2023."
@@ -20,8 +26,8 @@ papers:
 
     - title: "Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity"
       authors: "Yiding Hao, Dana Angluin and Robert Frank"
-      conference: "Transactions of the Association for Computational Linguistics, to appear."
-      pdf: "https://arxiv.org/pdf/2204.06618.pdf"
+      conference: "Transactions of the Association for Computational Linguistics, 2022."
+      pdf: "https://aclanthology.org/2022.tacl-1.46/"
       image: "/images/circuit-complexity.png"
 
     - title: "Coloring the Blank Slate: Pre-training Imparts a Hierarchical Inductive Bias to Sequence-to-sequence Models"
