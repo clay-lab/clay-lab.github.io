@@ -24,6 +24,12 @@ papers:
       pdf : "https://scholarworks.umass.edu/scil/vol6/iss1/48/"
       image: "/images/structural-priming.png"  
 
+ - title: "False perspectives on human language: Why statistics needs linguistics"
+      authors: "Matteo Greco, Andrea Cometa, Fiorenzo Artoni, Robert Frank and Andrea Moro"
+      conference: "Frontiers in Language Sciences 2, 2022."
+      pdf: "https://www.frontiersin.org/articles/10.3389/flang.2023.1178932/full"
+      image: "/images/surprisal.png"
+
     - title: "Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity"
       authors: "Yiding Hao, Dana Angluin and Robert Frank"
       conference: "Transactions of the Association for Computational Linguistics, 2022."
@@ -42,6 +48,12 @@ papers:
       conference: "Proceedings of BUCLD 46, 2022."
       pdf : "https://arxiv.org/pdf/2202.03611.pdf"
       image: "/images/animacy-conf.png"  
+
+    - title: "Variation in mild context-sensitivity: Derivational state and structural monotonicity"
+      authors: "Robert Frank and Tim Hunter"
+      conference: "Evolutionary Linguistic Theory 3(2), 2021."
+      pdf : "https://www.jbe-platform.com/content/journals/10.1075/elt.00033.fra"
+      image: "/images/derivational-state.png"  
 
     - title: "Structure Here, Bias There: Hierarchical Generalization by Jointly Learning Syntactic Transformations" 
       authors: "Karl Mulligan, Robert Frank and Tal Linzen"
