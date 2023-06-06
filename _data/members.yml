@@ -14,11 +14,6 @@ faculty:
 
 graduate:
 
-    - name : Yiding Hao
-      photo: https://ling.yale.edu/sites/default/files/styles/medium/public/pictures/picture-115-1516231237.jpg
-      email: yiding.hao@yale.edu
-      url: https://www.notaphonologist.com
-      title : PhD student <br> Linguistics & <br> Computer Science
 
     - name : Ayla Karakas
       photo: /photos/ayla_profile.jpg
@@ -36,60 +31,53 @@ graduate:
       photo: /photos/michael_profile.jpg
       email: michael.a.wilson@yale.edu
       url: https://campuspress.yale.edu/michaelwilson/
-      title : Post-doctoral fellow 
+      title : Postdoctoral fellow 
+
+    - name : Zhenghao Herbert Zhao
+      photo: https://ling.yale.edu/sites/default/files/styles/portrait_thumbnail_large/public/pictures/picture-485-1665851621.jpg?itok=Ifs9gIeR
+      email: herbert.zhao@yale.edu
+      url: https://ling.yale.edu/people/herbert-zhou
+      title : PhD student <br> Linguistics 
 
 undergraduate:
 
-    - name : Hana Galijašević
-      photo : /photos/hana_profile.jpg
-      email : hana.galijasevic@yale.edu
-      url: https://www.linkedin.com/in/hana-galijasevic/
-      title : 2022
-
-    - name : Pearl Hwang
-      photo : /photos/pearl_profile.jpg
-      email : pearl.hwang@yale.edu
-      url: https://www.linkedin.com/in/pinyu-hwang-16b014193/
-      title : 2023
-
-    - name : William Min
-      photo : /photos/test.jpg
-      email : w.min@yale.edu
+    - name : Deanna DeCarlo
+      photo: /photos/decarlo_profile.jpg
+      email: deanna.decarlo@yale.edu
       title : 2025
 
-    - name : Jackson Petty
-      photo : /photos/jackson_profile.jpg
-      email : jackson.petty@yale.edu
-      url : http://jacksonpetty.org/
-      title : 2022 
-      
-    - name : Rachel Sterneck
-      photo: /photos/rachel_profile.jpg
-      email: rachel.sterneck@yale.edu
-      url: https://www.linkedin.com/in/rachel-sterneck/
-      title : 2022
+    - name : Sachien Fernando
+      photo: /photos/fernando_profile.jpg
+      email: sachien.fernando@yale.edu
+      title : 2026
 
+    - name : William Palmer
+      photo: /photos/palmer_profile.jpg
+      email: william.palmer@yale.edu
+      title : 2026
+ 
+ 
 post-doc-alumni:
 
     - name : David Chartash
       photo: /photos/chartash_profile.jpg
       email: david.chartash@yale.edu
       url: https://medicine.yale.edu/profile/david_chartash/
-      title : Post-doctoral fellow <br> Yale School of Medicine
-
+      title : Postdoctoral fellow 
+      location: Yale School of Medicine
 
     - name : Tim Hunter
       photo: /photos/tim_profile.jpg
       email: timhunter@ucla.edu
       url: http://linguistics.ucla.edu/people/hunter/
       title : Associate Professor
-      location: Linguistics, UCLA
+      location: UCLA, Linguistic
 
     - name : Dennis  Storoshenko
       photo: /photos/dennis_profile.jpg
       url: http://people.ucalgary.ca/~dstorosh/
       title : Associate Professor
-      location: Linguistics <br>  Univ of Calgary
+      location:  Univ of Calgary <br>  Linguistics 
 
 phd-alumni: 
 
@@ -98,6 +86,13 @@ phd-alumni:
       url: https://www.linkedin.com/in/michael-freedman-92a48882/
       title : Computational Linguist
       location: Ntrepid Corp
+
+    - name : Yiding Hao
+      photo: https://ling.yale.edu/sites/default/files/styles/medium/public/pictures/picture-115-1516231237.jpg
+      email: yiding.hao@yale.edu
+      url: https://www.notaphonologist.com
+      title : Faculty Fellow
+      location: Data Science, NYU
 
     - name : Natalie Schrimpf
       photo: /photos/natalie_profile.jpg
@@ -110,13 +105,14 @@ undergrad-alumni:
     - name : Noah Amsel
       photo: /photos/noah_profile.jpg
       url: https://www.linkedin.com/in/noah-amsel/
-      location : Reservoir Labs
-      title: Research Engineer
+      title : PhD student
+      location: NYU, CS
 
     - name : Andrew Benz
       photo: /photos/andrew_profile.jpg
       email: andrew.benz@yale.edu
-      title : 2022
+      title : Machine Learning Scientist
+      location: Cellarity
 
     - name : Dan Friedman
       photo: /photos/dan_profile.jpg
@@ -124,11 +120,23 @@ undergrad-alumni:
       title : PhD student 
       location: Princeton, CS
 
+    - name : Hana Galijašević
+      photo : /photos/hana_profile.jpg
+      url: https://www.linkedin.com/in/hana-galijasevic/
+      title : PhD student
+      location: Univ of Michigan, Information
+
+
     - name : Sarah Gross
       photo: /photos/sarahgross_profile.jpg
       url: https://www.linkedin.com/in/sarah-gross-46b38810a/
       title: Senior Analyst
       location: Kind
+
+    - name : Pearl Hwang
+      photo : /photos/pearl_profile.jpg
+      url: https://www.linkedin.com/in/pinyu-hwang-16b014193/
+
 
     - name : Jungo Kasai
       url: https://homes.cs.washington.edu/~jkasai/
@@ -159,23 +167,35 @@ undergrad-alumni:
       title: JD student
       location: Univ of Chicago, Law
 
+    - name : Tom McCoy
+      photo: /photos/tom_profile.jpg
+      url: https://tommccoy1.github.io
+      title : Postdoctoral researcher
+      location: Princeton, CS
+
     - name : Simon Mendelsohn
       photo:  /photos/simon_profile.jpg
       title: Software Engineer
       location: Broad Institute
       url : https://simonjmendelsohn.github.io
 
-    - name : Tom McCoy
-      photo: /photos/tom_profile.jpg
-      url: https://tommccoy1.github.io
-      title : PhD student
-      location: JHU, Cog Sci
-
     - name : Will Merrill
       photo: /photos/will_profile.jpg
       title: PhD student 
       url: https://lambdaviking.com/
       location: NYU, Data Science
+
+    - name : William Min
+      photo : /photos/test.jpg
+      email : w.min@yale.edu
+      title : 2025
+ 
+
+    - name : Jackson Petty
+      photo : /photos/jackson_profile.jpg
+      title: PhD student
+      location: NYU, Linguistics
+      url : http://jacksonpetty.org/
 
     - name : Rose Sloan
       photo: /photos/rose_profile.jpg
@@ -191,10 +211,18 @@ undergrad-alumni:
       url: https://nlp.nd.edu/
       title : PhD student
       location: Notre Dame, CS
+  
+    - name : Rachel Sterneck
+      photo: /photos/rachel_profile.jpg
+      url: https://www.linkedin.com/in/rachel-sterneck/
+      title: Software Engineer
+      location: Deep Mind
 
     - name : Yi Chern Tan
       url : https://yich.io
       photo: /photos/yichern_profile.jpg
+      title: Member of Technical Staff
+      location: Cohere
       email: yichern.tan@yale.edu
 
     - name : Sarah Widder
