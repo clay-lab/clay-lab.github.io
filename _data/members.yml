@@ -42,17 +42,17 @@ graduate:
 undergraduate:
 
     - name : Deanna DeCarlo
-      photo: /photos/decarlo_profile.jpg
+      photo: /photos/test.jpg
       email: deanna.decarlo@yale.edu
       title : 2025
 
     - name : Sachien Fernando
-      photo: /photos/fernando_profile.jpg
+      photo: /photos/test.jpg
       email: sachien.fernando@yale.edu
       title : 2026
 
     - name : William Palmer
-      photo: /photos/palmer_profile.jpg
+      photo: /photos/test.jpg
       email: william.palmer@yale.edu
       title : 2026
  
@@ -111,7 +111,7 @@ undergrad-alumni:
     - name : Andrew Benz
       photo: /photos/andrew_profile.jpg
       email: andrew.benz@yale.edu
-      title : Machine Learning Scientist
+      title : Machine Learning Scient
       location: Cellarity
 
     - name : Dan Friedman
@@ -124,7 +124,7 @@ undergrad-alumni:
       photo : /photos/hana_profile.jpg
       url: https://www.linkedin.com/in/hana-galijasevic/
       title : PhD student
-      location: Univ of Michigan, Information
+      location: Univ Michigan, Info Sch
 
 
     - name : Sarah Gross
@@ -221,7 +221,7 @@ undergrad-alumni:
     - name : Yi Chern Tan
       url : https://yich.io
       photo: /photos/yichern_profile.jpg
-      title: Member of Technical Staff
+      title: Member of Tech Staff
       location: Cohere
       email: yichern.tan@yale.edu
 
