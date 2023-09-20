@@ -1,5 +1,11 @@
 papers:
 
+    - title: "The antisymmetry of syntactic structure: a view from automorphisms" 
+      authors: "Robert Frank, William Min, Abhisar Mittal and Billy Zhong"
+      conference: "Papers in Honor of Andrea Moro, to appear."
+      pdf : "/papers/automorphism.pdf"
+      image: "/images/automorphism.png"  
+
     - title: "How poor is the stimulus? Evaluating hierarchical generalization in neural networks trained on child-directed speech" 
       authors: "Aditya Yedetore, Tal Linzen, Robert Frank and R. Thomas McCoy"
       conference: "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, 2023."
