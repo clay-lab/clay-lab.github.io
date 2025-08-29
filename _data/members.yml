@@ -173,7 +173,7 @@ phd-alumni:
       email: sophie.hao@nyu.edu
       url: https://www.notaphonologist.com
       title : Assistant Professor
-      location: Linguistics & Data Science <BR> Boston University
+      location: Ling & Data Science <BR> Boston University
 
     - name : Natalie Schrimpf
       photo: /photos/natalie_profile.jpg
@@ -222,7 +222,7 @@ undergrad-alumni:
     - name : Pearl Hwang
       photo : /photos/pearl_profile.jpg
       url: https://www.linkedin.com/in/pinyu-hwang-16b014193/
-      title: Softweare Engineer
+      title: Software Engineer
       location: Google
 
     - name : Jungo Kasai
