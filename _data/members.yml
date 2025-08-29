@@ -12,21 +12,25 @@ faculty:
       url: https://rtmccoy.com
       title: Assistant Professor<br> Linguistics
 
-    - name : Simon Charlow
-      photo: /photos/charlow_profile.jpg
-      email: simon.charlow@yale.edu
-      url: https://simoncharlow.com
-      title: Associate Professor<br> Linguistics
-
-
     - name : Dana Angluin
       photo: /photos/dana_profile.jpg
       email: dana.angluin@yale.edu
       title: Professor Emeritus <br> Computer Science
       url: https://engineering.yale.edu/research-and-faculty/faculty-directory/dana-angluin
 
+    - name : Simon Charlow
+      photo: /photos/charlow_profile.jpg
+      email: simon.charlow@yale.edu
+      url: https://simoncharlow.com
+      title: Associate Professor<br> Linguistics
+
 graduate:
 
+    - name : Anton Hampe
+      photo: /photos/test.jpg
+      email: anton.hampe@yale.edu
+      #url: https://ling.yale.edu/people/ayla-karakas
+      title : PhD student <br> Linguistics 
 
     - name : Ayla Karakas
       photo: /photos/ayla_profile.jpg
@@ -40,16 +44,29 @@ graduate:
       url: https://ling.yale.edu/people/isabella-senturia
       title : PhD student <br> Linguistics 
 
-    - name : Michael Wilson
-      photo: /photos/michael_profile.jpg
-      email: michael.a.wilson@yale.edu
-      url: https://campuspress.yale.edu/michaelwilson/
-      title : Postdoctoral fellow 
+    - name : Kaya Stechly
+      photo: https://kstechly.github.io/assets/img/prof_pic.jpg
+      email: kaya.stechly@yale.edu
+      url: https://kstechly.github.io
+      title : PhD student <br> Computer Science 
+      
+    - name : Enyan Zhang
+      photo: https://enyanz.com/media/me-small.jpg
+      email: enyan.zhang@yale.edu
+      url: https://enyanz.com
+      title : PhD student <br> Computer Science 
+
 
     - name : Zhenghao Herbert Zhou
       photo: /photos/herbert_profile.jpg
       email: herbert.zhou@yale.edu
       url: https://ling.yale.edu/people/herbert-zhou
+      title : PhD student <br> Linguistics 
+
+    - name : Xiaomeng Miranda Zhu
+      photo: /photos/miranda_profile.jpg
+      email: miranda.zhu@yale.edu
+      url: hhttps://xiaomeng-zhu.github.io
       title : PhD student <br> Linguistics 
 
 undergraduate:
@@ -84,13 +101,20 @@ post-doc-alumni:
       email: timhunter@ucla.edu
       url: http://linguistics.ucla.edu/people/hunter/
       title : Associate Professor
-      location: UCLA, Linguistic
+      location: UCLA, Linguistics
 
     - name : Dennis  Storoshenko
       photo: /photos/dennis_profile.jpg
       url: http://people.ucalgary.ca/~dstorosh/
       title : Associate Professor
       location:  Univ of Calgary <br>  Linguistics 
+
+    - name : Michael Wilson
+      photo: /photos/michael_profile.jpg
+      email: mwilson3@unr.edu      
+      url: https://sites.udel.edu/michaelwilson/
+      title : University of Nevada, Reno <br> Linguistics 
+
 
 phd-alumni: 
 
