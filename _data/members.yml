@@ -6,11 +6,24 @@ faculty:
       url: https://bobfrank1.github.io
       title: Professor<br> Linguistics
 
+    - name : Tom McCoy
+      photo: /photos/tom_profile.jpg
+      email: tom.mccoy@yale.edu
+      url: https://rtmccoy.com
+      title: Assistant Professor<br> Linguistics
+
+    - name : Simon Charlow
+      photo: /photos/charlow_profile.jpg
+      email: simon.charlow@yale.edu
+      url: https://simoncharlow.com
+      title: Associate Professor<br> Linguistics
+
+
     - name : Dana Angluin
-      photo: https://seas.yale.edu/sites/default/files/imagecache/person/angluin-web.jpg
+      photo: https://engineering.yale.edu/application/files/thumbnails/custom_720x720_exact_2x/5317/3723/4807/Dana_Angluin_computer_science.webp
       email: dana.angluin@yale.edu
       title: Professor Emeritus <br> Computer Science
-      url: https://cpsc.yale.edu/people/dana-angluin
+      url: https://engineering.yale.edu/research-and-faculty/faculty-directory/dana-angluin
 
 graduate:
 
