@@ -51,7 +51,7 @@ graduate:
       title : PhD student <br> Computer Science 
       
     - name : Enyan Zhang
-      photo: https://enyanz.com/media/me-small.jpg
+      photo: /photos/enyan_profile.jpg
       email: enyan.zhang@yale.edu
       url: https://enyanz.com
       title : PhD student <br> Computer Science 
@@ -71,29 +71,72 @@ graduate:
 
 undergraduate:
 
-    - name : Deanna DeCarlo
-      photo: /photos/test.jpg
-      email: deanna.decarlo@yale.edu
-      title : 2025
 
-    - name : Sachien Fernando
+    - name : Lasse van den Berg
       photo: /photos/test.jpg
-      email: sachien.fernando@yale.edu
+      email: lasseheinrich.vandenberg@yale.edu
+      title : 2026
+
+    - name : William Dai
+      photo: /photos/test.jpg
+      email: william.dai@yale.edu
+      title : 2028
+
+    - name : Deanna DeCarlo
+      photo: /photos/deanna_profile.jpg
+      url: https://www.linkedin.com/in/deanna-decarlo/
+      email: deanna.decarlo@yale.edu
+      title : 2026
+
+    - name : Maryam Elbenni
+      photo: /photos/maryam_profile.jpg
+      url: https://www.linkedin.com/in/maryam-elbenni-584a62333/
+      email: maryam.elbenni@yale.edu
       title : 2026
 
     - name : William Palmer
       photo: /photos/test.jpg
       email: william.palmer@yale.edu
       title : 2026
+
+    - name : Daniel Koldobskiy
+      photo: /photos/test.jpg
+      email: daniel.koldobskiy@yale.edu
+      url: https://www.linkedin.com/in/daniel-koldobskiy-a71567230/
+      title : 2026
+
+    - name : Juliano Portela
+      photo: /photos/test.jpg
+      url: https://www.linkedin.com/in/julianodportela/
+      email: juliano.portela@yale.edu
+      title : 2027
  
+    - name : Morgan Taylor
+      photo: /photos/morgan_profile.jpg
+      url: https://www.linkedin.com/in/morgan-taylor-37a0a723b/
+      email: morgan.taylor@yale.edu
+      title : 2027
+
+    - name : Maya Viswanathan
+      photo: /photos/test.jpg
+      url: https://www.linkedin.com/in/maya-viswanathan-a8850a33b/
+      email: maya.viswanathan@yale.edu
+      title : 2028
  
+    - name : Annie Ye
+      photo: /photos/annie_ye_profile.jpg
+      url: https://www.linkedin.com/in/annie-ye-3aa4b8280/
+      email: annie.ye@yale.edu
+      title : 2028
+ 
+
 post-doc-alumni:
 
     - name : David Chartash
       photo: /photos/chartash_profile.jpg
       email: david.chartash@yale.edu
       url: https://medicine.yale.edu/profile/david_chartash/
-      title : Postdoctoral fellow 
+      title : Instructor
       location: Yale School of Medicine
 
     - name : Tim Hunter
@@ -124,12 +167,12 @@ phd-alumni:
       title : Computational Linguist
       location: Ntrepid Corp
 
-    - name : Yiding Hao
+    - name : Sophie Hao
       photo: https://ling.yale.edu/sites/default/files/styles/medium/public/pictures/picture-115-1516231237.jpg
-      email: yiding.hao@yale.edu
+      email: sophie.hao@nyu.edu
       url: https://www.notaphonologist.com
-      title : Faculty Fellow
-      location: Data Science, NYU
+      title : Assistant Professor
+      location: Linguistics and Data Science, BU
 
     - name : Natalie Schrimpf
       photo: /photos/natalie_profile.jpg
@@ -151,6 +194,12 @@ undergrad-alumni:
       title : Machine Lrn Scient
       location: Cellarity
 
+    - name : Sachien Fernando
+      photo: /photos/sachien_profile.jpg
+      email: sachien.fernando@yale.edu
+      title : Software Engineer
+      location: Microsoft
+
     - name : Dan Friedman
       photo: /photos/dan_profile.jpg
       url: https://danfriedman0.github.io/
@@ -159,10 +208,9 @@ undergrad-alumni:
 
     - name : Hana Galijašević
       photo : /photos/hana_profile.jpg
-      url: https://www.linkedin.com/in/hana-galijasevic/
-      title : PhD student
-      location: Univ Michigan, Info Sch
-
+      url: hhttps://hanagali.com
+      title : Faculty member
+      location: Providence Day School 
 
     - name : Sarah Gross
       photo: /photos/sarahgross_profile.jpg
@@ -173,13 +221,14 @@ undergrad-alumni:
     - name : Pearl Hwang
       photo : /photos/pearl_profile.jpg
       url: https://www.linkedin.com/in/pinyu-hwang-16b014193/
-
+      title: Softweare Engineer
+      location: Google
 
     - name : Jungo Kasai
-      url: https://homes.cs.washington.edu/~jkasai/
+      url: https://jungokasai.github.io
       photo: /photos/jungo_profile.jpg
-      title: PhD student
-      location: Univ of Washington, CS
+      title: CTO
+      location: Kotoba Technologies
 
     - name : Lenny Khazan
       photo : /photos/lenny_profile.jpg
@@ -218,16 +267,17 @@ undergrad-alumni:
 
     - name : Will Merrill
       photo: /photos/will_profile.jpg
-      title: PhD student 
+      title: Assistant Professor
       url: https://lambdaviking.com/
-      location: NYU, Data Science
+      location: Toyota Technical Institute at Chicago
 
     - name : William Min
-      photo : /photos/test.jpg
-      email : w.min@yale.edu
-      title : 2025
+      photo: /photos/min_profile.jpg
+      email: w.min@yale.edu
+      url: https://www.linkedin.com/in/william-min-92a78a234/
+      title: MS student
+      location: Uppsala University, Data Science
  
-
     - name : Jackson Petty
       photo : /photos/jackson_profile.jpg
       title: PhD student
