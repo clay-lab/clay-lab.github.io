@@ -20,7 +20,7 @@ faculty:
 
 
     - name : Dana Angluin
-      photo: https://engineering.yale.edu/application/files/thumbnails/custom_720x720_exact_2x/5317/3723/4807/Dana_Angluin_computer_science.webp
+      photo: /photos/dana_profile.jpg
       email: dana.angluin@yale.edu
       title: Professor Emeritus <br> Computer Science
       url: https://engineering.yale.edu/research-and-faculty/faculty-directory/dana-angluin
