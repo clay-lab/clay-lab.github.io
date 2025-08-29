@@ -150,13 +150,13 @@ post-doc-alumni:
       photo: /photos/dennis_profile.jpg
       url: http://people.ucalgary.ca/~dstorosh/
       title : Associate Professor
-      location:  Univ of Calgary <br>  Linguistics 
+      location:  U. of Calgary <br>  Linguistics 
 
     - name : Michael Wilson
       photo: /photos/michael_profile.jpg
       email: mwilson3@unr.edu      
       url: https://sites.udel.edu/michaelwilson/
-      title : Univ of Nevada, Reno <br> Linguistics 
+      title : U. of Nevada, Reno <br> Linguistics 
 
 
 phd-alumni: 
@@ -168,7 +168,7 @@ phd-alumni:
       location: Finch AI
 
     - name : Sophie Hao
-      photo: https://ling.yale.edu/sites/default/files/styles/medium/public/pictures/picture-115-1516231237.jpg
+      photo: /photos/sophie_profile.jpg
       email: sophie.hao@nyu.edu
       url: https://www.notaphonologist.com
       title : Assistant Professor
@@ -248,7 +248,7 @@ undergrad-alumni:
       location : Deep Mind  
 
     - name : Rebecca Marvin
-      url: https://www.linkedin.com/in/beckycmarvin/
+      url: https://www.linkedin.com/in/rebeccamarvindiamond/
       photo: /photos/becky_profile.jpg
       title: JD student
       location: Univ of Chicago, Law
