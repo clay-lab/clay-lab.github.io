@@ -29,19 +29,19 @@ graduate:
     - name : Anton Hampe
       photo: /photos/test.jpg
       email: anton.hampe@yale.edu
-      #url: https://ling.yale.edu/people/ayla-karakas
+      #url: https://ling.yale.edu/profile/anton-hampe
       title : PhD student <br> Linguistics 
 
     - name : Ayla Karakas
       photo: /photos/ayla_profile.jpg
       email: ayla.karakas@yale.edu
-      url: https://ling.yale.edu/people/ayla-karakas
+      url: https://ling.yale.edu/profile/ayla-karakas
       title : PhD student <br> Linguistics 
 
     - name : Bella Senturia
       photo: /photos/bella_profile.jpg
       email: isabella.senturia@yale.edu
-      url: https://ling.yale.edu/people/isabella-senturia
+      url: https://ling.yale.edu/profile/isabella-senturia
       title : PhD student <br> Linguistics 
 
     - name : Kaya Stechly
@@ -156,7 +156,7 @@ post-doc-alumni:
       photo: /photos/michael_profile.jpg
       email: mwilson3@unr.edu      
       url: https://sites.udel.edu/michaelwilson/
-      title : University of Nevada, Reno <br> Linguistics 
+      title : Univ of Nevada, Reno <br> Linguistics 
 
 
 phd-alumni: 
@@ -164,15 +164,15 @@ phd-alumni:
     - name : Michael Freedman
       photo: /photos/mike_profile.jpg
       url: https://www.linkedin.com/in/michael-freedman-92a48882/
-      title : Computational Linguist
-      location: Ntrepid Corp
+      title : Data Science Architect
+      location: Finch AI
 
     - name : Sophie Hao
       photo: https://ling.yale.edu/sites/default/files/styles/medium/public/pictures/picture-115-1516231237.jpg
       email: sophie.hao@nyu.edu
       url: https://www.notaphonologist.com
       title : Assistant Professor
-      location: Linguistics and Data Science, BU
+      location: Linguistics and Data Science <BR> Boston University
 
     - name : Natalie Schrimpf
       photo: /photos/natalie_profile.jpg
@@ -256,8 +256,8 @@ undergrad-alumni:
     - name : Tom McCoy
       photo: /photos/tom_profile.jpg
       url: https://tommccoy1.github.io
-      title : Postdoctoral researcher
-      location: Princeton, CS
+      title : Assistant Professor
+      location: Yale, Linguistics
 
     - name : Simon Mendelsohn
       photo:  /photos/simon_profile.jpg
@@ -269,14 +269,14 @@ undergrad-alumni:
       photo: /photos/will_profile.jpg
       title: Assistant Professor
       url: https://lambdaviking.com/
-      location: Toyota Technical Institute at Chicago
+      location: TTIC
 
     - name : William Min
       photo: /photos/min_profile.jpg
       email: w.min@yale.edu
       url: https://www.linkedin.com/in/william-min-92a78a234/
       title: MS student
-      location: Uppsala University, Data Science
+      location: Uppsala University <BR> Data Science
  
     - name : Jackson Petty
       photo : /photos/jackson_profile.jpg
