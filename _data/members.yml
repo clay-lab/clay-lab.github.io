@@ -94,19 +94,20 @@ undergraduate:
       email: maryam.elbenni@yale.edu
       title : 2026
 
-    - name : William Palmer
-      photo: /photos/test.jpg
-      email: william.palmer@yale.edu
-      title : 2026
-
     - name : Daniel Koldobskiy
       photo: /photos/test.jpg
       email: daniel.koldobskiy@yale.edu
       url: https://www.linkedin.com/in/daniel-koldobskiy-a71567230/
       title : 2026
 
+    - name : William Palmer
+      photo: /photos/william_profile.jpg
+      email: william.palmer@yale.edu
+      url: https://www.linkedin.com/in/william-palmer-558369299/
+      title : 2026
+
     - name : Juliano Portela
-      photo: /photos/test.jpg
+      photo: /photos/juliano_profile.jpg
       url: https://www.linkedin.com/in/julianodportela/
       email: juliano.portela@yale.edu
       title : 2027
@@ -118,7 +119,7 @@ undergraduate:
       title : 2027
 
     - name : Maya Viswanathan
-      photo: /photos/test.jpg
+      photo: /photos/maya_profile.jpg
       url: https://www.linkedin.com/in/maya-viswanathan-a8850a33b/
       email: maya.viswanathan@yale.edu
       title : 2028
