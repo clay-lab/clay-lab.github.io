@@ -7,7 +7,7 @@ papers:
       image: "/images/discourse_anaphora.png"
 
     - title: "Is In-Context Learning a Type of Error-Driven Learning? Evidence from the Inverse Frequency Effect in Structural Priming"
-      authors: "Herbert Zhou, Robert Frank and R. Thomas McCoy"
+      authors: "Zhenghao Zhou, Robert Frank and R. Thomas McCoy"
       conference: "Proceedings of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), 2025."
       pdf: "https://aclanthology.org/2025.naacl-long.586/"
       image: "/images/ICL.png"
