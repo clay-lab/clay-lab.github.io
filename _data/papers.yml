@@ -37,7 +37,7 @@ papers:
       image: "/images/cometa.png"
 
     - title: "Inductive Bias is in the Eye of the Beholder" 
-      authors: "Michael Wilson and Robert Frank""
+      authors: "Michael Wilson and Robert Frank"
       conference: "Proceedings of the First Workshop on Benchmarking Generalization (GenBench) (EMNLP), 2023."
       pdf : "https://aclanthology.org/2023.genbench-1.12/"
       image: "/images/inductive_bias.png"  
