@@ -12,17 +12,17 @@ papers:
       pdf: "https://aclanthology.org/2025.naacl-long.586/"
       image: "/images/ICL.png"
 
-    - title: "LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition"
-      authors: "Xiaomeng Zhu and Robert Frank"
-      conference: "Proceedings of the Association for Computational Linguistics (ACL), 2024."
-      pdf: "https://aclanthology.org/2024.acl-long.746/"
-      image: "/images/Lieder.png"
-
     - title: "Brain and grammar: Revealing electrophysiological basic structures with competing statistical models"
       authors: "Tim Hunter and Robert Frank"
       conference: "The Cambridge Handbook of Comparative Syntax, 2025."
       pdf: "https://timhunter.humspace.ucla.edu/papers/HunterFrank-ComparativeSyntaxCambridge.pdf"
       image: "/images/raising_discontinuity.png"
+
+    - title: "LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition"
+      authors: "Xiaomeng Zhu and Robert Frank"
+      conference: "Proceedings of the Association for Computational Linguistics (ACL), 2024."
+      pdf: "https://aclanthology.org/2024.acl-long.746/"
+      image: "/images/Lieder.png"
 
     - title: "The antisymmetry of syntactic structure: a view from automorphisms" 
       authors: "Robert Frank, William Min, Abhisar Mittal and Billy Zhong"
