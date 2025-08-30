@@ -18,7 +18,7 @@ papers:
       pdf: "https://aclanthology.org/2025.naacl-long.586/"
       image: "/images/ICL.png"
 
-    - title: "Brain and grammar: Revealing electrophysiological basic structures with competing statistical models"
+    - title: "Computational Approaches to Syntactic Variation"
       authors: "Tim Hunter and Robert Frank"
       conference: "The Cambridge Handbook of Comparative Syntax, 2025."
       pdf: "https://timhunter.humspace.ucla.edu/papers/HunterFrank-ComparativeSyntaxCambridge.pdf"
