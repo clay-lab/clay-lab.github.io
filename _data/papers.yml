@@ -1,5 +1,11 @@
 papers:
 
+    - title: "A Lie-Algebraic Perspective on Tree-Adjoining Grammars"
+      authors: "Isabella Senturia, Elizabeth Xiao and Matilde Marcolli"
+      conference: "Proceedings of Mathematics of Language (MOL), 2025."
+      pdf: "https://mol2025.molweb.xyz/docs/mol2025_senturia_xiao_marcolli.pdf"
+      image: "/images/lie.png"
+
     - title: "Meaning Beyond Truth Conditions: Evaluating Discourse Level Understanding via Anaphora Accessibility"
       authors: "Xiaomeng Zhu, Zhenghao Zhou, Simon Charlow and Robert Frank"
       conference: "Proceedings of the Association for Computational Linguistics (ACL), 2025."
