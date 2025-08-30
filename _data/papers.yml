@@ -1,16 +1,58 @@
 papers:
 
+    - title: "Meaning Beyond Truth Conditions: Evaluating Discourse Level Understanding via Anaphora Accessibility"
+      authors: "Xiaomeng Zhu, Zhenghao Zhou, Simon Charlow and Robert Frank"
+      conference: "Proceedings of the Association for Computational Linguistics (ACL), 2025."
+      pdf: "https://aclanthology.org/2025.acl-long.432/"
+      image: "/images/discourse_anaphora.png"
+
+    - title: "Is In-Context Learning a Type of Error-Driven Learning? Evidence from the Inverse Frequency Effect in Structural Priming"
+      authors: "Herbert Zhou, Robert Frank and R. Thomas McCoy"
+      conference: "Proceedings of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), 2025."
+      pdf: "https://aclanthology.org/2025.naacl-long.586/"
+      image: "/images/ICL.png"
+
+    - title: "LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition"
+      authors: "Xiaomeng Zhu and Robert Frank"
+      conference: "Proceedings of the Association for Computational Linguistics (ACL), 2024."
+      pdf: "https://aclanthology.org/2024.acl-long.746/"
+      image: "/images/Lieder.png"
+
+    - title: "Brain and grammar: Revealing electrophysiological basic structures with competing statistical models"
+      authors: "Tim Hunter and Robert Frank"
+      conference: "The Cambridge Handbook of Comparative Syntax, 2025."
+      pdf: "https://timhunter.humspace.ucla.edu/papers/HunterFrank-ComparativeSyntaxCambridge.pdf"
+      image: "/images/raising_discontinuity.png"
+
+    - title: "The antisymmetry of syntactic structure: a view from automorphisms" 
+      authors: "Robert Frank, William Min, Abhisar Mittal and Billy Zhong"
+      conference: "A Cartesian Dream: A Geometrical Account of Syntax. In honor of Andrea Moro, 2024."
+      pdf : "/papers/automorphism.pdf"
+      image: "/images/automorphism.png"  
+
+    - title: "Brain and grammar: Revealing electrophysiological basic structures with competing statistical models"
+      authors: "Andrea Cometa, Chiara Battaglini, Fiorenzo Artoni, Matteo Greco, Robert Frank, Claudia Repetto, Franco Bottoni, Stefano F. Cappa, Silvestro Micera, Emiliano Ricciardi and Andrea Moro"
+      conference: "Cerebral Cortex, 2024."
+      pdf: "https://academic.oup.com/cercor/article/34/8/bhae317/7727206"
+      image: "/images/cometa.png"
+
+    - title: "Inductive Bias is in the Eye of the Beholder" 
+      authors: "Michael Wilson and Robert Frank""
+      conference: "Proceedings of the First Workshop on Benchmarking Generalization (GenBench) (EMNLP), 2023."
+      pdf : "https://aclanthology.org/2023.genbench-1.12/"
+      image: "/images/inductive_bias.png"  
+
+    - title: "NPIs Aren’t Exactly Easy: Variation in Licensing across Large Language Models" 
+      authors: "Deanna DeCarlo, William Palmer, Michael Wilson and Robert Frank"
+      conference: "Processings of 6th BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP), 2023."
+      pdf : "https://aclanthology.org/2023.blackboxnlp-1.25/"
+      image: "/images/NPI.png"  
+
     - title: "How Abstract Is Linguistic Generalization in Large Language Models? Experiments with Argument Structure"
       authors: "Michael Wilson, Jackson Petty and Robert Frank"
       conference: "Transactions of the Association for Computational Linguistics, 2023."
       pdf: "https://doi.org/10.1162/tacl_a_00608"
       image: "/images/count-mass.png"
-
-    - title: "The antisymmetry of syntactic structure: a view from automorphisms" 
-      authors: "Robert Frank, William Min, Abhisar Mittal and Billy Zhong"
-      conference: "Papers in Honor of Andrea Moro, to appear."
-      pdf : "/papers/automorphism.pdf"
-      image: "/images/automorphism.png"  
 
     - title: "How poor is the stimulus? Evaluating hierarchical generalization in neural networks trained on child-directed speech" 
       authors: "Aditya Yedetore, Tal Linzen, Robert Frank and R. Thomas McCoy"
