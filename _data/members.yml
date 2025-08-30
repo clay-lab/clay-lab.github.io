@@ -193,7 +193,7 @@ undergrad-alumni:
       photo: /photos/andrew_profile.jpg
       email: andrew.benz@yale.edu
       title : Machine Lrn Scient
-      location: Cellarity
+      location: Noetik
 
     - name : Sachien Fernando
       photo: /photos/sachien_profile.jpg
@@ -233,9 +233,9 @@ undergrad-alumni:
 
     - name : Lenny Khazan
       photo : /photos/lenny_profile.jpg
-      url : https://lenny.io
-      title : Software Engineer
-      location: Instabase
+      url : https://www.linkedin.com/in/lennykhazan/
+      title : CTO
+      location: Diode Computers
 
     - name : Yongjie Lin
       photo : /photos/yong_profile.jpg
@@ -246,7 +246,7 @@ undergrad-alumni:
       photo : /photos/sallyma_profile.jpg
       url : https://www.linkedin.com/in/sally-ma-mxy/
       title : Research Engineer
-      location : Deep Mind  
+      location : Google DeepMind  
 
     - name : Rebecca Marvin
       url: https://www.linkedin.com/in/rebeccamarvindiamond/
@@ -262,9 +262,9 @@ undergrad-alumni:
 
     - name : Simon Mendelsohn
       photo:  /photos/simon_profile.jpg
-      title: Software Engineer
-      location: Broad Institute
-      url : https://simonjmendelsohn.github.io
+      title: CTO
+      location: Apers AI
+      url : https://www.linkedin.com/in/simon-mendelsohn/
 
     - name : Will Merrill
       photo: /photos/will_profile.jpg
@@ -292,7 +292,8 @@ undergrad-alumni:
 
     - name : Shayna Sragovicz
       photo:  /photos/shayna_profile.jpg
-      title : 2023 
+      title : Software Engineer
+      location: Microsoft 
 
     - name : Aarohi Srivastava
       photo: /photos/aarohi_profile.jpg
@@ -304,7 +305,7 @@ undergrad-alumni:
       photo: /photos/rachel_profile.jpg
       url: https://www.linkedin.com/in/rachel-sterneck/
       title: Software Engineer
-      location: Deep Mind
+      location: Google DeepMind
 
     - name : Yi Chern Tan
       url : https://yich.io
@@ -323,5 +324,5 @@ undergrad-alumni:
     - name : Pauli Xu
       photo: /photos/pauli_profile.jpg
       url: https://www.linkedin.com/in/pauli-xu-231455156/
-      title: MA Student
-      location: Yale Divinity School
+      title: Chief of Staff
+      location: EIDU
