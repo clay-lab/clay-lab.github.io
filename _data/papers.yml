@@ -4,7 +4,7 @@ papers:
       authors: "R. Thomas McCoy and Thomas L. Griffiths"
       conference: "Nature Communications, 2025"
       pdf: "https://www.nature.com/articles/s41467-025-59957-y"
-      image: "images/bayesian-prior.png"
+      image: "/images/bayesian-prior.png"
 
 
     - title: "A Lie-Algebraic Perspective on Tree-Adjoining Grammars"
