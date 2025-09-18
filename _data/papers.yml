@@ -1,10 +1,23 @@
 papers:
 
+    - title: "Modeling rapid language learning by distilling Bayesian priors into artificial neural networks"
+      authors: "R. Thomas McCoy and Thomas L. Griffiths"
+      conference: "Nature Communications, 2025"
+      link: "https://www.nature.com/articles/s41467-025-59957-y"
+      image: "images/bayesian-prior.png"
+
+
     - title: "A Lie-Algebraic Perspective on Tree-Adjoining Grammars"
       authors: "Isabella Senturia, Elizabeth Xiao and Matilde Marcolli"
       conference: "Proceedings of Mathematics of Language (MOL), 2025."
       pdf: "https://mol2025.molweb.xyz/docs/mol2025_senturia_xiao_marcolli.pdf"
       image: "/images/lie.png"
+
+    - title: "ModeLing: A Novel Dataset for Testing Linguistic Reasoning in Language Models"
+      authors: "Nathan Chi, Teodor Malchev, Riley Kong, Ryan Chi, Lucas Huang, Ethan Chi, R. McCoy, Dragomir Radev"
+      conference: "Proceedings of the Eighth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT), 2025"
+      link: "https://aclanthology.org/2025.loresmt-1.10/"
+      image: "/images/modeLing.png"
 
     - title: "Meaning Beyond Truth Conditions: Evaluating Discourse Level Understanding via Anaphora Accessibility"
       authors: "Xiaomeng Zhu, Zhenghao Zhou, Simon Charlow and Robert Frank"
@@ -23,6 +36,24 @@ papers:
       conference: "The Cambridge Handbook of Comparative Syntax, 2025."
       pdf: "https://timhunter.humspace.ucla.edu/papers/HunterFrank-ComparativeSyntaxCambridge.pdf"
       image: "/images/raising_discontinuity.png"
+
+    - title: "Embers of autoregression show how large language models are shaped by the problem they are trained to solve"
+      authors: "R. Thomas McCoy, Shunyu Yao, Dan Friedman, Mathew D. Hardy, and Thomas L. Griffiths"
+      conference: "Proceedings of the National Academy of Science (PNAS), 2024"
+      link: "https://www.pnas.org/doi/abs/10.1073/pnas.2322420121"
+      image: "/images/embers.png"
+
+    - title: "Deciphering the Factors Influencing the Efficacy of Chain-of-Thought: Probability, Memorization, and Noisy Reasoning" 
+      authors: "Akshara Prabhakar, Thomas L. Griffiths, and R. Thomas McCoy"
+      conference: "Findings of EMNLP, 2024"
+      link: "https://aclanthology.org/2024.findings-emnlp.212/"
+      image: "/images/cot.png"
+
+    - title: "Distilling symbolic priors for concept learning into neural networks"
+      authors: "Ioana Marinescu, R. Thomas McCoy, and Thomas L. Griffiths"
+      conference: "Proceedings of the 46th Annual Conference of the Cognitive Science Society, 2024"
+      link: "https://escholarship.org/uc/item/2rz450nc"
+      image: "/images/distilling-priors.png"
 
     - title: "LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition"
       authors: "Xiaomeng Zhu and Robert Frank"
