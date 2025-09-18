@@ -22,9 +22,7 @@ permalink: /research/
 </div>
 
 
-<p>{
-   text-indent:0px;
-}
+<p style="text-indent:0px;"
 Members of the CLAY lab study language as a computational system. Questions of focus include:
 <ul>
 <li>What types of formal mathematical structures can be used to characterize human language at each of its levels of organization (phonology, syntax, semantics, etc.)?</li>
