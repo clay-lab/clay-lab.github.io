@@ -1,8 +1,0 @@
-- group: Resources
-  links:
-    - name: "TAG parsing demo"
-      description: On-line demo of graph-based TAG parser
-      url: "http://michelangelo.ling.yale.edu"
-    - name: "Stack RNN implementation"
-      description: Implementation of Differentiable-Stack-augmented Neural Network 
-      url: "https://github.com/viking-sudo-rm/StackNN"
