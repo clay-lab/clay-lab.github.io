@@ -27,7 +27,7 @@ faculty:
 graduate:
 
     - name : Anton Hampe
-      photo: /photos/test.jpg
+      photo: /photos/anton_profile.jpg
       email: anton.hampe@yale.edu
       #url: https://ling.yale.edu/profile/anton-hampe
       title : PhD student <br> Linguistics 
