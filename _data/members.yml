@@ -29,7 +29,7 @@ graduate:
     - name : Anton Hampe
       photo: /photos/anton_profile.jpg
       email: anton.hampe@yale.edu
-      #url: https://ling.yale.edu/profile/anton-hampe
+      url: https://ling.yale.edu/profile/anton-hampe
       title : PhD student <br> Linguistics 
 
     - name : Ayla Karakas
