@@ -55,7 +55,13 @@ graduate:
       email: kaya.stechly@yale.edu
       url: https://kstechly.github.io
       title : PhD student <br> Computer Science 
-      
+
+    - name : Lena Strobl
+      photo: /photos/lena_profile.jpg    
+      email: lena.strobl@yale.edu
+      url: https://sleynas.com
+      title : Postdoctoral Fellow <br> Linguistics 
+
     - name : Enyan Zhang
       photo: /photos/enyan_profile.jpg
       email: enyan.zhang@yale.edu
@@ -86,7 +92,7 @@ undergraduate:
     - name : William Dai
       photo: /photos/test.jpg
       email: william.dai@yale.edu
-      title : 2028
+      title : 2027
 
     - name : Deanna DeCarlo
       photo: /photos/deanna_profile.jpg
