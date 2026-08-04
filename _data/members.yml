@@ -38,12 +38,6 @@ graduate:
       url: https://ling.yale.edu/profile/ayla-karakas
       title : PhD student <br> Linguistics 
 
-    - name : Malcolm Sailor
-      photo: /photos/malcolm_profile.jpg      
-      email: malcolm.sailor@gmail.com
-      url: https://malcolmsailor.com/about/
-      title : Postdoctoral Fellow <br> Music 
-
     - name : Bella Senturia
       photo: /photos/bella_profile.jpg
       email: isabella.senturia@yale.edu
@@ -159,6 +153,12 @@ post-doc-alumni:
       title : Associate Professor
       location: UCLA, Linguistics
 
+    - name : Malcolm Sailor
+      photo: /photos/malcolm_profile.jpg      
+      email: malcolm.sailor@gmail.com
+      url: https://malcolmsailor.com/about/
+      title : Postdoctoral Fellow <br> Music 
+
     - name : Dennis  Storoshenko
       photo: /photos/dennis_profile.jpg
       url: http://people.ucalgary.ca/~dstorosh/
@@ -230,7 +230,7 @@ undergrad-alumni:
       photo: /photos/sarahgross_profile.jpg
       url: https://www.linkedin.com/in/sarah-gross-46b38810a/
       title: Strategy Manager
-      location: Potential Energy Coalition
+      location: Potential Energy Coalit
 
     - name : Pearl Hwang
       photo : /photos/pearl_profile.jpg
@@ -290,7 +290,7 @@ undergrad-alumni:
       email: w.min@yale.edu
       url: https://www.linkedin.com/in/william-min-92a78a234/
       title: MS student
-      location: Uppsala University <BR> Data Science
+      location: Uppsala University
  
     - name : Jackson Petty
       photo : /photos/jackson_profile.jpg
