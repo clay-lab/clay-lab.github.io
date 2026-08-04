@@ -204,9 +204,9 @@ undergrad-alumni:
 
     - name : Andrew Benz
       photo: /photos/andrew_profile.jpg
-      email: andrew.benz@yale.edu
       title : Machine Lrn Scient
       location: Noetik
+      url: https://www.linkedin.com/in/andrew-benz/
 
     - name : Sachien Fernando
       photo: /photos/sachien_profile.jpg
@@ -217,8 +217,8 @@ undergrad-alumni:
     - name : Dan Friedman
       photo: /photos/dan_profile.jpg
       url: https://danfriedman0.github.io/
-      title : PhD student 
-      location: Princeton, CS
+      title : Machine Lrn Rsrch  
+      location: Apple
 
     - name : Hana Galijašević
       photo : /photos/hana_profile.jpg
@@ -229,8 +229,8 @@ undergrad-alumni:
     - name : Sarah Gross
       photo: /photos/sarahgross_profile.jpg
       url: https://www.linkedin.com/in/sarah-gross-46b38810a/
-      title: Senior Analyst
-      location: Kind
+      title: Strategy & Insights Manager
+      location: Potential Energy Coalition
 
     - name : Pearl Hwang
       photo : /photos/pearl_profile.jpg
@@ -264,8 +264,8 @@ undergrad-alumni:
     - name : Rebecca Marvin
       url: https://www.linkedin.com/in/rebeccamarvindiamond/
       photo: /photos/becky_profile.jpg
-      title: JD student
-      location: Univ of Chicago, Law
+      title: Attorney
+      
 
     - name : Tom McCoy
       photo: /photos/tom_profile.jpg
@@ -300,8 +300,8 @@ undergrad-alumni:
 
     - name : Rose Sloan
       photo: /photos/rose_profile.jpg
-      title : PhD student 
-      location: Columbia Univ, CS
+      title : Asst Teaching Professor
+      location: Northeastern, CS
 
     - name : Shayna Sragovicz
       photo:  /photos/shayna_profile.jpg
@@ -317,7 +317,7 @@ undergrad-alumni:
     - name : Rachel Sterneck
       photo: /photos/rachel_profile.jpg
       url: https://www.linkedin.com/in/rachel-sterneck/
-      title: Software Engineer
+      title: Sr Research Engineer
       location: Google DeepMind
 
     - name : Yi Chern Tan
@@ -332,10 +332,10 @@ undergrad-alumni:
       email: sarah.widder@yale.edu
       url: https://www.linkedin.com/in/sarah-widder-53972a126/
       location: Microsoft
-      title: Software Engineer
+      title: Sr Software Engineer
 
     - name : Pauli Xu
       photo: /photos/pauli_profile.jpg
       url: https://www.linkedin.com/in/pauli-xu-231455156/
-      title: Chief of Staff
-      location: EIDU
+      title: AI Consultant
+      location: Kaidas Solutions
