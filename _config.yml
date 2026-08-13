@@ -17,3 +17,5 @@ url: "http://clay.yale.edu/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+exclude:
+  - astro-site
