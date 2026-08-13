@@ -19,3 +19,5 @@ url: "http://clay.yale.edu/" # the base hostname & protocol for your site
 markdown: kramdown
 exclude:
   - astro-site
+include:
+  - preview/_astro
