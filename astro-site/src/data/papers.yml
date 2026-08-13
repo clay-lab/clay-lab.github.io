@@ -1,349 +1,346 @@
 papers:
+  - title: 'Modeling rapid language learning by distilling Bayesian priors into artificial neural networks'
+    authors: 'R. Thomas McCoy and Thomas L. Griffiths'
+    conference: 'Nature Communications, 2025'
+    pdf: 'https://www.nature.com/articles/s41467-025-59957-y'
+    image: '/images/bayesian-prior.png'
 
-    - title: "Modeling rapid language learning by distilling Bayesian priors into artificial neural networks"
-      authors: "R. Thomas McCoy and Thomas L. Griffiths"
-      conference: "Nature Communications, 2025"
-      pdf: "https://www.nature.com/articles/s41467-025-59957-y"
-      image: "/images/bayesian-prior.png"
+  - title: 'A Lie-Algebraic Perspective on Tree-Adjoining Grammars'
+    authors: 'Isabella Senturia, Elizabeth Xiao and Matilde Marcolli'
+    conference: 'Proceedings of Mathematics of Language (MOL), 2025.'
+    pdf: 'https://mol2025.molweb.xyz/docs/mol2025_senturia_xiao_marcolli.pdf'
+    image: '/images/lie.png'
 
+  - title: 'ModeLing: A Novel Dataset for Testing Linguistic Reasoning in Language Models'
+    authors: 'Nathan Chi, Teodor Malchev, Riley Kong, Ryan Chi, Lucas Huang, Ethan Chi, R. Thomas McCoy, Dragomir Radev'
+    conference: 'Proceedings of the Eighth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT), 2025'
+    pdf: 'https://aclanthology.org/2025.loresmt-1.10/'
+    image: '/images/modeLing.png'
 
-    - title: "A Lie-Algebraic Perspective on Tree-Adjoining Grammars"
-      authors: "Isabella Senturia, Elizabeth Xiao and Matilde Marcolli"
-      conference: "Proceedings of Mathematics of Language (MOL), 2025."
-      pdf: "https://mol2025.molweb.xyz/docs/mol2025_senturia_xiao_marcolli.pdf"
-      image: "/images/lie.png"
+  - title: 'Meaning Beyond Truth Conditions: Evaluating Discourse Level Understanding via Anaphora Accessibility'
+    authors: 'Xiaomeng Zhu, Zhenghao Zhou, Simon Charlow and Robert Frank'
+    conference: 'Proceedings of the Association for Computational Linguistics (ACL), 2025.'
+    pdf: 'https://aclanthology.org/2025.acl-long.432/'
+    image: '/images/discourse_anaphora.png'
 
-    - title: "ModeLing: A Novel Dataset for Testing Linguistic Reasoning in Language Models"
-      authors: "Nathan Chi, Teodor Malchev, Riley Kong, Ryan Chi, Lucas Huang, Ethan Chi, R. Thomas McCoy, Dragomir Radev"
-      conference: "Proceedings of the Eighth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT), 2025"
-      pdf: "https://aclanthology.org/2025.loresmt-1.10/"
-      image: "/images/modeLing.png"
+  - title: 'Is In-Context Learning a Type of Error-Driven Learning? Evidence from the Inverse Frequency Effect in Structural Priming'
+    authors: 'Zhenghao Zhou, Robert Frank and R. Thomas McCoy'
+    conference: 'Proceedings of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), 2025.'
+    pdf: 'https://aclanthology.org/2025.naacl-long.586/'
+    image: '/images/ICL.png'
 
-    - title: "Meaning Beyond Truth Conditions: Evaluating Discourse Level Understanding via Anaphora Accessibility"
-      authors: "Xiaomeng Zhu, Zhenghao Zhou, Simon Charlow and Robert Frank"
-      conference: "Proceedings of the Association for Computational Linguistics (ACL), 2025."
-      pdf: "https://aclanthology.org/2025.acl-long.432/"
-      image: "/images/discourse_anaphora.png"
+  - title: 'Computational Approaches to Syntactic Variation'
+    authors: 'Tim Hunter and Robert Frank'
+    conference: 'The Cambridge Handbook of Comparative Syntax, 2025.'
+    pdf: 'https://timhunter.humspace.ucla.edu/papers/HunterFrank-ComparativeSyntaxCambridge.pdf'
+    image: '/images/raising_discontinuity.png'
 
-    - title: "Is In-Context Learning a Type of Error-Driven Learning? Evidence from the Inverse Frequency Effect in Structural Priming"
-      authors: "Zhenghao Zhou, Robert Frank and R. Thomas McCoy"
-      conference: "Proceedings of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), 2025."
-      pdf: "https://aclanthology.org/2025.naacl-long.586/"
-      image: "/images/ICL.png"
+  - title: 'Embers of autoregression show how large language models are shaped by the problem they are trained to solve'
+    authors: 'R. Thomas McCoy, Shunyu Yao, Dan Friedman, Mathew D. Hardy, and Thomas L. Griffiths'
+    conference: 'Proceedings of the National Academy of Science (PNAS), 2024'
+    pdf: 'https://www.pnas.org/doi/abs/10.1073/pnas.2322420121'
+    image: '/images/embers.png'
 
-    - title: "Computational Approaches to Syntactic Variation"
-      authors: "Tim Hunter and Robert Frank"
-      conference: "The Cambridge Handbook of Comparative Syntax, 2025."
-      pdf: "https://timhunter.humspace.ucla.edu/papers/HunterFrank-ComparativeSyntaxCambridge.pdf"
-      image: "/images/raising_discontinuity.png"
+  - title: 'Deciphering the Factors Influencing the Efficacy of Chain-of-Thought: Probability, Memorization, and Noisy Reasoning'
+    authors: 'Akshara Prabhakar, Thomas L. Griffiths, and R. Thomas McCoy'
+    conference: 'Findings of EMNLP, 2024'
+    pdf: 'https://aclanthology.org/2024.findings-emnlp.212/'
+    image: '/images/cot.png'
 
-    - title: "Embers of autoregression show how large language models are shaped by the problem they are trained to solve"
-      authors: "R. Thomas McCoy, Shunyu Yao, Dan Friedman, Mathew D. Hardy, and Thomas L. Griffiths"
-      conference: "Proceedings of the National Academy of Science (PNAS), 2024"
-      pdf: "https://www.pnas.org/doi/abs/10.1073/pnas.2322420121"
-      image: "/images/embers.png"
+  - title: 'Distilling symbolic priors for concept learning into neural networks'
+    authors: 'Ioana Marinescu, R. Thomas McCoy, and Thomas L. Griffiths'
+    conference: 'Proceedings of the 46th Annual Conference of the Cognitive Science Society, 2024'
+    pdf: 'https://escholarship.org/uc/item/2rz450nc'
+    image: '/images/distilling-priors.png'
 
-    - title: "Deciphering the Factors Influencing the Efficacy of Chain-of-Thought: Probability, Memorization, and Noisy Reasoning" 
-      authors: "Akshara Prabhakar, Thomas L. Griffiths, and R. Thomas McCoy"
-      conference: "Findings of EMNLP, 2024"
-      pdf: "https://aclanthology.org/2024.findings-emnlp.212/"
-      image: "/images/cot.png"
+  - title: 'LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition'
+    authors: 'Xiaomeng Zhu and Robert Frank'
+    conference: 'Proceedings of the Association for Computational Linguistics (ACL), 2024.'
+    pdf: 'https://aclanthology.org/2024.acl-long.746/'
+    image: '/images/Lieder.png'
 
-    - title: "Distilling symbolic priors for concept learning into neural networks"
-      authors: "Ioana Marinescu, R. Thomas McCoy, and Thomas L. Griffiths"
-      conference: "Proceedings of the 46th Annual Conference of the Cognitive Science Society, 2024"
-      pdf: "https://escholarship.org/uc/item/2rz450nc"
-      image: "/images/distilling-priors.png"
+  - title: 'The antisymmetry of syntactic structure: a view from automorphisms'
+    authors: 'Robert Frank, William Min, Abhisar Mittal and Billy Zhong'
+    conference: 'A Cartesian Dream: A Geometrical Account of Syntax. In honor of Andrea Moro, 2024.'
+    pdf: '/papers/automorphism.pdf'
+    image: '/images/automorphism.png'
 
-    - title: "LIEDER: Linguistically-Informed Evaluation for Discourse Entity Recognition"
-      authors: "Xiaomeng Zhu and Robert Frank"
-      conference: "Proceedings of the Association for Computational Linguistics (ACL), 2024."
-      pdf: "https://aclanthology.org/2024.acl-long.746/"
-      image: "/images/Lieder.png"
+  - title: 'Brain and grammar: Revealing electrophysiological basic structures with competing statistical models'
+    authors: 'Andrea Cometa, Chiara Battaglini, Fiorenzo Artoni, Matteo Greco, Robert Frank, Claudia Repetto, Franco Bottoni, Stefano F. Cappa, Silvestro Micera, Emiliano Ricciardi and Andrea Moro'
+    conference: 'Cerebral Cortex, 2024.'
+    pdf: 'https://academic.oup.com/cercor/article/34/8/bhae317/7727206'
+    image: '/images/cometa.png'
 
-    - title: "The antisymmetry of syntactic structure: a view from automorphisms" 
-      authors: "Robert Frank, William Min, Abhisar Mittal and Billy Zhong"
-      conference: "A Cartesian Dream: A Geometrical Account of Syntax. In honor of Andrea Moro, 2024."
-      pdf : "/papers/automorphism.pdf"
-      image: "/images/automorphism.png"  
+  - title: 'Inductive Bias is in the Eye of the Beholder'
+    authors: 'Michael Wilson and Robert Frank'
+    conference: 'Proceedings of the First Workshop on Benchmarking Generalization (GenBench) (EMNLP), 2023.'
+    pdf: 'https://aclanthology.org/2023.genbench-1.12/'
+    image: '/images/inductive_bias.png'
 
-    - title: "Brain and grammar: Revealing electrophysiological basic structures with competing statistical models"
-      authors: "Andrea Cometa, Chiara Battaglini, Fiorenzo Artoni, Matteo Greco, Robert Frank, Claudia Repetto, Franco Bottoni, Stefano F. Cappa, Silvestro Micera, Emiliano Ricciardi and Andrea Moro"
-      conference: "Cerebral Cortex, 2024."
-      pdf: "https://academic.oup.com/cercor/article/34/8/bhae317/7727206"
-      image: "/images/cometa.png"
+  - title: 'NPIs Aren’t Exactly Easy: Variation in Licensing across Large Language Models'
+    authors: 'Deanna DeCarlo, William Palmer, Michael Wilson and Robert Frank'
+    conference: 'Processings of 6th BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP), 2023.'
+    pdf: 'https://aclanthology.org/2023.blackboxnlp-1.25/'
+    image: '/images/NPI.png'
 
-    - title: "Inductive Bias is in the Eye of the Beholder" 
-      authors: "Michael Wilson and Robert Frank"
-      conference: "Proceedings of the First Workshop on Benchmarking Generalization (GenBench) (EMNLP), 2023."
-      pdf : "https://aclanthology.org/2023.genbench-1.12/"
-      image: "/images/inductive_bias.png"  
+  - title: 'How Abstract Is Linguistic Generalization in Large Language Models? Experiments with Argument Structure'
+    authors: 'Michael Wilson, Jackson Petty and Robert Frank'
+    conference: 'Transactions of the Association for Computational Linguistics, 2023.'
+    pdf: 'https://doi.org/10.1162/tacl_a_00608'
+    image: '/images/count-mass.png'
 
-    - title: "NPIs Aren’t Exactly Easy: Variation in Licensing across Large Language Models" 
-      authors: "Deanna DeCarlo, William Palmer, Michael Wilson and Robert Frank"
-      conference: "Processings of 6th BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP (EMNLP), 2023."
-      pdf : "https://aclanthology.org/2023.blackboxnlp-1.25/"
-      image: "/images/NPI.png"  
+  - title: 'How poor is the stimulus? Evaluating hierarchical generalization in neural networks trained on child-directed speech'
+    authors: 'Aditya Yedetore, Tal Linzen, Robert Frank and R. Thomas McCoy'
+    conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, 2023.'
+    pdf: 'https://arxiv.org/abs/2301.11462'
+    image: '/images/povstim.png'
 
-    - title: "How Abstract Is Linguistic Generalization in Large Language Models? Experiments with Argument Structure"
-      authors: "Michael Wilson, Jackson Petty and Robert Frank"
-      conference: "Transactions of the Association for Computational Linguistics, 2023."
-      pdf: "https://doi.org/10.1162/tacl_a_00608"
-      image: "/images/count-mass.png"
+  - title: 'On the Spectra of Syntactic Structures'
+    authors: 'Isabella Senturia and Robert Frank'
+    conference: 'Proceedings of the Society for Computation in Linguistics, 2023.'
+    pdf: 'https://aclanthology.org/2023.scil-1.17.pdf'
+    image: '/images/laplacian-spectra.png'
 
-    - title: "How poor is the stimulus? Evaluating hierarchical generalization in neural networks trained on child-directed speech" 
-      authors: "Aditya Yedetore, Tal Linzen, Robert Frank and R. Thomas McCoy"
-      conference: "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, 2023."
-      pdf : "https://arxiv.org/abs/2301.11462"
-      image: "/images/povstim.png"  
+  - title: 'Subject-verb Agreement with Seq2Seq Transformers: Bigger Is Better, but Still Not Best'
+    authors: 'Michael A. Wilson, Zhenghao Zhou and Robert Frank'
+    conference: 'Proceedings of the Society for Computation in Linguistics, 2023.'
+    pdf: 'https://aclanthology.org/2023.scil-1.24/'
+    image: '/images/bigger-is-better.png'
 
-    - title: "On the Spectra of Syntactic Structures" 
-      authors: "Isabella Senturia and Robert Frank"
-      conference: "Proceedings of the Society for Computation in Linguistics, 2023."
-      pdf : "https://aclanthology.org/2023.scil-1.17.pdf"
-      image: "/images/laplacian-spectra.png"  
+  - title: 'What affects Priming Strength? Simulating Structural Priming Effect with PIPS'
+    authors: 'Zhenghao Zhou  and Robert Frank'
+    conference: 'Proceedings of the Society for Computation in Linguistics, 2023.'
+    pdf: 'https://openpublishing.library.umass.edu/scil/article/id/947/'
+    image: '/images/structural-priming.png'
 
-    - title: "Subject-verb Agreement with Seq2Seq Transformers: Bigger Is Better, but Still Not Best" 
-      authors: "Michael A. Wilson, Zhenghao Zhou and Robert Frank"
-      conference: "Proceedings of the Society for Computation in Linguistics, 2023."
-      pdf : "https://aclanthology.org/2023.scil-1.24/"
-      image: "/images/bigger-is-better.png"  
+  - title: 'Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models'
+    authors: 'Aarohi Srivastava et al.'
+    conference: 'Transactions on Machine Learning Research, 2023.'
+    pdf: 'https://arxiv.org/abs/2206.04615'
+    image: '/images/big-bench.png'
+    code: 'https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/linguistic_mappings'
 
-    - title: "What affects Priming Strength? Simulating Structural Priming Effect with PIPS" 
-      authors: "Zhenghao Zhou  and Robert Frank"
-      conference: "Proceedings of the Society for Computation in Linguistics, 2023."
-      pdf : "https://openpublishing.library.umass.edu/scil/article/id/947/"
-      image: "/images/structural-priming.png"  
+  - title: 'False perspectives on human language: Why statistics needs linguistics'
+    authors: 'Matteo Greco, Andrea Cometa, Fiorenzo Artoni, Robert Frank and Andrea Moro'
+    conference: 'Frontiers in Language Sciences 2, 2023.'
+    pdf: 'https://www.frontiersin.org/articles/10.3389/flang.2023.1178932/full'
+    image: '/images/surprisal.png'
 
-    - title: "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models" 
-      authors: "Aarohi Srivastava et al."
-      conference: "Transactions on Machine Learning Research, 2023."
-      pdf : "https://arxiv.org/abs/2206.04615"
-      image: "/images/big-bench.png"  
-      code: "https://github.com/google/BIG-bench/tree/main/bigbench/benchmark_tasks/linguistic_mappings"
+  - title: 'Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity'
+    authors: 'Yiding Hao, Dana Angluin and Robert Frank'
+    conference: 'Transactions of the Association for Computational Linguistics, 2022.'
+    pdf: 'https://aclanthology.org/2022.tacl-1.46/'
+    image: '/images/circuit-complexity.png'
 
-    - title: "False perspectives on human language: Why statistics needs linguistics"
-      authors: "Matteo Greco, Andrea Cometa, Fiorenzo Artoni, Robert Frank and Andrea Moro"
-      conference: "Frontiers in Language Sciences 2, 2023."
-      pdf: "https://www.frontiersin.org/articles/10.3389/flang.2023.1178932/full"
-      image: "/images/surprisal.png"
+  - title: 'Coloring the Blank Slate: Pre-training Imparts a Hierarchical Inductive Bias to Sequence-to-sequence Models'
+    authors: 'Aaron Mueller, Robert Frank, Tal Linzen, Luheng Wang and Sebastian Schuster'
+    conference: 'Findings of the Association for Computational Linguistics, 2022.'
+    pdf: 'https://arxiv.org/pdf/2203.09397.pdf'
+    image: '/images/pretrain.png'
+    code: 'https://github.com/sebschu/multilingual-transformations'
 
-    - title: "Formal Language Recognition by Hard Attention Transformers: Perspectives from Circuit Complexity"
-      authors: "Yiding Hao, Dana Angluin and Robert Frank"
-      conference: "Transactions of the Association for Computational Linguistics, 2022."
-      pdf: "https://aclanthology.org/2022.tacl-1.46/"
-      image: "/images/circuit-complexity.png"
+  - title: 'Do Language Models Learn Position-Role Mappings?'
+    authors: 'Jackson Petty, Michael Wilson and Robert Frank'
+    conference: 'Proceedings of BUCLD 46, 2022.'
+    pdf: 'https://arxiv.org/pdf/2202.03611.pdf'
+    image: '/images/animacy-conf.png'
 
-    - title: "Coloring the Blank Slate: Pre-training Imparts a Hierarchical Inductive Bias to Sequence-to-sequence Models"
-      authors: "Aaron Mueller, Robert Frank, Tal Linzen, Luheng Wang and Sebastian Schuster"
-      conference: "Findings of the Association for Computational Linguistics, 2022."
-      pdf: "https://arxiv.org/pdf/2203.09397.pdf"
-      image: "/images/pretrain.png"
-      code: "https://github.com/sebschu/multilingual-transformations"
+  - title: 'Variation in mild context-sensitivity: Derivational state and structural monotonicity'
+    authors: 'Robert Frank and Tim Hunter'
+    conference: 'Evolutionary Linguistic Theory 3(2), 2021.'
+    pdf: 'https://www.jbe-platform.com/content/journals/10.1075/elt.00033.fra'
+    image: '/images/derivational-state.png'
 
-    - title: "Do Language Models Learn Position-Role Mappings?" 
-      authors: "Jackson Petty, Michael Wilson and Robert Frank"
-      conference: "Proceedings of BUCLD 46, 2022."
-      pdf : "https://arxiv.org/pdf/2202.03611.pdf"
-      image: "/images/animacy-conf.png"  
+  - title: 'Structure Here, Bias There: Hierarchical Generalization by Jointly Learning Syntactic Transformations'
+    authors: 'Karl Mulligan, Robert Frank and Tal Linzen'
+    conference: 'Proceedings of the Society for Computation in Linguistics, 2021.'
+    pdf: 'https://aclanthology.org/2021.scil-1.12/'
+    image: '/images/joint-learning.png'
 
-    - title: "Variation in mild context-sensitivity: Derivational state and structural monotonicity"
-      authors: "Robert Frank and Tim Hunter"
-      conference: "Evolutionary Linguistic Theory 3(2), 2021."
-      pdf : "https://www.jbe-platform.com/content/journals/10.1075/elt.00033.fra"
-      image: "/images/derivational-state.png"  
+  - title: 'Documentation of Shared Decision Making in the Emergency Department'
+    authors: 'David Chartash, Mona Sharifi, Beth Emerson, Robert Frank, Elizabeth M. Schoenfeld, Jason Tanner, Cynthia Brandt and R. Andrew Taylor'
+    conference: 'Annals of Emergency Medicine 78(5), 2021.'
+    pdf: 'https://www.annemergmed.com/article/S0196-0644(21)00379-6/fulltext'
+    image: '/images/sdm.png'
 
-    - title: "Structure Here, Bias There: Hierarchical Generalization by Jointly Learning Syntactic Transformations" 
-      authors: "Karl Mulligan, Robert Frank and Tal Linzen"
-      conference: "Proceedings of the Society for Computation in Linguistics, 2021."
-      pdf : "https://aclanthology.org/2021.scil-1.12/"
-      image: "/images/joint-learning.png"  
+  - title: 'Comparing Methods of Tree-Construction Across Mildly Context-Sensitive Formalisms'
+    authors: 'Tim Hunter and Robert Frank'
+    conference: 'Proceedings of the Society for Computation in Linguistics, 2021.'
+    pdf: 'https://aclanthology.org/2021.scil-1.35/'
+    image: '/images/tree-construction.png'
 
-    - title: "Documentation of Shared Decision Making in the Emergency Department" 
-      authors: "David Chartash, Mona Sharifi, Beth Emerson, Robert Frank, Elizabeth M. Schoenfeld, Jason Tanner, Cynthia Brandt and R. Andrew Taylor"
-      conference: "Annals of Emergency Medicine 78(5), 2021."
-      pdf : "https://www.annemergmed.com/article/S0196-0644(21)00379-6/fulltext"
-      image: "/images/sdm.png"  
+  - title: 'Sequence-to-Sequence Networks Learn the Meaning of Reﬂexive Anaphora'
+    authors: 'Robert Frank and Jackson Petty'
+    conference: 'Proceedings of the Third Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC), 2020.'
+    pdf: 'https://arxiv.org/abs/2011.00682'
+    code: 'https://github.com/clay-lab/logos'
+    image: '/images/reflexives.png'
 
+  - title: 'Evaluating Attribution Methods using White-Box LSTMs'
+    authors: 'Yiding Hao'
+    conference: '3rd Workshop on Blackbox NLP: Analyzing and Interpreting Neural Networks for NLP (EMNLP), 2020.'
+    pdf: 'https://arxiv.org/pdf/2010.08606.pdf'
+    image: '/images/heatmap.png'
 
-    - title: "Comparing Methods of Tree-Construction Across Mildly Context-Sensitive Formalisms"
-      authors: "Tim Hunter and Robert Frank"
-      conference: "Proceedings of the Society for Computation in Linguistics, 2021."
-      pdf : "https://aclanthology.org/2021.scil-1.35/"
-      image: "/images/tree-construction.png"  
+  - title: 'Probabilistic Predictions of People Perusing: Evaluating Metrics of Language Model Performance for Psycholinguistic Modeling'
+    authors: 'Yiding Hao, Simon Mendelsohn, Rachel Sterneck, Randi Martinez, and Robert Frank'
+    conference: 'Proceedings of the Cognitive Modeling and Computational Linguistics (CMCL) Workshop (EMNLP), 2020'
+    pdf: 'https://arxiv.org/pdf/2009.03954.pdf'
+    image: '/images/PNC-loglik.png'
 
-    - title: "Sequence-to-Sequence Networks Learn the Meaning of Reﬂexive Anaphora"
-      authors: "Robert Frank and Jackson Petty"
-      conference: "Proceedings of the Third Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC), 2020."
-      pdf : "https://arxiv.org/abs/2011.00682"
-      code : "https://github.com/clay-lab/logos"
-      image: "/images/reflexives.png"
-    
-    - title: "Evaluating Attribution Methods using White-Box LSTMs"
-      authors: "Yiding Hao"
-      conference: "3rd Workshop on Blackbox NLP: Analyzing and Interpreting Neural Networks for NLP (EMNLP), 2020."
-      pdf : "https://arxiv.org/pdf/2010.08606.pdf"
-      image: "/images/heatmap.png"
+  - title: 'Does syntax need to grow on trees? Sources of hierarchical inductive bias in sequence-to-sequence networks'
+    authors: 'R. Thomas McCoy, Robert Frank, and Tal Linzen'
+    conference: 'Transactions of the Association for Computational Linguistics, 2020.'
+    pdf: 'https://doi.org/10.1162/tacl_a_00304'
+    image: '/images/tacl-seq2seq.png'
 
-    - title: "Probabilistic Predictions of People Perusing: Evaluating Metrics of Language Model Performance for Psycholinguistic Modeling"
-      authors: "Yiding Hao, Simon Mendelsohn, Rachel Sterneck, Randi Martinez, and Robert Frank"
-      conference: "Proceedings of the Cognitive Modeling and Computational Linguistics (CMCL) Workshop (EMNLP), 2020"
-      pdf : "https://arxiv.org/pdf/2009.03954.pdf"
-      image: "/images/PNC-loglik.png"
+  - title: 'Metrical Grids and Generalized Tier Projection'
+    authors: 'Yiding Hao'
+    conference: 'Proceedings of the Society for Computation in Linguistics, 2020.'
+    pdf: 'https://aclanthology.org/2020.scil-1.56/'
+    image: '/images/tier-projection.png'
 
-    - title: "Does syntax need to grow on trees? Sources of hierarchical inductive bias in sequence-to-sequence networks"
-      authors: "R. Thomas McCoy, Robert Frank, and Tal Linzen"
-      conference: "Transactions of the Association for Computational Linguistics, 2020."
-      pdf : "https://doi.org/10.1162/tacl_a_00304"
-      image: "/images/tacl-seq2seq.png"
+  - title: 'The Role of Linguistic Features in Domain Adaptation: TAG Parsing of Questions'
+    authors: 'Aarohi Srivastava, Robert Frank, Sarah Widder and David Chartash'
+    conference: 'Proceedings of the Society for Computation in Linguistics, 2020.'
+    pdf: 'https://aclanthology.org/2020.scil-1.33/'
+    image: '/images/question-relative-trees.png'
 
-    - title: "Metrical Grids and Generalized Tier Projection"
-      authors: "Yiding Hao"
-      conference: "Proceedings of the Society for Computation in Linguistics, 2020."
-      pdf : "https://aclanthology.org/2020.scil-1.56/"
-      image: "/images/tier-projection.png"
+  - title: "Open Sesame: Getting Inside BERT's Linguistic Knowledge"
+    authors: 'Yongjie Lin, Yi Chern Tan and Robert Frank'
+    conference: '2nd Workshop on Blackbox NLP: Analyzing and Interpreting Neural Networks for NLP (ACL), 2019.'
+    pdf: 'https://arxiv.org/abs/1906.01698'
+    code: 'https://github.com/yongjie-lin/bert-opensesame'
+    image: '/images/Bert.png'
 
-    - title: "The Role of Linguistic Features in Domain Adaptation: TAG Parsing of Questions"
-      authors: "Aarohi Srivastava, Robert Frank, Sarah Widder and David Chartash"
-      conference: "Proceedings of the Society for Computation in Linguistics, 2020."
-      pdf : "https://aclanthology.org/2020.scil-1.33/"
-      image: "/images/question-relative-trees.png"
+  - title: 'Finding Syntactic Representations in Neural Stacks'
+    authors: 'William Merrill, Lenny Khazan, Noah Amsel, Yiding Hao, Simon Mendelsohn and Robert Frank'
+    conference: '2nd Workshop on Blackbox NLP: Analyzing and Interpreting Neural Networks for NLP (ACL), 2019.'
+    pdf: 'https://arxiv.org/abs/1906.01594'
+    code: 'https://github.com/viking-sudo-rm/industrial-stacknns'
+    image: '/images/nouns-verbs.png'
 
-    - title: "Open Sesame: Getting Inside BERT's Linguistic Knowledge"
-      authors: "Yongjie Lin, Yi Chern Tan and Robert Frank"
-      conference: "2nd Workshop on Blackbox NLP: Analyzing and Interpreting Neural Networks for NLP (ACL), 2019."
-      pdf : "https://arxiv.org/abs/1906.01698"
-      code: "https://github.com/yongjie-lin/bert-opensesame"
-      image: "/images/Bert.png"
+  - title: 'Sequential Neural Networks as Automata'
+    authors: 'William Merrill'
+    conference: 'Workshop on Deep Learning and Formal Languages: Building Bridges (ACL), 2019.'
+    pdf: 'https://arxiv.org/abs/1906.01615'
+    image: '/images/LSTM-complexity.png'
 
-    - title: "Finding Syntactic Representations in Neural Stacks"
-      authors: "William Merrill, Lenny Khazan, Noah Amsel, Yiding Hao, Simon Mendelsohn and Robert Frank"
-      conference: "2nd Workshop on Blackbox NLP: Analyzing and Interpreting Neural Networks for NLP (ACL), 2019."
-      pdf : "https://arxiv.org/abs/1906.01594"
-      code: "https://github.com/viking-sudo-rm/industrial-stacknns"
-      image: "/images/nouns-verbs.png"
+  - title: 'Unbounded Stress in Subregular Phonology'
+    authors: 'Yiding Hao and Samuel Andersson'
+    conference: '16th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology (ACL), 2019.'
+    pdf: 'https://ling.auf.net/lingbuzz/004642'
+    image: '/images/tibetan-stress.png'
 
-    - title: "Sequential Neural Networks as Automata"
-      authors: "William Merrill"
-      conference: "Workshop on Deep Learning and Formal Languages: Building Bridges (ACL), 2019."
-      pdf : "https://arxiv.org/abs/1906.01615"
-      image: "/images/LSTM-complexity.png"
+  - title: 'Action-Sensitive Phonological Dependencies'
+    authors: 'Yiding Hao and Justin Bowers'
+    conference: '16th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology (ACL), 2019.'
+    pdf: 'https://arxiv.org/abs/1906.06464'
+    image: '/images/syncope.png'
 
-    - title: "Unbounded Stress in Subregular Phonology"
-      authors: "Yiding Hao and Samuel Andersson"
-      conference: "16th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology (ACL), 2019."
-      pdf : "https://ling.auf.net/lingbuzz/004642"
-      image: "/images/tibetan-stress.png"
+  - title: 'Detecting Syntactic Change Using a Neural Part-of-Speech Tagger'
+    authors: 'William Merrill, Gigi Felice Stark and Robert Frank'
+    conference: '1st International Workshop on Computational Approaches to Historical Language Change (ACL), 2019.'
+    pdf: '/papers/Diachronic_POS_Tagger.pdf'
+    code: 'https://github.com/viking-sudo-rm/DiachronicPOSTagger'
+    image: '/images/PCA-LSTM.png'
 
-    - title: "Action-Sensitive Phonological Dependencies"
-      authors: "Yiding Hao and Justin Bowers"
-      conference: "16th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology (ACL), 2019."
-      pdf : "https://arxiv.org/abs/1906.06464"
-      image: "/images/syncope.png"
+  - title: 'Syntax-aware Neural Semantic Role Labeling with Supertags'
+    authors: 'Jungo Kasai, Dan Friedman, Robert Frank, Dragomir Radev and Owen Rambow'
+    conference: 'Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2019.'
+    pdf: ' https://arxiv.org/abs/1903.05260'
+    code: 'https://github.com/jungokasai/stagging_srl'
+    image: '/images/srl-supertags.png'
 
-    - title: "Detecting Syntactic Change Using a Neural Part-of-Speech Tagger"
-      authors: "William Merrill, Gigi Felice Stark and Robert Frank"
-      conference: "1st International Workshop on Computational Approaches to Historical Language Change (ACL), 2019."
-      pdf : "/papers/Diachronic_POS_Tagger.pdf"
-      code: "https://github.com/viking-sudo-rm/DiachronicPOSTagger"
-      image: "/images/PCA-LSTM.png"
+  - title: 'Jabberwocky Parsing: Dependency Parsing with Lexical Noise'
+    authors: 'Jungo Kasai and Robert Frank'
+    conference: 'Proceedings of the Society for Computation in Linguistics, 2019.'
+    pdf: 'https://aclanthology.org/W19-0112.pdf'
+    image: 'https://upload.wikimedia.org/wikipedia/commons/d/d0/Jabberwocky.jpg'
+    code: 'https://github.com/Yale-LILY/graph_parser'
 
-    - title: "Syntax-aware Neural Semantic Role Labeling with Supertags"
-      authors: "Jungo Kasai, Dan Friedman, Robert Frank, Dragomir Radev and Owen Rambow"
-      conference: "Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2019."
-      pdf : " https://arxiv.org/abs/1903.05260"
-      code: "https://github.com/jungokasai/stagging_srl"
-      image: "/images/srl-supertags.png"
+  - title: 'Learnability and Overgeneration in Computational Syntax'
+    authors: 'Yiding Hao'
+    conference: 'Proceedings of the Society for Computation in Linguistics, 2019.'
+    pdf: 'https://aclanthology.org/W19-0113.pdf'
+    image: '/images/dist-learnable.jpg'
 
-    - title: "Jabberwocky Parsing: Dependency Parsing with Lexical Noise"
-      authors: "Jungo Kasai and Robert Frank"
-      conference: "Proceedings of the Society for Computation in Linguistics, 2019."
-      pdf : "https://aclanthology.org/W19-0112.pdf"
-      image: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Jabberwocky.jpg"
-      code: "https://github.com/Yale-LILY/graph_parser"
+  - title: 'Context-Free Transductions with Neural Stacks'
+    authors: 'Yiding Hao, William Merrill, Dana Angluin, Robert Frank, Noah Amsel, Andrew Benz and Simon Mendelsohn'
+    conference: '1st Workshop on Blackbox NLP: Analyzing and Interpreting Neural Networks for NLP (EMNLP), 2018.'
+    pdf: 'https://aclweb.org/anthology/papers/W/W18/W18-5433/'
+    bibtex: 'https://aclweb.org/anthology/papers/W/W18/W18-5433.bib'
+    code: 'https://github.com/viking-sudo-rm/StackNN'
+    image: '/images/stack.jpg'
 
-    - title: "Learnability and Overgeneration in Computational Syntax"
-      authors: "Yiding Hao"
-      conference: "Proceedings of the Society for Computation in Linguistics, 2019."
-      pdf : "https://aclanthology.org/W19-0113.pdf"
-      image: "/images/dist-learnable.jpg"
+  - title: 'Revisiting the Poverty of the Stimulus: Hierarchical Generalization without a Hierarchical Bias in Recurrent Neural Networks'
+    authors: 'R. Thomas McCoy, Robert Frank, and Tal Linzen'
+    conference: 'Proceedings of the 40th Annual Conference of the Cognitive Science Society, 2018.'
+    pdf: 'https://arxiv.org/pdf/1802.09091.pdf'
+    bibtex: 'https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1802-09091'
+    image: '/images/question.jpg'
 
-    - title: "Context-Free Transductions with Neural Stacks"
-      authors: "Yiding Hao, William Merrill, Dana Angluin, Robert Frank, Noah Amsel, Andrew Benz and Simon Mendelsohn"
-      conference: "1st Workshop on Blackbox NLP: Analyzing and Interpreting Neural Networks for NLP (EMNLP), 2018."
-      pdf : "https://aclweb.org/anthology/papers/W/W18/W18-5433/"
-      bibtex: "https://aclweb.org/anthology/papers/W/W18/W18-5433.bib"
-      code : "https://github.com/viking-sudo-rm/StackNN"
-      image: "/images/stack.jpg"
+  - title: 'End-to-End Graph-Based TAG Parsing with Neural Networks'
+    authors: 'Jungo Kasai, Robert Frank, Pauli Xu, William Merrill and Owen Rambow'
+    conference: 'Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2018.'
+    pdf: 'http://aclweb.org/anthology/N18-1107'
+    bibtex: 'https://aclanthology.info/papers/N18-1107/n18-1107.bib'
+    code: 'https://github.com/jungokasai/graph_parser'
+    image: '/images/graph-parser.jpg'
 
-    - title: "Revisiting the Poverty of the Stimulus: Hierarchical Generalization without a Hierarchical Bias in Recurrent Neural Networks"
-      authors: "R. Thomas McCoy, Robert Frank, and Tal Linzen"
-      conference: "Proceedings of the 40th Annual Conference of the Cognitive Science Society, 2018."
-      pdf : "https://arxiv.org/pdf/1802.09091.pdf"
-      bibtex: "https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1802-09091"
-      image: "/images/question.jpg"
+  - title: 'Phonologically Informed Edit Distance Algorithms for Word Alignment with Low-Resource Languages'
+    authors: 'R. Thomas McCoy and Robert Frank'
+    conference: 'Proceedings of the Society for Computation in Linguistics, 2018.'
+    pdf: 'http://aclweb.org/anthology/W18-0311'
+    bibtex: 'https://aclanthology.info/papers/W18-0311/w18-0311.bib'
+    image: '/images/cognate.jpg'
 
-    - title: "End-to-End Graph-Based TAG Parsing with Neural Networks"
-      authors: "Jungo Kasai, Robert Frank, Pauli Xu, William Merrill and Owen Rambow"
-      conference: "Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), 2018."
-      pdf : "http://aclweb.org/anthology/N18-1107"
-      bibtex: "https://aclanthology.info/papers/N18-1107/n18-1107.bib"
-      code: "https://github.com/jungokasai/graph_parser"
-      image: "/images/graph-parser.jpg"
+  - title: 'Using Rhetorical Topics for Automatic Summarization'
+    authors: 'Natalie Schrimpf'
+    conference: 'Proceedings of the Society for Computation in Linguistics, 2018.'
+    pdf: 'http://aclweb.org/anthology/W18-0313'
+    bibtex: 'https://aclanthology.info/papers/W18-0311/w18-0313.bib'
+    image: '/images/rst.jpg'
 
-    - title: "Phonologically Informed Edit Distance Algorithms for Word Alignment with Low-Resource Languages"
-      authors: "R. Thomas McCoy and Robert Frank"
-      conference: "Proceedings of the Society for Computation in Linguistics, 2018."
-      pdf: "http://aclweb.org/anthology/W18-0311"
-      bibtex: "https://aclanthology.info/papers/W18-0311/w18-0311.bib"
-      image: "/images/cognate.jpg"
+  - title: 'TAG Parsing with Neural Networks and Vector Representations of Supertags'
+    authors: 'Jungo Kasai, Robert Frank, R. Thomas McCoy, Owen Rambow, and Alexis Nasr'
+    conference: 'Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017.'
+    pdf: 'http://www.aclweb.org/anthology/D17-1180'
+    image: '/images/bilstm.png'
+    bibtex: 'http://www.aclweb.org/anthology/D/D17/D17-1180.bib'
+    code: 'https://github.com/jungokasai/bilstm_stagging'
 
-    - title: "Using Rhetorical Topics for Automatic Summarization"
-      authors: "Natalie Schrimpf"
-      conference: "Proceedings of the Society for Computation in Linguistics, 2018."
-      pdf: "http://aclweb.org/anthology/W18-0313"
-      bibtex: "https://aclanthology.info/papers/W18-0311/w18-0313.bib"
-      image: "/images/rst.jpg"
+  - title: 'Linguistically Rich Vector Representations of Supertags for TAG Parsing'
+    authors: 'Dan Friedman, Jungo Kasai, R. Thomas McCoy, Robert Frank, Owen Rambow and Forrest Davis'
+    conference: 'Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+13), 2017.'
+    pdf: 'http://www.aclweb.org/anthology/W/W17/W17-6213.pdf'
+    bibtex: 'http://www.aclweb.org/anthology/W/W17/W17-6213.bib'
+    image: '/images/pca_inf_300.png'
 
-    - title: "TAG Parsing with Neural Networks and Vector Representations of Supertags"
-      authors: "Jungo Kasai, Robert Frank, R. Thomas McCoy, Owen Rambow, and Alexis Nasr"
-      conference: "Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017."
-      pdf : "http://www.aclweb.org/anthology/D17-1180"
-      image: "/images/bilstm.png"
-      bibtex: "http://www.aclweb.org/anthology/D/D17/D17-1180.bib"
-      code: "https://github.com/jungokasai/bilstm_stagging"
+  - title: 'TAG Parsing Evaluation using Textual Entailments'
+    authors: 'Pauli Xu, Robert Frank, Jungo Kasai and Owen Rambow'
+    conference: 'Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+13), 2017.'
+    pdf: 'http://www.aclweb.org/anthology/W/W17/W17-6214.pdf'
+    bibtex: 'http://www.aclweb.org/anthology/W/W17/W17-6214.bib'
+    image: '/images/coordination_transformations.png'
 
-    - title: "Linguistically Rich Vector Representations of Supertags for TAG Parsing"
-      authors: "Dan Friedman, Jungo Kasai, R. Thomas McCoy, Robert Frank, Owen Rambow and Forrest Davis"
-      conference: "Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+13), 2017."
-      pdf : "http://www.aclweb.org/anthology/W/W17/W17-6213.pdf"
-      bibtex: "http://www.aclweb.org/anthology/W/W17/W17-6213.bib"
-      image: "/images/pca_inf_300.png"
+  - title: 'Harmonic Serialism and Finite-State Optimality Theory'
+    authors: 'Yiding Hao'
+    conference: 'Proceedings of the 13th International Conference on Finite State Methods and Natural Language Processing, 2017.'
+    pdf: 'http://aclweb.org/anthology/W/W17/W17-4003.pdf'
+    bibtex: 'https://aclanthology.info/papers/W17-4003/w17-4003.bib'
+    image: '/images/fst.jpg'
 
-    - title: "TAG Parsing Evaluation using Textual Entailments"
-      authors: "Pauli Xu, Robert Frank, Jungo Kasai and Owen Rambow"
-      conference: "Proceedings of the 13th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+13), 2017."
-      pdf : "http://www.aclweb.org/anthology/W/W17/W17-6214.pdf"
-      bibtex: "http://www.aclweb.org/anthology/W/W17/W17-6214.bib"
-      image: "/images/coordination_transformations.png"
+  - title: 'Node-based Induction of Tree-Substitution Grammars'
+    authors: 'Rose Sloan'
+    conference: 'Proceedings of the 12th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+12), 2016.'
+    pdf: 'http://www.aclweb.org/anthology/W16-3308'
+    bibtex: 'https://aclanthology.info/papers/W16-3308/w16-3308.bib'
+    image: '/images/determiners.jpg'
 
-    - title: "Harmonic Serialism and Finite-State Optimality Theory"
-      authors: "Yiding Hao"
-      conference: "Proceedings of the 13th International Conference on Finite State Methods and Natural Language Processing, 2017."
-      pdf : "http://aclweb.org/anthology/W/W17/W17-4003.pdf"
-      bibtex: "https://aclanthology.info/papers/W17-4003/w17-4003.bib"
-      image: "/images/fst.jpg"
-
-    - title: "Node-based Induction of Tree-Substitution Grammars"
-      authors: "Rose Sloan"
-      conference: "Proceedings of the 12th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+12), 2016."
-      pdf : "http://www.aclweb.org/anthology/W16-3308"
-      bibtex: "https://aclanthology.info/papers/W16-3308/w16-3308.bib"
-      image: "/images/determiners.jpg"
-
-    - title: "Parasitic Gaps and the Heterogeneity of Dependency Formation in STAG"
-      authors: "Robert Frank and Dennis Ryan Storoshenko"
-      conference: "Proceedings of the 12th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+12), 2016."
-      pdf : "http://www.aclweb.org/anthology/W16-3312"
-      bibtex: "https://aclanthology.info/papers/W16-3312/w16-3312.bib"
-      image: "/images/pg.jpg"
+  - title: 'Parasitic Gaps and the Heterogeneity of Dependency Formation in STAG'
+    authors: 'Robert Frank and Dennis Ryan Storoshenko'
+    conference: 'Proceedings of the 12th International Workshop on Tree Adjoining Grammars and Related Formalisms (TAG+12), 2016.'
+    pdf: 'http://www.aclweb.org/anthology/W16-3312'
+    bibtex: 'https://aclanthology.info/papers/W16-3312/w16-3312.bib'
+    image: '/images/pg.jpg'

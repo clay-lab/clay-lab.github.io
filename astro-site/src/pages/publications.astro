@@ -12,15 +12,14 @@ const publications = getPublications();
 <Layout metadata={metadata}>
   <section class="mx-auto max-w-5xl px-4 py-10 sm:px-6 lg:px-8">
     <header class="mb-8 text-center">
-      <h1
-        class="text-3xl font-bold tracking-wide sm:text-4xl"
-        style="font-family: 'Lora', Georgia, serif;"
-      >
+      <h1 class="text-3xl font-bold tracking-wide sm:text-4xl" style="font-family: 'Lora', Georgia, serif;">
         Recent Publications
       </h1>
     </header>
 
-    <div class="divide-y divide-gray-200 rounded-xl border border-gray-200 bg-white shadow-sm dark:divide-gray-700 dark:border-gray-700 dark:bg-slate-900">
+    <div
+      class="divide-y divide-gray-200 rounded-xl border border-gray-200 bg-white shadow-sm dark:divide-gray-700 dark:border-gray-700 dark:bg-slate-900"
+    >
       {
         publications.map((paper) => (
           <article class="p-4 sm:p-5">
