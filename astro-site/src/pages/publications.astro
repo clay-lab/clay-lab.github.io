@@ -7,6 +7,15 @@ const metadata = {
 };
 
 const publications = getPublications();
+const baseUrl = import.meta.env.BASE_URL;
+
+const withBaseUrl = (value: string) => {
+  if (value.startsWith('/images/') || value.startsWith('/papers/')) {
+    return `${baseUrl}${value.slice(1)}`;
+  }
+
+  return value;
+};
 ---
 
 <Layout metadata={metadata}>
@@ -27,7 +36,7 @@ const publications = getPublications();
               <div class="flex w-[115px] shrink-0 self-stretch items-center justify-center sm:w-[134px]">
                 {paper.image ? (
                   <img
-                    src={paper.image}
+                    src={withBaseUrl(paper.image)}
                     alt={`Cover image for ${paper.title}`}
                     class="h-auto max-h-[115px] w-auto max-w-full object-contain"
                     loading="lazy"
@@ -42,7 +51,12 @@ const publications = getPublications();
               <div class="space-y-2">
                 <h2 class="text-lg font-semibold leading-snug sm:text-xl">
                   {paper.pdf ? (
-                    <a href={paper.pdf} class="hover:text-primary transition-colors" target="_blank" rel="noreferrer">
+                    <a
+                      href={withBaseUrl(paper.pdf)}
+                      class="hover:text-primary transition-colors"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
                       {paper.title}
                     </a>
                   ) : (
@@ -55,7 +69,7 @@ const publications = getPublications();
                 <div class="flex flex-wrap gap-2 pt-1">
                   {paper.pdf && (
                     <a
-                      href={paper.pdf}
+                      href={withBaseUrl(paper.pdf)}
                       class="rounded-md bg-primary px-2.5 py-1 text-xs font-medium text-white hover:opacity-90"
                       target="_blank"
                       rel="noreferrer"
@@ -75,7 +89,7 @@ const publications = getPublications();
                   )}
                   {paper.bibtex && (
                     <a
-                      href={paper.bibtex}
+                      href={withBaseUrl(paper.bibtex)}
                       class="rounded-md bg-primary px-2.5 py-1 text-xs font-medium text-white hover:opacity-90"
                       target="_blank"
                       rel="noreferrer"
@@ -85,7 +99,7 @@ const publications = getPublications();
                   )}
                   {paper.code && (
                     <a
-                      href={paper.code}
+                      href={withBaseUrl(paper.code)}
                       class="rounded-md bg-primary px-2.5 py-1 text-xs font-medium text-white hover:opacity-90"
                       target="_blank"
                       rel="noreferrer"
