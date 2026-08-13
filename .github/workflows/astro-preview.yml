@@ -1,0 +1,50 @@
+name: Deploy Astro Preview
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy-preview:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: astro-site/package-lock.json
+
+      - name: Install dependencies
+        working-directory: astro-site
+        run: npm ci
+
+      - name: Build preview site
+        working-directory: astro-site
+        run: npm run build:preview
+
+      - name: Publish preview files
+        run: |
+          rm -rf preview
+          mkdir -p preview
+          cp -R astro-site/dist/. preview/
+          touch preview/.nojekyll
+
+      - name: Commit preview deployment
+        run: |
+          if git diff --quiet -- preview; then
+            echo "No preview changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add preview
+          git commit -m "Deploy Astro preview to /preview"
+          git push

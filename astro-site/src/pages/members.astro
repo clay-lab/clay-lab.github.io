@@ -1,0 +1,90 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import { getMembersData } from '~/data/members';
+import type { MembersData } from '~/data/members';
+
+const metadata = {
+  title: 'Members',
+};
+
+const members = getMembersData();
+
+const sections: Array<{ key: keyof MembersData; title: string }> = [
+  { key: 'faculty', title: 'Faculty' },
+  { key: 'graduate', title: 'Graduate Students and Post-Docs' },
+  { key: 'undergraduate', title: 'Undergraduate Students' },
+  { key: 'post-doc-alumni', title: 'Post-Doctoral Alumni' },
+  { key: 'phd-alumni', title: 'Graduate Alumni' },
+  { key: 'undergrad-alumni', title: 'Undergraduate Alumni' },
+];
+---
+
+<Layout metadata={metadata}>
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <header class="mb-8 text-center">
+      <h1
+        class="text-3xl font-bold tracking-wide sm:text-4xl"
+        style="font-family: 'Lora', Georgia, serif;"
+      >
+        CLAY Lab Members
+      </h1>
+    </header>
+
+    <div class="space-y-10">
+      {
+        sections.map((section) => (
+          <section>
+            <h2
+              class="mb-4 border-b border-gray-200 pb-2 text-2xl font-semibold tracking-wide dark:border-gray-700"
+              style="font-family: 'Lora', Georgia, serif;"
+            >
+              {section.title}
+            </h2>
+            <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {members[section.key].map((person) => (
+                <article class="flex gap-3 rounded-xl border border-gray-200 bg-white p-4 shadow-sm dark:border-gray-700 dark:bg-slate-900">
+                  <div class="h-24 w-24 shrink-0 overflow-hidden rounded-md border border-gray-200 bg-gray-100 dark:border-gray-700 dark:bg-slate-800">
+                    {person.photo ? (
+                      <img src={person.photo} alt={person.name} class="h-full w-full object-cover" loading="lazy" />
+                    ) : (
+                      <div class="flex h-full items-center justify-center text-xs text-gray-500 dark:text-gray-300">No photo</div>
+                    )}
+                  </div>
+
+                  <div class="min-w-0">
+                    <h3 class="text-base font-semibold">{person.name}</h3>
+                    {person.title && <p class="text-sm text-gray-700 dark:text-gray-200" set:html={person.title} />}
+                    {person.location && <p class="text-sm text-gray-600 dark:text-gray-300" set:html={person.location} />}
+
+                    <div class="mt-2 flex flex-wrap gap-2">
+                      {person.url && (
+                        <a
+                          href={person.url}
+                          target="_blank"
+                          rel="noreferrer"
+                          class="rounded-md bg-primary px-2.5 py-1 text-xs font-medium text-white hover:opacity-90"
+                        >
+                          Website
+                        </a>
+                      )}
+                      {person.github && (
+                        <a
+                          href={`https://github.com/${person.github}`}
+                          target="_blank"
+                          rel="noreferrer"
+                          class="rounded-md bg-primary px-2.5 py-1 text-xs font-medium text-white hover:opacity-90"
+                        >
+                          GitHub
+                        </a>
+                      )}
+                    </div>
+                  </div>
+                </article>
+              ))}
+            </div>
+          </section>
+        ))
+      }
+    </div>
+  </section>
+</Layout>

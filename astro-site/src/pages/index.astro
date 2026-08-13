@@ -1,0 +1,45 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+
+const metadata = {
+  title: 'About',
+};
+---
+
+<Layout metadata={metadata}>
+  <section class="mx-auto max-w-4xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="mb-8 flex justify-center">
+      <img
+        src="/hillhouse-37.webp"
+        alt="37 Hillhouse Avenue, Yale campus"
+        class="h-auto w-full max-w-xl rounded-lg border border-gray-200 dark:border-gray-700"
+      />
+    </div>
+
+    <header class="mb-6 text-center">
+      <h1
+        class="text-3xl font-bold tracking-wide sm:text-4xl"
+        style="font-family: 'Lora', Georgia, serif;"
+      >
+        Computational Linguistics at Yale
+      </h1>
+    </header>
+
+    <div class="space-y-4 text-base leading-7 text-gray-700 dark:text-gray-200">
+      <p>
+        This is the website for the Computational Linguistics at Yale (CLAY Lab). CLAY Lab is an interdisciplinary research
+        group of faculty, post-docs, and students interested in theoretical and applied questions related to computational
+        approaches to language learning and the processing and representation of linguistic structure.
+      </p>
+      <p>
+        We meet every week during the academic year, both to discuss current work by lab members and to read recent research
+        papers.
+      </p>
+      <p>
+        For information about joining the CLAY lab, contact
+        <a class="text-primary hover:underline" href="mailto:bob.frank@yale.edu"> Bob Frank</a> or
+        <a class="text-primary hover:underline" href="mailto:tom.mccoy@yale.edu"> Tom McCoy</a>.
+      </p>
+    </div>
+  </section>
+</Layout>
