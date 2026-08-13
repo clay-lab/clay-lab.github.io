@@ -1,4 +1,15 @@
 papers:
+  - title: 'What Exactly do Children Receive in Language Acquisition? A Case Study on CHILDES with Automated Detection of Filler-Gap Dependencies'
+    authors: 'Zhenghao Zhou, William Dai, Maya Viswanathan, Simon Charlow, R. Thomas McCoy and Robert Frank'
+    conference: 'Proceedings of the 30th Conference on Computational Natural Language Learning (CoNLL), 2026. San Diego.'
+    pdf: 'https://aclanthology.org/2026.conll-main.42/'
+    image: '/images/childes-filler-gap-conll-2026.png'
+
+  - title: 'Compliments to the Complementizer: Indirect Routing of Syntactic Structure in a Transformer Language Model'
+    authors: 'Lasse van den Berg and Robert Frank'
+    conference: 'Proceedings of the Conference on Language Modeling (COLM), 2026. San Francisco.'
+    image: '/images/complements-complementizer-colm-2026.png'
+
   - title: 'Modeling rapid language learning by distilling Bayesian priors into artificial neural networks'
     authors: 'R. Thomas McCoy and Thomas L. Griffiths'
     conference: 'Nature Communications, 2025'
