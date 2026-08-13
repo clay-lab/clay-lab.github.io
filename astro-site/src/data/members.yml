@@ -1,0 +1,331 @@
+faculty:
+  - name: Robert Frank
+    photo: /photos/bob_profile.jpg
+    email: bob.frank@yale.edu
+    url: https://bobfrank1.github.io
+    title: Professor<br> Linguistics
+
+  - name: Tom McCoy
+    photo: /photos/tom_profile.jpg
+    email: tom.mccoy@yale.edu
+    url: https://rtmccoy.com
+    title: Assistant Professor<br> Linguistics
+
+  - name: Dana Angluin
+    photo: /photos/dana_profile.jpg
+    email: dana.angluin@yale.edu
+    title: Professor Emeritus <br> Computer Science
+    url: https://engineering.yale.edu/research-and-faculty/faculty-directory/dana-angluin
+
+  - name: Simon Charlow
+    photo: /photos/charlow_profile.jpg
+    email: simon.charlow@yale.edu
+    url: https://simoncharlow.com
+    title: Associate Professor<br> Linguistics
+
+graduate:
+  - name: Anton Hampe
+    photo: /photos/anton_profile.jpg
+    email: anton.hampe@yale.edu
+    url: https://ling.yale.edu/profile/anton-hampe
+    title: PhD student <br> Linguistics
+
+  - name: Bella Senturia
+    photo: /photos/bella_profile.jpg
+    email: isabella.senturia@yale.edu
+    url: https://ling.yale.edu/profile/isabella-senturia
+    title: PhD student <br> Linguistics
+
+  - name: Kaya Stechly
+    photo: https://kstechly.github.io/assets/img/prof_pic.jpg
+    email: kaya.stechly@yale.edu
+    url: https://kstechly.github.io
+    title: PhD student <br> Computer Science
+
+  - name: Lena Strobl
+    photo: /photos/lena_profile.jpg
+    email: lena.strobl@yale.edu
+    url: https://sleynas.com
+    title: Postdoctoral Fellow <br> Linguistics
+
+  - name: Enyan Zhang
+    photo: /photos/enyan_profile.jpg
+    email: enyan.zhang@yale.edu
+    url: https://enyanz.com
+    title: PhD student <br> Computer Science
+
+  - name: Zhenghao Herbert Zhou
+    photo: /photos/herbert_profile.jpg
+    email: herbert.zhou@yale.edu
+    url: https://herbert-zhou.github.io
+    title: PhD student <br> Linguistics
+
+  - name: Xiaomeng Miranda Zhu
+    photo: /photos/miranda_profile.jpg
+    email: miranda.zhu@yale.edu
+    url: hhttps://xiaomeng-zhu.github.io
+    title: PhD student <br> Linguistics
+
+undergraduate:
+  - name: William Dai
+    photo: /photos/test.jpg
+    email: william.dai@yale.edu
+    title: 2027
+
+  - name: Deanna DeCarlo
+    photo: /photos/deanna_profile.jpg
+    url: https://www.linkedin.com/in/deanna-decarlo/
+    email: deanna.decarlo@yale.edu
+    title: 2026
+
+  - name: Daniel Koldobskiy
+    photo: /photos/test.jpg
+    email: daniel.koldobskiy@yale.edu
+    url: https://www.linkedin.com/in/daniel-koldobskiy-a71567230/
+    title: 2028
+
+  - name: Juliano Portela
+    photo: /photos/juliano_profile.jpg
+    url: https://www.linkedin.com/in/julianodportela/
+    email: juliano.portela@yale.edu
+    title: 2027
+
+  - name: Morgan Taylor
+    photo: /photos/morgan_profile.jpg
+    url: https://www.linkedin.com/in/morgan-taylor-37a0a723b/
+    email: morgan.taylor@yale.edu
+    title: 2027
+
+  - name: Maya Viswanathan
+    photo: /photos/maya_profile.jpg
+    url: https://www.linkedin.com/in/maya-viswanathan-a8850a33b/
+    email: maya.viswanathan@yale.edu
+    title: 2028
+
+  - name: Kenny Wang
+    photo: /photos/test.jpg
+    url: https://www.linkedin.com/in/kenneth-wang-854606258/
+    email: kenny.l.wang@yale.edu
+    title: 2029
+
+  - name: Annie Ye
+    photo: /photos/annie_ye_profile.jpg
+    url: https://www.linkedin.com/in/annie-ye-3aa4b8280/
+    email: annie.ye@yale.edu
+    title: 2028
+
+post-doc-alumni:
+  - name: David Chartash
+    photo: /photos/chartash_profile.jpg
+    email: david.chartash@yale.edu
+    url: https://medicine.yale.edu/profile/david_chartash/
+    title: Instructor
+    location: Yale Medicine
+
+  - name: Tim Hunter
+    photo: /photos/tim_profile.jpg
+    email: timhunter@ucla.edu
+    url: http://linguistics.ucla.edu/people/hunter/
+    title: Associate Professor
+    location: UCLA, Linguistics
+
+  - name: Malcolm Sailor
+    photo: /photos/malcolm_profile.jpg
+    email: malcolm.sailor@gmail.com
+    url: https://malcolmsailor.com/about/
+    title: Postdoctoral Fellow <br> Music
+
+  - name: Dennis  Storoshenko
+    photo: /photos/dennis_profile.jpg
+    url: http://people.ucalgary.ca/~dstorosh/
+    title: Associate Professor
+    location: U. of Calgary <br>  Linguistics
+
+  - name: Michael Wilson
+    photo: /photos/michael_profile.jpg
+    email: mwilson3@unr.edu
+    title: Assistant Professor
+    url: https://www.unr.edu/english/people/michael-wilson
+    location: U. of Nevada, Reno <br> Linguistics
+
+phd-alumni:
+  - name: Michael Freedman
+    photo: /photos/mike_profile.jpg
+    url: https://www.linkedin.com/in/michael-freedman-92a48882/
+    title: Data Science Architect
+    location: Finch AI
+
+  - name: Sophie Hao
+    photo: /photos/sophie_profile.jpg
+    email: sophie.hao@nyu.edu
+    url: https://www.notaphonologist.com
+    title: Assistant Professor
+    location: Linguistics & Data Science <BR> Boston University
+
+  - name: Ayla Karakaş
+    photo: /photos/ayla_profile.jpg
+    url: https://www.linkedin.com/in/ayla-karakas/
+
+  - name: Natalie Schrimpf
+    photo: /photos/natalie_profile.jpg
+    url: https://www.linkedin.com/in/natalie-schrimpf-8214579b/
+    title: Language Engineer
+    location: Amazon
+
+undergrad-alumni:
+  - name: Noah Amsel
+    photo: /photos/noah_profile.jpg
+    url: https://www.linkedin.com/in/noah-amsel/
+    title: PhD student
+    location: NYU, CS
+
+  - name: Andrew Benz
+    photo: /photos/andrew_profile.jpg
+    title: Machine Learning Scientist
+    location: Noetik
+    url: https://www.linkedin.com/in/andrew-benz/
+
+  - name: Lasse van den Berg
+    photo: /photos/lasse_profile.jpg
+    email: lasseheinrich.vandenberg@yale.edu
+
+  - name: Maryam Elbenni
+    photo: /photos/maryam_profile.jpg
+    url: https://www.linkedin.com/in/maryam-elbenni-584a62333/
+    email: maryam.elbenni@yale.edu
+
+  - name: Sachien Fernando
+    photo: /photos/sachien_profile.jpg
+    email: sachien.fernando@yale.edu
+    title: Software Engineer
+    location: Microsoft
+
+  - name: Dan Friedman
+    photo: /photos/dan_profile.jpg
+    url: https://danfriedman0.github.io/
+    title: Machine Learning Researcher
+    location: Apple
+
+  - name: Hana Galijašević
+    photo: /photos/hana_profile.jpg
+    url: https://www.linkedin.com/in/hana-galijasevic/
+    title: Faculty member
+    location: Providence Day School
+
+  - name: Sarah Gross
+    photo: /photos/sarahgross_profile.jpg
+    url: https://www.linkedin.com/in/sarah-gross-46b38810a/
+    title: Strategy Manager
+    location: Potential Energy Coalition
+
+  - name: Pearl Hwang
+    photo: /photos/pearl_profile.jpg
+    url: https://www.linkedin.com/in/pinyu-hwang-16b014193/
+    title: Software Engineer
+    location: Google
+
+  - name: Jungo Kasai
+    url: https://jungokasai.github.io
+    photo: /photos/jungo_profile.jpg
+    title: CTO
+    location: Kotoba Technologies
+
+  - name: Lenny Khazan
+    photo: /photos/lenny_profile.jpg
+    url: https://www.linkedin.com/in/lennykhazan/
+    title: CTO
+    location: Diode Computers
+
+  - name: Yongjie Lin
+    photo: /photos/yong_profile.jpg
+    location: Facebook
+    title: Software Engineer
+
+  - name: Sally Ma
+    photo: /photos/sallyma_profile.jpg
+    url: https://www.linkedin.com/in/sally-ma-mxy/
+    title: Research Engineer
+    location: Google DeepMind
+
+  - name: Rebecca Marvin
+    url: https://www.linkedin.com/in/rebeccamarvindiamond/
+    photo: /photos/becky_profile.jpg
+    title: Attorney
+
+  - name: Tom McCoy
+    photo: /photos/tom_profile.jpg
+    url: https://tommccoy1.github.io
+    title: Assistant Professor
+    location: Yale, Linguistics
+
+  - name: Simon Mendelsohn
+    photo: /photos/simon_profile.jpg
+    title: CTO
+    location: Apers AI
+    url: https://www.linkedin.com/in/simon-mendelsohn/
+
+  - name: Will Merrill
+    photo: /photos/will_profile.jpg
+    title: Assistant Professor
+    url: https://lambdaviking.com/
+    location: TTIC
+
+  - name: William Min
+    photo: /photos/min_profile.jpg
+    email: w.min@yale.edu
+    url: https://www.linkedin.com/in/william-min-92a78a234/
+    title: MS student
+    location: Uppsala University
+
+  - name: William Palmer
+    photo: /photos/william_profile.jpg
+    email: william.palmer@yale.edu
+    url: https://www.linkedin.com/in/william-achilles-palmer-558369299/
+
+  - name: Jackson Petty
+    photo: /photos/jackson_profile.jpg
+    title: PhD student
+    location: NYU, Linguistics
+    url: http://jacksonpetty.org/
+
+  - name: Rose Sloan
+    photo: /photos/rose_profile.jpg
+    title: Assistant Professor
+    location: Northeastern, CS
+
+  - name: Shayna Sragovicz
+    photo: /photos/shayna_profile.jpg
+    title: Software Engineer
+    location: Microsoft
+
+  - name: Aarohi Srivastava
+    photo: /photos/aarohi_profile.jpg
+    url: https://aarsri.github.io
+    title: PhD student
+    location: Notre Dame, CS
+
+  - name: Rachel Sterneck
+    photo: /photos/rachel_profile.jpg
+    url: https://www.linkedin.com/in/rachel-sterneck/
+    title: Sr. Research Engineer
+    location: Google DeepMind
+
+  - name: Yi Chern Tan
+    url: https://yich.io
+    photo: /photos/yichern_profile.jpg
+    title: Member of Technical Staff
+    location: Cohere
+    email: yichern.tan@yale.edu
+
+  - name: Sarah Widder
+    photo: /photos/sarah_profile.jpg
+    email: sarah.widder@yale.edu
+    url: https://www.linkedin.com/in/sarah-widder-53972a126/
+    location: Microsoft
+    title: Sr. Software Engineer
+
+  - name: Pauli Xu
+    photo: /photos/pauli_profile.jpg
+    url: https://www.linkedin.com/in/pauli-xu-231455156/
+    title: AI Consultant
+    location: Kaidas Solutions

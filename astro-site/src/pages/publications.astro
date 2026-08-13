@@ -1,0 +1,104 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import { getPublications } from '~/data/publications';
+
+const metadata = {
+  title: 'Publications',
+};
+
+const publications = getPublications();
+---
+
+<Layout metadata={metadata}>
+  <section class="mx-auto max-w-5xl px-4 py-10 sm:px-6 lg:px-8">
+    <header class="mb-8 text-center">
+      <h1 class="text-3xl font-bold tracking-wide sm:text-4xl" style="font-family: 'Lora', Georgia, serif;">
+        Recent Publications
+      </h1>
+    </header>
+
+    <div
+      class="divide-y divide-gray-200 rounded-xl border border-gray-200 bg-white shadow-sm dark:divide-gray-700 dark:border-gray-700 dark:bg-slate-900"
+    >
+      {
+        publications.map((paper) => (
+          <article class="p-4 sm:p-5">
+            <div class="flex items-start gap-4">
+              <div class="flex w-[115px] shrink-0 self-stretch items-center justify-center sm:w-[134px]">
+                {paper.image ? (
+                  <img
+                    src={paper.image}
+                    alt={`Cover image for ${paper.title}`}
+                    class="h-auto max-h-[115px] w-auto max-w-full object-contain"
+                    loading="lazy"
+                  />
+                ) : (
+                  <div class="flex h-24 items-center justify-center rounded-md bg-gray-100 text-xs text-gray-500 dark:bg-slate-800 dark:text-gray-300">
+                    No image
+                  </div>
+                )}
+              </div>
+
+              <div class="space-y-2">
+                <h2 class="text-lg font-semibold leading-snug sm:text-xl">
+                  {paper.pdf ? (
+                    <a href={paper.pdf} class="hover:text-primary transition-colors" target="_blank" rel="noreferrer">
+                      {paper.title}
+                    </a>
+                  ) : (
+                    paper.title
+                  )}
+                </h2>
+                <p class="text-sm text-gray-700 dark:text-gray-200">{paper.authors}</p>
+                <p class="text-sm text-gray-600 dark:text-gray-300">{paper.conference}</p>
+
+                <div class="flex flex-wrap gap-2 pt-1">
+                  {paper.pdf && (
+                    <a
+                      href={paper.pdf}
+                      class="rounded-md bg-primary px-2.5 py-1 text-xs font-medium text-white hover:opacity-90"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      PDF
+                    </a>
+                  )}
+                  {paper.arXiv && (
+                    <a
+                      href={paper.arXiv}
+                      class="rounded-md bg-primary px-2.5 py-1 text-xs font-medium text-white hover:opacity-90"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      arXiv
+                    </a>
+                  )}
+                  {paper.bibtex && (
+                    <a
+                      href={paper.bibtex}
+                      class="rounded-md bg-primary px-2.5 py-1 text-xs font-medium text-white hover:opacity-90"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      BibTeX
+                    </a>
+                  )}
+                  {paper.code && (
+                    <a
+                      href={paper.code}
+                      class="rounded-md bg-primary px-2.5 py-1 text-xs font-medium text-white hover:opacity-90"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Code
+                    </a>
+                  )}
+                </div>
+              </div>
+            </div>
+          </article>
+        ))
+      }
+    </div>
+  </section>
+</Layout>
