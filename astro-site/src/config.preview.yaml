@@ -2,7 +2,7 @@ site:
   name: CLAY Lab
   site: 'https://clay.yale.edu'
   base: '/preview/'
-  trailingSlash: false
+  trailingSlash: true
 
   googleSiteVerificationId: null
 
