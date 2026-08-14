@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://clay.yale.edu/sitemap-index.xml
