@@ -1,4 +1,9 @@
 papers:
+  - title: 'Concise One-Layer Transformers Can Perform Dictionary Lookup'
+    authors: 'Anton Hampe, Lena Strobl, Dana Angluin and Robert Frank'
+    conference: 'PProceedings of the International Conference on Grammatical Inference (ICGI) 2026, TU Delft.'
+    image: '/images/childes-filler-gap-conll-2026.png'
+
   - title: 'What Exactly do Children Receive in Language Acquisition? A Case Study on CHILDES with Automated Detection of Filler-Gap Dependencies'
     authors: 'Zhenghao Zhou, William Dai, Maya Viswanathan, Simon Charlow, R. Thomas McCoy and Robert Frank'
     conference: 'Proceedings of the 30th Conference on Computational Natural Language Learning (CoNLL), 2026. San Diego.'

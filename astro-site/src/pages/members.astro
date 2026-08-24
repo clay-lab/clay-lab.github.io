@@ -19,8 +19,7 @@ const sections: Array<{ key: keyof MembersData; title: string }> = [
   { key: 'undergrad-alumni', title: 'Undergraduate Alumni' },
 ];
 
-const getPhotoSrc = (photo: string) =>
-  photo.startsWith('/photos/') ? `${baseUrl}${photo.slice(1)}` : photo;
+const getPhotoSrc = (photo: string) => (photo.startsWith('/photos/') ? `${baseUrl}${photo.slice(1)}` : photo);
 ---
 
 <Layout metadata={metadata}>

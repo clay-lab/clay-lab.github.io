@@ -1,0 +1,11 @@
+1. Run locally while editing (dev mode)
+
+scripts/run-local.sh
+
+2. Check production version locally (check + production build + local preview server)
+
+scripts/check-prod-local.sh
+
+3. Publish flow to GitHub (prepare root live files, commit, push, open PR)
+
+scripts/publish-live.sh "your commit message"
