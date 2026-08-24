@@ -1,11 +1,21 @@
-1. Run locally while editing (dev mode)
+1. Edit source content in astro-site/src/data/*.yml (or wherever) on a feature branch, e.g. title-fix or a new branch off master.
+
+2. Preview locally while editing:
 
 scripts/run-local.sh
 
-2. Check production version locally (check + production build + local preview server)
+
+3. Check the production build locally before publishing (runs astro check, production build, and a local preview server):
 
 scripts/check-prod-local.sh
 
-3. Publish flow to GitHub (prepare root live files, commit, push, open PR)
+4. Publish the build — from the repo root (not the astro-site worktree folder):
 
 scripts/publish-live.sh "your commit message"
+
+This runs npm run build, copies dist into the root-level static files (index.html, members/, etc.), commits, and pushes to your current branch.
+
+5. Merge to master. GitHub Pages serves from master, not your feature branch, so the build isn't live until it's merged. Open a PR from your branch → master and merge it (as you just did for title-fix).
+
+6. Verify live. Give GitHub Pages a minute to redeploy, then check the live page.
+

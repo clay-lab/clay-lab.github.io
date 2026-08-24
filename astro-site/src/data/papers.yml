@@ -13,6 +13,7 @@ papers:
   - title: 'Compliments to the Complementizer: Indirect Routing of Syntactic Structure in a Transformer Language Model'
     authors: 'Lasse van den Berg and Robert Frank'
     conference: 'Proceedings of the Conference on Language Modeling (COLM), 2026. San Francisco.'
+    pdf: 'https://openreview.net/pdf?id=VOdOaSAi47'
     image: '/images/complements-complementizer-colm-2026.png'
 
   - title: 'Modeling rapid language learning by distilling Bayesian priors into artificial neural networks'
