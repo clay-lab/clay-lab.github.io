@@ -1,7 +1,13 @@
 papers:
+  - title: 'The Structural Sources of Verb Meanings Revisited: Large Language Models Display Syntactic Bootstrapping'
+    authors: 'Zhaomeng Zhu, R. Thomas McCoy and Robert Frank'
+    conference: 'Open Mind, 2026'
+    pdf: 'https://watermark02.silverchair.com/opmi.a.391.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAlIwggJOBgkqhkiG9w0BBwagggI_MIICOwIBADCCAjQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMPZMnhLV8b0CoB3-WAgEQgIICBYKBq7fQkxzo7sMbH64jVMZ0iFWAeM07f5EXK2ZmCpizK3nCf_NXAXWrpdfcfe4_V8bxJzxOk6jvUPhW3kE6BKl9LuZpPvECgTEMylSjtEmKzuBSae0zQOM2FMAGSol0_7rcluo6FxNLF7JXngGu-zn5JHHDLHL0biPPVmCE9dPHX2yqC76zpnzm-6T8Bq21S_TyGQsQ9sXSrUJCGCgF2o4uvq4pUP227K411e6cFHwq4ZHAo5olBMH12MGuA-ODClN_bPVwYRgs6zPeLDOTtHgPtzff-5xP3EWEo9hV5kH-uiMKnRmAFPm530W9pHg9yyG505lJg2t-0SRI1t5aD5jp_FNwu-3HLyzhTsG85pWarm07hMQNn3IED-k80RBTMzIzZAQo-G1_Cs2UiPwfsLsHPk9i3ACOjWx1CLypId3E_9KnfWFaxdD8Hbjg7cUItdrJEXMZovumxkORRVTUkd5FdJKteExDsF_TmBLjYOUxjbQh8mu-nd9ZLW9krxUDRsqDh1GGfFWhjd99A63z2LxO5bMzZy-fpmiQBJ8OmckEGJdGY5sSsyCIG5i5r-BZdcr4h_fWLfVJjkMjGRe7aR0JKjxb0DAd8DUedz5xRx3rtFo75jPZ7JS93EYPthhfXTeWE1TzNdIpTDtAx2aF2aEFDsAsGn0sFNUB2kCMJlgU_c72IVU'
+    image: '/images/verb-learning.png'
+
   - title: 'Concise One-Layer Transformers Can Perform Dictionary Lookup'
     authors: 'Anton Hampe, Lena Strobl, Dana Angluin and Robert Frank'
-    conference: 'PProceedings of the International Conference on Grammatical Inference (ICGI) 2026, TU Delft.'
+    conference: 'Proceedings of the International Conference on Grammatical Inference (ICGI) 2026, TU Delft.'
     image: '/images/childes-filler-gap-conll-2026.png'
 
   - title: 'What Exactly do Children Receive in Language Acquisition? A Case Study on CHILDES with Automated Detection of Filler-Gap Dependencies'
