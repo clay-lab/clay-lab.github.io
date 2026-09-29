@@ -1,6 +1,6 @@
 papers:
   - title: 'The Structural Sources of Verb Meanings Revisited: Large Language Models Display Syntactic Bootstrapping'
-    authors: 'Zhaomeng Zhu, R. Thomas McCoy and Robert Frank'
+    authors: 'Xiaomeng Zhu, R. Thomas McCoy and Robert Frank'
     conference: 'Open Mind, 2026'
     pdf: 'https://doi.org/10.1162/OPMI.a.391'
     image: '/images/verb-learning.png'
