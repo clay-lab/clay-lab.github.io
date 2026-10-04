@@ -194,6 +194,9 @@ undergrad-alumni:
   - name: Lasse van den Berg
     photo: /photos/lasse_profile.jpg
     email: lasseheinrich.vandenberg@yale.edu
+    url: https://www.linkedin.com/in/lasse-van-den-berg/
+    title: AI Engineer
+    location: Arcade
 
   - name: Maryam Elbenni
     photo: /photos/maryam_profile.jpg
