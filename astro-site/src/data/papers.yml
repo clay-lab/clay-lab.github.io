@@ -9,7 +9,7 @@ papers:
     authors: 'Anton Hampe, Lena Strobl, Dana Angluin and Robert Frank'
     conference: 'Proceedings of the International Conference on Grammatical Inference (ICGI) 2026, TU Delft.'
     pdf: '/papers/concise-one-layer-transformers-dictionary-lookup.pdf'
-    image: '/images/childes-filler-gap-conll-2026.png'
+    image: '/images/dictionary-lookup.png'
 
   - title: 'What Exactly do Children Receive in Language Acquisition? A Case Study on CHILDES with Automated Detection of Filler-Gap Dependencies'
     authors: 'Zhenghao Zhou, William Dai, Maya Viswanathan, Simon Charlow, R. Thomas McCoy and Robert Frank'
