@@ -70,55 +70,55 @@ undergraduate:
   - name: William Dai
     photo: /photos/test.jpg
     email: william.dai@yale.edu
-    title: 2027
+    title: '2027'
 
   - name: Deanna DeCarlo
     photo: /photos/deanna_profile.jpg
     url: https://www.linkedin.com/in/deanna-decarlo/
     email: deanna.decarlo@yale.edu
-    title: 2026
+    title: '2026'
 
   - name: Daniel Koldobskiy
     photo: /photos/test.jpg
     email: daniel.koldobskiy@yale.edu
     url: https://www.linkedin.com/in/daniel-koldobskiy-a71567230/
-    title: 2028
+    title: '2028'
 
   - name: Claudia Muñoz-Solá
     photo: /photos/claudia_profile.png
     email: claudia.munoz-sola@yale.edu
     url: https://www.linkedin.com/in/claudia-muñoz-solá-1746b13a2/
-    title: 2028
+    title: '2028'
 
   - name: Juliano Portela
     photo: /photos/juliano_profile.jpg
     url: https://www.linkedin.com/in/julianodportela/
     email: juliano.portela@yale.edu
-    title: 2027
+    title: '2027'
 
   - name: Morgan Taylor
     photo: /photos/morgan_profile.jpg
     url: https://www.linkedin.com/in/morgan-taylor-37a0a723b/
     email: morgan.taylor@yale.edu
-    title: 2027
+    title: '2027'
 
   - name: Maya Viswanathan
     photo: /photos/maya_profile.jpg
     url: https://www.linkedin.com/in/maya-viswanathan-a8850a33b/
     email: maya.viswanathan@yale.edu
-    title: 2028
+    title: '2028'
 
   - name: Kenny Wang
     photo: /photos/kenny_profile.jpg
     url: https://www.linkedin.com/in/kenneth-wang-854606258/
     email: kenny.l.wang@yale.edu
-    title: 2029
+    title: '2029'
 
   - name: Annie Ye
     photo: /photos/annie_ye_profile.jpg
     url: https://www.linkedin.com/in/annie-ye-3aa4b8280/
     email: annie.ye@yale.edu
-    title: 2028
+    title: '2028'
 
 post-doc-alumni:
   - name: David Chartash
@@ -304,6 +304,7 @@ undergrad-alumni:
 
   - name: Shayna Sragovicz
     photo: /photos/shayna_profile.jpg
+    url: https://www.linkedin.com/in/shayna-sragovicz-121051b5/
     title: Software Engineer
     location: Microsoft
 
