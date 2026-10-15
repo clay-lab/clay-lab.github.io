@@ -300,6 +300,7 @@ undergrad-alumni:
 
   - name: Rose Sloan
     photo: /photos/rose_profile.jpg
+    url: https://www.linkedin.com/in/rose-sloan-777b8a80/?isSelfProfile=false
     title: Assistant Professor
     location: Northeastern, CS
 
