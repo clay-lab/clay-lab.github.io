@@ -1,4 +1,10 @@
 papers:
+  - title: 'Examining form-based linguistic productivity in people and large language models'
+    authors: 'Michael Wilson and Robert Frank'
+    conference: '2026'
+    pdf: 'https://lingbuzz.net/lingbuzz/010463'
+    image: '/images/form-based-productivity.png'
+
   - title: 'The Structural Sources of Verb Meanings Revisited: Large Language Models Display Syntactic Bootstrapping'
     authors: 'Xiaomeng Zhu, R. Thomas McCoy and Robert Frank'
     conference: 'Open Mind, 2026'
