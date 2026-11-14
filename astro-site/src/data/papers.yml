@@ -1,4 +1,10 @@
 papers:
+  - title: 'Representation of syntax in LLMs through the lens of linear distance and similarity-aware entropy'
+    authors: 'Juan Pablo Vigneaux, Mary Kennedy, Khalil Iskarous, Robert Frank and Matilde Marcolli'
+    conference: 'To appear in Proceedings of the 20th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2027. Athens.'
+    pdf: 'https://arxiv.org/abs/2608.27813'
+    image: '/images/syntax-linear-distance-entropy.png'
+
   - title: 'Examining form-based linguistic productivity in people and large language models'
     authors: 'Michael Wilson and Robert Frank'
     conference: '2026'
